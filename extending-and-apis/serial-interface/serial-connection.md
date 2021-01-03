@@ -21,10 +21,10 @@ If ",","/" or ";" are used within the parameters, they have to be escaped by a l
 `10..49` Data Update Channels (both directions)
 
 # Commands
-* [Command: 0](command-0)
-* [Command: 1](command-1)
-* [Command: 2](command-2)
-* [Data Updates](command-data-updates)
+* [Command: 0](command-0.md)
+* [Command: 1](command-1.md)
+* [Command: 2](command-2.md)
+* [Data Updates](command-data-updates.md)
 
 
 
