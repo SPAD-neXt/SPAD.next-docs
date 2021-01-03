@@ -25,9 +25,9 @@ If ",","/" or ";" are used within the parameters, they have to be escaped by a l
 ## Commands
 
 * [Command: 0](command-0.md)
-* [Command: 1](https://github.com/c0nnex/SPAD.next-docs/tree/3d7ff617b724c2c2c2a1802509be5ba220982c08/extending-and-apis/serial-interface/command-1.md)
-* [Command: 2](https://github.com/c0nnex/SPAD.next-docs/tree/3d7ff617b724c2c2c2a1802509be5ba220982c08/extending-and-apis/serial-interface/command-2.md)
-* [Data Updates](https://github.com/c0nnex/SPAD.next-docs/tree/3d7ff617b724c2c2c2a1802509be5ba220982c08/extending-and-apis/serial-interface/command-data-updates.md)
+* [Command: 1](command-1.md)
+* [Command: 2](command-2.md)
+* [Data Updates](command-data-updates.md)
 
 
 
