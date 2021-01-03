@@ -189,7 +189,7 @@ When starting SPAD.neXt the first time, you are offered a Configuration Wizard. 
 
 We will guide you through the various Wizard windows now.
 
-![](../.gitbook/assets/6.jpeg)
+![](../.gitbook/assets/6%20%281%29.jpeg)
 
 Fig. 5 Configuration Wizard: Welcome screen
 
@@ -352,7 +352,7 @@ Whenever the disk symbol is red there are unsaved changes in a profile which you
 
 Changing to the LOCAL profiles the selected one should be in your list now.
 
-![](../.gitbook/assets/36.jpeg)
+![](../.gitbook/assets/36%20%281%29.jpeg)
 
 Fig. 19 The added A2A Cessna profile in the profiles list
 
@@ -574,7 +574,7 @@ Don't forget to "Save Changes" after modifying any configuration setting.
 
 After our rather sketchy treatment in Part A we will have a closer look upon working with profiles. We already described in Section 8 how to load an online profile, but there are more options.
 
-![](../.gitbook/assets/36%20%281%29.jpeg)
+![](../.gitbook/assets/36%20%281%29%20%281%29.jpeg)
 
 Fig. 35 Once more on profiles
 
@@ -788,7 +788,7 @@ In my eyes, one of the biggest advantages of SPAD.neXt is its ability to support
 
 When installing SPAD.neXt on a Client, select the lower checkbox in the opening window of the Configuration Wizard \(Fig. 38 cf. the former Fig. 1\).
 
-![](../.gitbook/assets/6%20%281%29.jpeg)
+![](../.gitbook/assets/6%20%281%29%20%281%29.jpeg)
 
 Fig. 49 The Configuration Wizard initial screen
 

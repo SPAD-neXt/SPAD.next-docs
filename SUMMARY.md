@@ -38,7 +38,7 @@
 
 ## Extending and API's
 
-* [C# Scripting Interface](extending-and-apis/scripting-interface/README.md)
+* [C\# Scripting Interface](extending-and-apis/scripting-interface.md)
 * [Serial Interface](extending-and-apis/serial-connection/README.md)
   * [Command: 0](extending-and-apis/serial-connection/command-0.md)
   * [Command: 1](extending-and-apis/serial-connection/command-1.md)
@@ -55,4 +55,8 @@
 
 * [Old-Getting-Started-Guide](old-docs/old-getting-started-guide.md)
 * [Untitled](old-docs/untitled.md)
+
+---
+
+* [Glossar](glossar.md)
 
