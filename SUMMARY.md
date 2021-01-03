@@ -42,6 +42,7 @@
   * [Command: 0](extending-and-apis/serial-connection/command-0.md)
   * [Command: 1](extending-and-apis/serial-connection/command-1.md)
   * [Command: 2](extending-and-apis/serial-connection/command-2.md)
+  * [Command: 4](extending-and-apis/serial-connection/command-4.md)
   * [Data Updates](extending-and-apis/serial-connection/command-data-updates.md)
 * [Untitled](extending-and-apis/untitled.md)
 
