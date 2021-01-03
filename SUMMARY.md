@@ -38,6 +38,7 @@
 
 ## Extending and API's
 
+* [Serial Interface](extending-and-apis/serial-interface/serial-connection.md)
 * [Untitled](extending-and-apis/untitled.md)
 
 ## FAQ
