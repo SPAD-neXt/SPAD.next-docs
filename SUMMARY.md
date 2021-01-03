@@ -39,6 +39,10 @@
 ## Extending and API's
 
 * [Serial Interface](extending-and-apis/serial-interface/serial-connection.md)
+  * [Command: 0](extending-and-apis/serial-interface/command-0.md)
+  * [Command: 1](extending-and-apis/serial-interface/command-1.md)
+  * [Command: 2](extending-and-apis/serial-interface/command-2.md)
+  * [Data Updates](extending-and-apis/serial-interface/command-data-updates.md)
 * [Untitled](extending-and-apis/untitled.md)
 
 ## FAQ
