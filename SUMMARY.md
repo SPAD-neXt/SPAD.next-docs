@@ -51,12 +51,12 @@
 
 * [Untitled](faq/untitled.md)
 
+---
+
+* [Glossar](glossar.md)
+
 ## Old-Docs
 
 * [Old-Getting-Started-Guide](old-docs/old-getting-started-guide.md)
 * [Untitled](old-docs/untitled.md)
-
----
-
-* [Glossar](glossar.md)
 
