@@ -31,6 +31,7 @@
 ## Features
 
 * [Untitled](features/untitled.md)
+* [Tuner Acceleration](features/tuner-acceleration.md)
 
 ## Event programming
 
