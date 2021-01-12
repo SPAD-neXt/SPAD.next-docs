@@ -8,7 +8,8 @@ description: WORK IN PRORESS
 
 \(c\) Ulrich Strauss [https://www.spadnext.com](https://www.spadnext.com)
 
-{% embed url="https://docs.spadnext.com" %}
+[https://docs.spadnext.com](https://docs.spadnext.com)
+
 
 
 
