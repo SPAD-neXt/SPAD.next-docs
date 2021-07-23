@@ -41,5 +41,7 @@ It also includes other general purpose ones.
 |  |  |  |  |  |
 ```
 
-
+| Name | Description | Usage | Result |
+| :--- | :--- | :--- | :--- |
+| **Abs** | Returns the absolute value of a specified number. | Abs\(-1\) | 1 |
 
