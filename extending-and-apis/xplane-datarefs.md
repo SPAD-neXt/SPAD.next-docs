@@ -41,7 +41,7 @@ sim/cockpit2/radios/actuators/com1_power	int	y	boolean	Com radio 1 off or on, 0 
 dataref = name of the dataref e.g. sim/cockpit2/radios/actuators/com1\_power  
 type = Type of the dataref typically "float" or "int". For dataref arrays add the size of the array e.g. "int\[12\]"  
 writable = "y" or "n" if teh dataref is writable or readonly  
-unit = the unit that dataref is in. This is used as a hint for SPAD.neXt to offer convertions to the user
+unit = the unit that dataref is in. This is used as a hint for SPAD.neXt to offer conversions to the user
 
 Limits:   
 \* arrays are limited to 20 for performance reasons.  
