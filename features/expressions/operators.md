@@ -1,59 +1,48 @@
 # Operators
 
-Expressions can be combined using operators. Each operator as a precedence priority. Here is the list of those expression's priority.
-# primary
-# unary
-# power
-# multiplicative
-# additive
-# relational 
-# logical
 
-## Logical
+
+
+
+## Operators
+
+Expressions can be combined using operators. Each operator as a precedence priority. Here is the list of those expression's priority.
+
+### Logical
 
 These operators can do some logical comparison between other expressions:
-* or, ||
+
+* or, \|\|
 * and, &&
 
-{{
-  true or false and true
-}}
-The **and** operator has more prioroty thand the **or**, thus in the example above, **false and true** is evaluated first.
+ The **and** operator has more prioroty thand the **or**, thus in the example above, **false and true** is evaluated first.
 
-## Relational
-* =, ==, !=, <>
-* <, <=, >, >=
+### Relational
 
-{{
-  1 < 2
-}}
-## Additive
+* =, ==, !=, &lt;&gt;
+* &lt;, &lt;=, &gt;, &gt;=
+
+### Additive
+
 * +, -
 
-{{
-  1 + 2 - 3
-}}
-## Multiplicative
-* {"*"}, /, %
+### Multiplicative
 
-{{
- 1 * 2 % 3
-}}
-## Bitwise
-* & (bitwise and), | (bitwise or), ^(bitwise xor), << (left shift), >>(right shift)
-{{
-  2 >> 3
-}}
-## Unary
-* !, not, -, ~ (bitwise not)
+* \*, /, %
 
-{{
-  not true
-}}
-## Primary
-* (, )
-* [values](values)
+### Bitwise
 
-{{
-  2 * ( 3 + 2 )
-}}
+* & \(bitwise and\), \| \(bitwise or\), ^\(bitwise xor\), &lt;&lt; \(left shift\), &gt;&gt;\(right shift\)
+
+  > 2 &gt;&gt; 3
+
+  **Unary**
+
+* !, not, -, ~ \(bitwise not\)
+
+### Primary
+
+* \(, \)
+
+$$2 * ( 3 +2)$$
+
