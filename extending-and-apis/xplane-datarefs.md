@@ -47,3 +47,5 @@ Limits:
 \* arrays are limited to 20 for performance reasons.  
 \* if a dataref is not yet known to X-Plane when the plane is loaded, the SPAD.neXt plugin will retry to find it regulary and announce it to SPAD.neXt
 
+Both files will be read by the X-Plane plugin when the aircraft is loaded.
+
