@@ -35,6 +35,7 @@ Format:
 
 ```text
 dataref[TAB]type[TAB]writeable[TAB]unit[TAB]Description(optional)
+sim/cockpit2/radios/actuators/com1_power	int	y	boolean	Com radio 1 off or on, 0 or 1.
 ```
 
 dataref = name of the dataref e.g. sim/cockpit2/radios/actuators/com1\_power  
