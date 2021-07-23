@@ -1,12 +1,10 @@
 ---
-description: >-
-  All Videos are curtesy of Les O'Reilly
-  (https://www.youtube.com/channel/UCL5U40EKkvjXF5PA24_IyKA)
+description: All Videos are curtesy of Les O'Reilly
 ---
 
 # Videos: New User Series
 
-
+All Videos are curtesy of [Les O'Reilly](https://www.youtube.com/channel/UCL5U40EKkvjXF5PA24_IyKA)
 
 {% embed url="https://youtu.be/-tTl33LGAH0" caption="New to SPAD.neXt then Start here with getting a quick run through the UI" %}
 
