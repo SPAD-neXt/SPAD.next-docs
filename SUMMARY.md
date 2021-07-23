@@ -24,6 +24,11 @@
 
 * [Untitled](user-interface/untitled.md)
 
+---
+
+* [Guides and Videos](guides-and-videos/README.md)
+  * [Videos: New User Series](guides-and-videos/videos-new-user-series.md)
+
 ## General concepts
 
 * [Untitled](general-concepts/untitled.md)
