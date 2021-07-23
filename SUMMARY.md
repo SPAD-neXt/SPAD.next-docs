@@ -32,7 +32,8 @@
 
 * [t1](features/t1/README.md)
   * [Untit2tled](features/t1/untit2tled.md)
-* [Untitled](features/untitled.md)
+* [Expressions](features/expressions/README.md)
+  * [index](features/expressions/functions.md)
 * [Tuner Acceleration](features/tuner-acceleration.md)
 
 ## Event programming
