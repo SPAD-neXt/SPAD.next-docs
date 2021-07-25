@@ -14,11 +14,13 @@ The 2nd installment in the New User... what next segments. Profiles.... Let's ma
 
 3rd Installment is all about understanding Button and Switch modes for Joysticks.... Before we even start to assign them we need to think about the best way to configure the hardware use... Hidden Gem for sure!
 
-{% embed url="https://youtu.be/m-XUUa9ZoMQ" caption="" %}
+{% embed url="https://youtu.be/m-XUUa9ZoMQ" caption="Buttons / Switches and the Modes" %}
 
 4th Installment is about Axis ... When putting them in Spad is better ![:slight\_smile:](https://discord.com/assets/da3651e59d6006dfa5fa07ec3102d1f3.svg) always... But also what is the difference between Standard and Custom Axis along with how to use the features in the Custom Axis..
 
-{% embed url="https://youtu.be/9u--vZpV1iA" caption="" %}
+{% embed url="https://youtu.be/9u--vZpV1iA" caption="Standard and Custom Axis...  When to use which?" %}
 
-test
+
+
+
 
