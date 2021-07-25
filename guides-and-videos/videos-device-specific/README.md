@@ -1,2 +1,2 @@
-# Videos: Device Specific
+# Device Specific
 

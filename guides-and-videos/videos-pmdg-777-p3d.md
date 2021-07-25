@@ -1,4 +1,4 @@
-# Videos: PMDG 777 \(P3D\)
+# PMDG 777 \(P3D\)
 
 {% embed url="https://youtu.be/KkqRDhBbr9U" %}
 

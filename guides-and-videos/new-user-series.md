@@ -2,7 +2,7 @@
 description: All Videos are curtesy of Les O'Reilly
 ---
 
-# Videos: New User Series
+# New User Series
 
 All Videos are curtesy of [Les O'Reilly](https://www.youtube.com/channel/UCL5U40EKkvjXF5PA24_IyKA)
 
