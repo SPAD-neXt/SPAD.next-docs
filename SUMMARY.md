@@ -28,6 +28,7 @@
 
 * [Guides and Videos](guides-and-videos/README.md)
   * [Videos: New User Series](guides-and-videos/videos-new-user-series.md)
+  * [Videos: LVars HEvents](guides-and-videos/videos-lvar-hevents.md)
   * [Videos: Device Specific](guides-and-videos/videos-device-specific/README.md)
     * [RealSimGear](guides-and-videos/videos-device-specific/realsimgear.md)
     * [Thrustmaster TCA-Q + Addon](guides-and-videos/videos-device-specific/thrustmaster-tca-q-+-addon.md)
