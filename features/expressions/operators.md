@@ -15,11 +15,11 @@ These operators can do some logical comparison between other expressions:
 * or, \|\|
 * and, &&
 
- The **and** operator has more prioroty thand the **or**, thus in the example above, **false and true** is evaluated first.
+ The **and** operator has more priority than the **or**, thus in the example above, **false and true** is evaluated first.
 
 ### Relational
 
-* =, ==, !=, &lt;&gt;
+* =, ==, !=, &lt;, &gt;
 * &lt;, &lt;=, &gt;, &gt;=
 
 ### Additive
