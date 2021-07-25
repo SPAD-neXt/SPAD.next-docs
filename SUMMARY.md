@@ -27,7 +27,6 @@
 ---
 
 * [Guides and Videos](guides-and-videos/README.md)
-  * [Videos: PMDG 777 \(P3D\)](guides-and-videos/videos-pmdg-777-p3d.md)
   * [Videos: New User Series](guides-and-videos/videos-new-user-series.md)
   * [Videos: L:Vars and H:Events](guides-and-videos/videos-lvar-hevents.md)
   * [Videos: Device Specific](guides-and-videos/videos-device-specific/README.md)
@@ -41,6 +40,7 @@
     * [Virtual Avionics](guides-and-videos/videos-device-specific/virtual-avionics.md)
     * [vJoy](guides-and-videos/videos-device-specific/vjoy.md)
     * [VRinsight](guides-and-videos/videos-device-specific/videos-vrinsight.md)
+  * [Videos: PMDG 777 \(P3D\)](guides-and-videos/videos-pmdg-777-p3d.md)
 
 ## General concepts
 
