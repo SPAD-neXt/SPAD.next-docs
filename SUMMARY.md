@@ -34,6 +34,7 @@
     * [RealSimGear](guides-and-videos/videos-device-specific/realsimgear/README.md)
       * [Saitek/Logitech](guides-and-videos/videos-device-specific/realsimgear/saitek-logitech.md)
     * [Thrustmaster TCA-Q + Addon](guides-and-videos/videos-device-specific/thrustmaster-tca-q-+-addon.md)
+    * [Virtual Avionics](guides-and-videos/videos-device-specific/virtual-avionics.md)
     * [VRinsight](guides-and-videos/videos-device-specific/videos-vrinsight.md)
 
 ## General concepts
