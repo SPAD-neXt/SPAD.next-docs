@@ -1,4 +1,4 @@
-# Videos: LVars HEvents
+# Videos: L:Vars and H:Events
 
 {% embed url="https://youtu.be/KC035N09VEs" %}
 
