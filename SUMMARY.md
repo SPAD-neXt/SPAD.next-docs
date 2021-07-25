@@ -32,6 +32,7 @@
   * [Videos: Device Specific](guides-and-videos/videos-device-specific/README.md)
     * [Arduino / SPAD Serial](guides-and-videos/videos-device-specific/arduino-spad-serial.md)
     * [Honeycomb](guides-and-videos/videos-device-specific/honeycomb.md)
+    * [Joystick \(Generic HID\)](guides-and-videos/videos-device-specific/joystick-generic-hid.md)
     * [RealSimGear](guides-and-videos/videos-device-specific/realsimgear/README.md)
       * [Saitek/Logitech](guides-and-videos/videos-device-specific/realsimgear/saitek-logitech.md)
     * [Thrustmaster TCA-Q + Addon](guides-and-videos/videos-device-specific/thrustmaster-tca-q-+-addon.md)
