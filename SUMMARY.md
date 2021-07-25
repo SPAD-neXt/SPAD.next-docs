@@ -40,7 +40,8 @@
     * [Virtual Avionics](guides-and-videos/videos-device-specific/virtual-avionics.md)
     * [vJoy](guides-and-videos/videos-device-specific/vjoy.md)
     * [VRinsight](guides-and-videos/videos-device-specific/videos-vrinsight.md)
-  * [PMDG 777 \(P3D\)](guides-and-videos/videos-pmdg-777-p3d.md)
+  * [Simulation Specific](guides-and-videos/simulation-specific/README.md)
+    * [PMDG 777 \(P3D\)](guides-and-videos/simulation-specific/videos-pmdg-777-p3d.md)
 
 ## General concepts
 
