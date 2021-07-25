@@ -27,14 +27,14 @@
 ---
 
 * [Guides and Videos](guides-and-videos/README.md)
-  * [Videos: VRinsight](guides-and-videos/videos-vrinsight.md)
   * [Videos: New User Series](guides-and-videos/videos-new-user-series.md)
   * [Videos: L:Vars and H:Events](guides-and-videos/videos-lvar-hevents.md)
   * [Videos: Device Specific](guides-and-videos/videos-device-specific/README.md)
     * [Honeycomb](guides-and-videos/videos-device-specific/honeycomb.md)
-    * [Saitek/Logitech](guides-and-videos/videos-device-specific/saitek-logitech.md)
-    * [RealSimGear](guides-and-videos/videos-device-specific/realsimgear.md)
+    * [RealSimGear](guides-and-videos/videos-device-specific/realsimgear/README.md)
+      * [Saitek/Logitech](guides-and-videos/videos-device-specific/realsimgear/saitek-logitech.md)
     * [Thrustmaster TCA-Q + Addon](guides-and-videos/videos-device-specific/thrustmaster-tca-q-+-addon.md)
+    * [VRinsight](guides-and-videos/videos-device-specific/videos-vrinsight.md)
 
 ## General concepts
 
