@@ -30,6 +30,7 @@
   * [Videos: New User Series](guides-and-videos/videos-new-user-series.md)
   * [Videos: L:Vars and H:Events](guides-and-videos/videos-lvar-hevents.md)
   * [Videos: Device Specific](guides-and-videos/videos-device-specific/README.md)
+    * [vJoy](guides-and-videos/videos-device-specific/vjoy.md)
     * [Arduino / SPAD Serial](guides-and-videos/videos-device-specific/arduino-spad-serial.md)
     * [Honeycomb](guides-and-videos/videos-device-specific/honeycomb.md)
     * [Joystick \(Generic HID\)](guides-and-videos/videos-device-specific/joystick-generic-hid.md)
