@@ -27,6 +27,7 @@
 ---
 
 * [Guides and Videos](guides-and-videos/README.md)
+  * [Videos: VRinsight](guides-and-videos/videos-vrinsight.md)
   * [Videos: New User Series](guides-and-videos/videos-new-user-series.md)
   * [Videos: L:Vars and H:Events](guides-and-videos/videos-lvar-hevents.md)
   * [Videos: Device Specific](guides-and-videos/videos-device-specific/README.md)
