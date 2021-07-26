@@ -13,7 +13,7 @@
 * [System Requirements](getting-started/system-requirements.md)
 * [Supported hardware](getting-started/supported-hardware/README.md)
   * [Saitek FIP \(Flight Instrument Panel\)](getting-started/supported-hardware/saitek-fip/README.md)
-    * [Saitek FIP: Function Check](getting-started/supported-hardware/saitek-fip/saitek-fip-function-check.md)
+    * [Saitek FIP: Driver & Function Check](getting-started/supported-hardware/saitek-fip/saitek-fip-function-check.md)
   * [Common Issues](getting-started/supported-hardware/common-issues.md)
 * [Installation](getting-started/untitled/README.md)
   * [Simulation Specifc Steps](getting-started/untitled/simulation-specifc-steps/README.md)
