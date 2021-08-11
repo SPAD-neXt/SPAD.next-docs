@@ -42,6 +42,7 @@
     * [vJoy](guides-and-videos/videos-device-specific/vjoy.md)
     * [VRinsight](guides-and-videos/videos-device-specific/videos-vrinsight.md)
   * [Simulation Specific](guides-and-videos/simulation-specific/README.md)
+    * [Working Title CJ4 \(MSFS\)](guides-and-videos/simulation-specific/working-title-cj4-msfs.md)
     * [AS CRJ 550/700 \(MSFS\)](guides-and-videos/simulation-specific/as-crj-550-700-msfs.md)
     * [PMDG 777 \(P3D\)](guides-and-videos/simulation-specific/videos-pmdg-777-p3d.md)
 
