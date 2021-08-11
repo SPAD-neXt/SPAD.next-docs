@@ -20,6 +20,12 @@ The 2nd installment in the New User... what next segments. Profiles.... Let's ma
 
 {% embed url="https://youtu.be/9u--vZpV1iA" caption="Standard and Custom Axis...  When to use which?" %}
 
+5th Installment is all about "clean up"...  Connecting the Logitech/Saitek Panels in SPAD.neXt usually means that there is some software to remove and some power management to deal with.  Follow these steps before we move on to pulling in configurations for devices.
+
+{% embed url="https://youtu.be/emXzB3Mabkg" caption="Step 5: Connecting Logitech/Saitek Panels" %}
+
+
+
 
 
 
