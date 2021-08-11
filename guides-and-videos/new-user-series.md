@@ -24,9 +24,9 @@ The 2nd installment in the New User... what next segments. Profiles.... Let's ma
 
 {% embed url="https://youtu.be/emXzB3Mabkg" caption="Step 5: Connecting Logitech/Saitek Panels" %}
 
+6th Installment we take a Multi panel from Zero to Hero in the first 5 Minutes!  How to easily download the configuration you need from the "ONLINE SNIPPET" Database.  This one we use the Example of the WT CJ4 and after the first 5 minutes we break down the configuration and assignments!
 
-
-
+{% embed url="https://youtu.be/7UuBUaflemI" caption="Step 6: Download a Device Snippet for the Multi Panel + Learn about the WT CJ4 example!" %}
 
 
 
