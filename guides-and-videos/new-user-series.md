@@ -28,5 +28,9 @@ The 2nd installment in the New User... what next segments. Profiles.... Let's ma
 
 {% embed url="https://youtu.be/7UuBUaflemI" caption="Step 6: Download a Device Snippet for the Multi Panel + Learn about the WT CJ4 example!" %}
 
+7th episode we do a Quick one on selecting a configuration from the online snippet database!
+
+{% embed url="https://youtu.be/\_WJd5-QAUZE" caption="Get a Radio Panel up and Running in less than 2 Minutes!" %}
+
 
 
