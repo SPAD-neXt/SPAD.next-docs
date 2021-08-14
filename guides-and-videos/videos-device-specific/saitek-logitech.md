@@ -12,5 +12,7 @@ Looking to get started with Saitek / Logitech Panels?  Well first thing to do is
 
 {% embed url="https://youtu.be/7UuBUaflemI" caption="Working Title CJ4 Configuration Download and Assignments walk through" %}
 
+{% embed url="https://youtu.be/FStdEJ\_BXCQ" caption="Advanced Radio Panel Configuration Walk Through... Works with VATSIM!!" %}
+
 
 
