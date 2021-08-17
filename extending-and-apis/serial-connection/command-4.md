@@ -9,3 +9,5 @@ Reply: none
 
 SIMCONNECT: Events/Commands will be automatically transcribed to the according connected Simulation \(e.g. XPLANE\)
 
+MSFS / H:Events: e.g.    MSFS:AS1000\_MFD\_DIRECTTO
+
