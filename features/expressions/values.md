@@ -88,7 +88,7 @@ A function is made of a name followed by braces, containing optionally any value
 
 Please read the [functions](functions.md) page for details.
 
-### Simultion Data
+### Simulation Data
 
 ```text
   2 + [x]
