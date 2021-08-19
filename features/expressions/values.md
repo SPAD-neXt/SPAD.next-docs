@@ -76,6 +76,8 @@ Any character between single quotes "**'**" are evaluated as **String**.
 
 You can escape special characters using **\**, **\'**, **\n**, **\r**, **\t**.
 
+To enter special characters \(e.g. a degree symbol\) you can either hold the Alt-Key and enter the asciicode \([https://theasciicode.com.ar/extended-ascii-code/degree-symbol-ascii-code-248.html](https://theasciicode.com.ar/extended-ascii-code/degree-symbol-ascii-code-248.html)\) via the numpad \(degree = Alt 248\) or add the unicode representation \u00B0 \(unicode for degree symbol\)
+
 ### Function
 
 A function is made of a name followed by braces, containing optionally any value as arguments.
