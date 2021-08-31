@@ -6,6 +6,8 @@
 
 
 
+{% embed url="https://youtu.be/GBaOCHAn-7I" caption="Bravo First Setup Config.  Twin Prop GA in the Baron! Bonus Alpha Snippet!" %}
+
 
 
 
