@@ -14,5 +14,9 @@ Looking to get started with Saitek / Logitech Panels?  Well first thing to do is
 
 {% embed url="https://youtu.be/FStdEJ\_BXCQ" caption="Advanced Radio Panel Configuration Walk Through... Works with VATSIM!!" %}
 
+{% embed url="https://youtu.be/-4sYKTnUDlc" caption="Saitek MultiPanel and the G1000 NXi from WT" %}
+
+
+
 
 
