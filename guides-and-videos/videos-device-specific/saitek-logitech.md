@@ -16,6 +16,8 @@ Looking to get started with Saitek / Logitech Panels?  Well first thing to do is
 
 {% embed url="https://youtu.be/-4sYKTnUDlc" caption="Saitek MultiPanel and the G1000 NXi from WT" %}
 
+{% embed url="https://youtu.be/JC6qfUrr1tE" caption="Re-Purpose the Radio Knob on the DME Selector for the NXi PFD FMS Knob!" %}
+
 
 
 
