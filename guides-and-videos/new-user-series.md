@@ -32,5 +32,11 @@ The 2nd installment in the New User... what next segments. Profiles.... Let's ma
 
 {% embed url="https://youtu.be/\_WJd5-QAUZE" caption="Get a Radio Panel up and Running in less than 2 Minutes!" %}
 
+8th episode we go into the Switch Panel Configuration...  Download a panel for the C172 and then we walk through the "HOW" we figure out the events.  This is done by leveraging the Event Monitor which allows us to interact in the cockpit and see what events that is setting off in the sim!!
+
+{% embed url="https://youtu.be/Tv\_kSQ7rjg0" caption="Setup the Logitech Switch Panel and Learn about the Event Monitor!" %}
+
+
+
 
 
