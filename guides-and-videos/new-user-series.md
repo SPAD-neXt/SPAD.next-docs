@@ -36,6 +36,12 @@ The 2nd installment in the New User... what next segments. Profiles.... Let's ma
 
 {% embed url="https://youtu.be/Tv\_kSQ7rjg0" caption="Setup the Logitech Switch Panel and Learn about the Event Monitor!" %}
 
+Advanced Planes are going to Need the L:Var and H:Event Bridge...  So this is how to add it so you can access it :\)
+
+{% embed url="https://youtu.be/UHeECsbE6Ew" caption="You will need this for Complex Planes and HTML/JS Access" %}
+
+
+
 
 
 
