@@ -9,7 +9,11 @@ The H:Event is the new JS/HTML Gauge Events found in MSFS which also replaced ma
 If you are interested in understanding all of the different data types the SDK docs are valuable source of info.  [https://docs.flightsimulator.com/html/index.htm\#t=Additional\_Information%2FReverse\_Polish\_Notation.htm%23Types](https://docs.flightsimulator.com/html/index.htm#t=Additional_Information%2FReverse_Polish_Notation.htm%23Types)  
 
 
-{% embed url="https://youtu.be/KC035N09VEs" caption="Installing the Bridge \(MSFS and P3D\)" %}
+{% embed url="https://youtu.be/UHeECsbE6Ew" caption="Install the L:Var and H:Event WASM Bridge" %}
+
+
+
+
 
 {% embed url="https://youtu.be/hSO2RkXNOvI" caption="Getting Started with L:Vars using the CRJ" %}
 
