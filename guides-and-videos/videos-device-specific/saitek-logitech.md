@@ -18,6 +18,8 @@ Looking to get started with Saitek / Logitech Panels?  Well first thing to do is
 
 {% embed url="https://youtu.be/JC6qfUrr1tE" caption="Re-Purpose the Radio Knob on the DME Selector for the NXi PFD FMS Knob!" %}
 
+{% embed url="https://youtu.be/pljiNfKWDCE" caption="More Features added to the NXi == New Snippet Update to the MultiPanel!" %}
+
 
 
 
