@@ -8,5 +8,9 @@ Working Title has heavily modified the CJ4 and with that required introducing L:
 
 {% embed url="https://youtu.be/7UuBUaflemI" caption="Setting up the Multi Panel to Control the WT CJ4 Custom Auto Pilot" %}
 
+With the Switch Panel we will configure it so that we can perform a Full Cold and Dark Startup of the CJ4, We will also add some conditions to the Avionics so that we can go into Dispatch mode when the GENs are off or go into Full Mode when they are On!   the full electrics panel is mapped and so is the Left side of the Lights panel. 
+
+{% embed url="https://youtu.be/HG4AVdNIOE0" caption="Configure the Switch Panel for the WT CJ4 and do a Cold and Dark Startup!" %}
+
 
 
