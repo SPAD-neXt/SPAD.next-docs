@@ -22,5 +22,9 @@ Looking to get started with Saitek / Logitech Panels?  Well first thing to do is
 
 
 
+{% embed url="https://youtu.be/HG4AVdNIOE0" caption="WT CJ4 v12.7 Switch Panel Configuration with Cold and Dar Start Up!" %}
+
+
+
 
 
