@@ -12,5 +12,11 @@ With the Switch Panel we will configure it so that we can perform a Full Cold an
 
 {% embed url="https://youtu.be/HG4AVdNIOE0" caption="Configure the Switch Panel for the WT CJ4 and do a Cold and Dark Startup!" %}
 
+Take the CJ4 from Working Title v0.12.7 and configure the Logitech Multi Panel to have full control over the FCP \(auto pilot\).  Using the H:Events and L:Vars to have complete control over this really well done Plane!
+
+{% embed url="https://youtu.be/uFExuwvOrls" caption="Configure the Multi Panel for the WT CJ4 and Fly Fully Controlled Auto Pilot Modes!" %}
+
+
+
 
 
