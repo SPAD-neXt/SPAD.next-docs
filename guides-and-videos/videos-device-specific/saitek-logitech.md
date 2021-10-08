@@ -26,5 +26,9 @@ Looking to get started with Saitek / Logitech Panels?  Well first thing to do is
 
 
 
+{% embed url="https://youtu.be/uFExuwvOrls" caption="Configure the Multi Panel for the WT CJ4 and Fly Fully Controlled Auto Pilot Modes!" %}
+
+
+
 
 
