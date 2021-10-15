@@ -24,3 +24,8 @@ Now we move on to configure the Honeycomb Alpha and Bravo to take control of our
 Setup the Alpha and Bravo for the CJ4
 {% endembed %}
 
+The WT CJ4 implements some events that make it impossible to control the Nav Radio Frequency changes.  It intentionally over writes any changes made to the Active frequency.  With that in Mind we move ahead to configure the Radio Panel to also control the PFD Menu Knobs and the LWR Panel knobs for use with the MFD Lower Menu and the Charts control! 
+
+{% embed url="https://youtu.be/HbiStHi9l-o" %}
+Setup The Radio Panel with the CJ4 v0.12.7 and use the NAV Knobs to control the PFD and MFD Knobs
+{% endembed %}
