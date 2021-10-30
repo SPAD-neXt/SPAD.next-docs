@@ -12,7 +12,7 @@
 
 * [System Requirements](getting-started/system-requirements.md)
 * [Supported hardware](getting-started/supported-hardware/README.md)
-  * [Saitek FIP \(Flight Instrument Panel\)](getting-started/supported-hardware/saitek-fip/README.md)
+  * [Saitek FIP (Flight Instrument Panel)](getting-started/supported-hardware/saitek-fip/README.md)
     * [Saitek FIP: Driver & Function Check](getting-started/supported-hardware/saitek-fip/saitek-fip-function-check.md)
   * [Common Issues](getting-started/supported-hardware/common-issues.md)
 * [Installation](getting-started/untitled/README.md)
@@ -25,15 +25,16 @@
 
 * [Untitled](user-interface/untitled.md)
 
----
+***
 
 * [Guides and Videos](guides-and-videos/README.md)
   * [New User Series](guides-and-videos/new-user-series.md)
   * [L:Vars and H:Events](guides-and-videos/videos-lvar-hevents.md)
   * [Device Specific](guides-and-videos/videos-device-specific/README.md)
     * [Arduino / SPAD Serial](guides-and-videos/videos-device-specific/arduino-spad-serial.md)
+    * [Cockpit Master CDU](guides-and-videos/videos-device-specific/cockpit-master-cdu.md)
     * [Honeycomb](guides-and-videos/videos-device-specific/honeycomb.md)
-    * [Joystick \(Generic HID\)](guides-and-videos/videos-device-specific/joystick-generic-hid.md)
+    * [Joystick (Generic HID)](guides-and-videos/videos-device-specific/joystick-generic-hid.md)
     * [RealSimGear](guides-and-videos/videos-device-specific/realsimgear.md)
     * [Saitek/Logitech](guides-and-videos/videos-device-specific/saitek-logitech.md)
     * [Script Panel](guides-and-videos/videos-device-specific/script-panel.md)
@@ -42,10 +43,10 @@
     * [vJoy](guides-and-videos/videos-device-specific/vjoy.md)
     * [VRinsight](guides-and-videos/videos-device-specific/videos-vrinsight.md)
   * [Simulation Specific](guides-and-videos/simulation-specific/README.md)
-    * [AS CRJ 550/700 \(MSFS\)](guides-and-videos/simulation-specific/as-crj-550-700-msfs.md)
-    * [WT CJ4 \(MSFS\)](guides-and-videos/simulation-specific/working-title-cj4-msfs.md)
-    * [WT G1000 NXi \(MSFS\)](guides-and-videos/simulation-specific/wt-g1000-nxi-msfs.md)
-    * [PMDG 777 \(P3D\)](guides-and-videos/simulation-specific/videos-pmdg-777-p3d.md)
+    * [AS CRJ 550/700 (MSFS)](guides-and-videos/simulation-specific/as-crj-550-700-msfs.md)
+    * [WT CJ4 (MSFS)](guides-and-videos/simulation-specific/working-title-cj4-msfs.md)
+    * [WT G1000 NXi (MSFS)](guides-and-videos/simulation-specific/wt-g1000-nxi-msfs.md)
+    * [PMDG 777 (P3D)](guides-and-videos/simulation-specific/videos-pmdg-777-p3d.md)
 
 ## General concepts
 
@@ -66,7 +67,7 @@
 
 ## Extending and API's
 
-* [C\# Scripting Interface](extending-and-apis/scripting-interface.md)
+* [C# Scripting Interface](extending-and-apis/scripting-interface.md)
 * [Serial Interface](extending-and-apis/serial-connection/README.md)
   * [Command: 0](extending-and-apis/serial-connection/command-0.md)
   * [Command: 1](extending-and-apis/serial-connection/command-1.md)
@@ -79,7 +80,7 @@
 
 * [Untitled](faq/untitled.md)
 
----
+***
 
 * [Glossar](glossar.md)
 
@@ -87,4 +88,3 @@
 
 * [Old-Getting-Started-Guide](old-docs/old-getting-started-guide.md)
 * [Untitled](old-docs/untitled.md)
-
