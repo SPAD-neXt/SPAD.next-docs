@@ -10,3 +10,9 @@ First Look Video.  SPAD.neXt driving the Display and control of the Keys.  Follo
 Quick Look at the Cockpit Master CDU in MSFS with the CRJ!
 {% endembed %}
 
+Here we go with the Early Alpha Implementation and configuration..  This will probably be obsolete in the next week or two but for now it works great!!
+
+{% embed url="https://youtu.be/_XQGsQePGng" %}
+Configuration and Mapping CM CDU with CRJ L:VARs
+{% endembed %}
+
