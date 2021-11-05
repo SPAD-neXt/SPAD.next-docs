@@ -24,3 +24,9 @@ Step 4...  Onwards to the Radio Panel configuration!  Also since not all of the 
 Configuring the Logitech Radio Panel and Using Data Tricks with the Script Panel
 {% endembed %}
 
+Cockpit Master CDU configuration .. early Alpha implementation.
+
+{% embed url="https://youtu.be/_XQGsQePGng" %}
+AS CRJ early Alpha Implementation
+{% endembed %}
+
