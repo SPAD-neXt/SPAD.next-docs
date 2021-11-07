@@ -10,6 +10,8 @@ All Videos are curtesy of [Les O'Reilly](https://www.youtube.com/channel/UCL5U40
 New to SPAD.neXt then Start here with getting a quick run through the UI
 {% endembed %}
 
+Advanced Planes are going to Need the L:Var and H:Event Bridge...  So this is how to add it so you can access it :)
+
 {% embed url="https://youtu.be/UHeECsbE6Ew" %}
 You will need this for Complex Planes and HTML/JS Access
 {% endembed %}
@@ -56,9 +58,11 @@ Get a Radio Panel up and Running in less than 2 Minutes!
 Setup the Logitech Switch Panel and Learn about the Event Monitor!
 {% endembed %}
 
-Advanced Planes are going to Need the L:Var and H:Event Bridge...  So this is how to add it so you can access it :)
+Installment 9 in the series focuses on working with the Data Monitor and how to use it monitor data changes from cockpit elements.  Additionally using it to change the data in the sim to see if that data will trigger events as well :)
 
-
+{% embed url="https://youtu.be/DgPO4D4pyCs" %}
+Use the Data Monitor to READ and WRITE Sim Variables
+{% endembed %}
 
 
 
