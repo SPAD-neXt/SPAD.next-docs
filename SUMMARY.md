@@ -89,6 +89,12 @@
     * [Command: 1,XML](extending-and-apis/serial-connection/serial-v2/command-1-xml.md)
     * [Command: 1,PROFILE](extending-and-apis/serial-connection/serial-v2/command-1-profile.md)
     * [Command: 1,OPTION](extending-and-apis/serial-connection/serial-v2/command-1-option.md)
+    * [Command 1,RAISE](extending-and-apis/serial-connection/serial-v2/command-1-raise.md)
+    * [Command 1,SWITCHPAGE](extending-and-apis/serial-connection/serial-v2/command-1-switchpage.md)
+    * [Command 1,GOTOPAGE](extending-and-apis/serial-connection/serial-v2/command-1-gotopage.md)
+    * [Event 2,DISPLAY](extending-and-apis/serial-connection/serial-v2/event-2-display.md)
+    * [Event 2,LED](extending-and-apis/serial-connection/serial-v2/event-2-led.md)
+    * [Event 2,PAGE](extending-and-apis/serial-connection/serial-v2/event-2-page.md)
 * [X-Plane Datarefs & Commands](extending-and-apis/xplane-datarefs.md)
 
 ## FAQ
