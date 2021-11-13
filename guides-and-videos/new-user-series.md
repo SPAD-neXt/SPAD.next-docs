@@ -64,5 +64,9 @@ Installment 9 in the series focuses on working with the Data Monitor and how to 
 Use the Data Monitor to READ and WRITE Sim Variables
 {% endembed %}
 
+Number 10 we go into the Event Monitor and walk through some examples in the TBM on how to figure out which events are send when buttons and switches are moved...  And how to use that to setup buttons and controls in a similar way!
 
+{% embed url="https://youtu.be/JPdnJ9Ui4ck" %}
+How to use the Event Monitor
+{% endembed %}
 
