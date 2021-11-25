@@ -1,4 +1,4 @@
-# AS CRJ 550/700 (MSFS)
+# AS CRJ 550/700/900/1000 (MSFS)
 
 Step 1...  You need to Get the L:VAR Bridge Installed... v0.9.11.5 Release and Newer do not require the Alpha or Beta Release!
 
@@ -28,5 +28,11 @@ Cockpit Master CDU configuration .. early Alpha implementation.
 
 {% embed url="https://youtu.be/_XQGsQePGng" %}
 AS CRJ early Alpha Implementation
+{% endembed %}
+
+Let's get our Alpha and Bravo Controls Fully Configured for use with the Aerosoft CRJ Series!!  Plus a bonus walk through the cockpit with each assignment then we do a Departure from CYYZ to put it through the paces!!
+
+{% embed url="https://youtu.be/E2DD97qel7Y" %}
+Aerosoft CRJ specific Configurations!
 {% endembed %}
 
