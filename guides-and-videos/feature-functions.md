@@ -12,3 +12,9 @@ Conditional Events and Local Variables are powerful for creating intelligent act
 Use a Local Variable and Multiple Conditions to create our own Encoder Acceleration!!
 {% endembed %}
 
+Condition Levers in the 208 and King Air were removed in SU6 ..  New Events were added in SU7 but they are not in the SDK currently... We will use vJoy to work around it :)
+
+{% embed url="https://youtu.be/xwdPurSOW1g" %}
+Condition Lever Binding using vJoy to bridge the gap
+{% endembed %}
+
