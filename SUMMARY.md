@@ -39,6 +39,7 @@
     * [RealSimGear](guides-and-videos/videos-device-specific/realsimgear.md)
     * [Saitek/Logitech](guides-and-videos/videos-device-specific/saitek-logitech.md)
     * [Script Panel](guides-and-videos/videos-device-specific/script-panel.md)
+    * [Stream Deck](guides-and-videos/videos-device-specific/stream-deck.md)
     * [Thrustmaster TCA-Q + Addon](guides-and-videos/videos-device-specific/thrustmaster-tca-q-+-addon.md)
     * [Virtual Avionics](guides-and-videos/videos-device-specific/virtual-avionics.md)
     * [vJoy](guides-and-videos/videos-device-specific/vjoy.md)

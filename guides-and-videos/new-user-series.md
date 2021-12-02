@@ -70,3 +70,9 @@ Number 10 we go into the Event Monitor and walk through some examples in the TBM
 How to use the Event Monitor
 {% endembed %}
 
+Installment 11 in the series moves on to the Stream Deck!  You do require the Complete Edition for the Stream Deck to function under SPAD.neXt but it is pretty impressive what you can do with it!!  In this video we set out to get it configured on the Elgato software side and then move into SPAD.neXt and walk through that setup.  Finally we pull in an amazing example from the online database that works with the WT CJ4!
+
+{% embed url="https://youtu.be/cegPkLjUvXE" %}
+Getting the Stream Deck up and running!! Plus grab a fantastic Snippet for the WT CJ4!
+{% endembed %}
+
