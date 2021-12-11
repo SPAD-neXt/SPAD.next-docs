@@ -18,3 +18,9 @@ Condition Levers in the 208 and King Air were removed in SU6 ..  New Events were
 Condition Lever Binding using vJoy to bridge the gap
 {% endembed %}
 
+How to Remove the Warning about Trim Percent and Replace those actions using Trim Position instead!  This video shows you how to do that and explain why this warning is now appearing.  Also great example using the Event Monitor and Data Monitor Features!! &#x20;
+
+{% embed url="https://youtu.be/3JMpCkdZPkY" %}
+Resolve Trim PCT Warning with Trim Position!
+{% endembed %}
+
