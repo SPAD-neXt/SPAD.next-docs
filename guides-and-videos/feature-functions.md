@@ -24,3 +24,9 @@ How to Remove the Warning about Trim Percent and Replace those actions using Tri
 Resolve Trim PCT Warning with Trim Position!
 {% endembed %}
 
+From time to time the SDK can be updated or other developers like Fly By Wire may add their own sim events that SPAD.neXt is not aware of yet.  In those situations you can leverage the Client Events Tab in the Menu to add in any of these events that are missing..
+
+{% embed url="https://youtu.be/Tw53OCbGvQg" %}
+Client Event Tab: Add Missing Sim Events to SPAD.neXt
+{% endembed %}
+
