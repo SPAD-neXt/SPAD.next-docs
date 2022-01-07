@@ -76,3 +76,9 @@ Installment 11 in the series moves on to the Stream Deck!  You do require the Co
 Getting the Stream Deck up and running!! Plus grab a fantastic Snippet for the WT CJ4!
 {% endembed %}
 
+Custom Axis are powerful and understanding the control parameters and how to use them is important!  With MSFS now using the \_EX1 extended axis there are planes that won't support or work when it is a "Standard" simconnect axis.  This video will explain the Advanced capabilities that you can achieve with ease in SPAD.neXt !!
+
+{% embed url="https://youtu.be/hjmiPx27sqs" %}
+Custom Axis Control Parameters Explained
+{% endembed %}
+
