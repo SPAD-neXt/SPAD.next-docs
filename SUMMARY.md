@@ -70,6 +70,7 @@
 
 ## Extending and API's
 
+* [Gauges and Extensions](extending-and-apis/gauges-and-extensions.md)
 * [C# Scripting Interface](extending-and-apis/scripting-interface.md)
 * [Serial Interface](extending-and-apis/serial-connection/README.md)
   * [Command: 0](extending-and-apis/serial-connection/command-0.md)
