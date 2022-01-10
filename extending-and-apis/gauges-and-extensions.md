@@ -23,16 +23,13 @@ To access any other Data than Simconnect (FSX / P3D / MSFS) use the Dataref-Tag 
 `RPN Expressions: (PROVIDER:DATREFNAME) or (PROVIDER:DATREFNAME,unit)`\
 `SPAD Expressions: [PROVIDER:DATREFNAME] or [PROVIDER:DATREFNAME,unit]`
 
-`If the requested unit does not match the datarefs default unit, spad will automatically convert it to the requested unit, if sucha  conversion is known`
+`If the requested unit does not match the datarefs default unit, SPAD.neXt will automatically convert it to the requested unit, if such a conversion is known`
 
 To access LVAR use the prefix **LVAR: (FSX/P3D/MSFS only)**\
 `(LVAR:AB_MCP_AP_ON, Number)`&#x20;
 
-To access FSUIPC Offsets use the Prefix **FSUIPC:**
-
-```
-(FSUIPC:0000:0AB2, Number)
-```
+To access FSUIPC Offsets use the Prefix **FSUIPC:**\
+****(FSUIPC:0000:0AB2, Number)
 
 You can copy a dataref from the data browser to you cilpboard, by selecting it and pressing CTRL-C or the OK Button.
 
