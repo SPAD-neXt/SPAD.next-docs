@@ -4,9 +4,9 @@ description: >-
   things here as well.
 ---
 
-# WT G1000 NXi \(MSFS\)
+# WT G1000 NXi (MSFS)
 
-{% embed url="https://youtu.be/pljiNfKWDCE" caption="NXi v0.7.1 Multi Panel Configuration and Snippet Download" %}
-
-
+{% embed url="https://youtu.be/pljiNfKWDCE" %}
+NXi v0.7.1 Multi Panel Configuration and Snippet Download
+{% endembed %}
 
