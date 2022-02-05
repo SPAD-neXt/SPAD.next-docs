@@ -55,3 +55,8 @@ Configure the Multi Panel for the WT CJ4 and Fly Fully Controlled Auto Pilot Mod
 {% embed url="https://youtu.be/HbiStHi9l-o" %}
 Setup the Radio Panel with the WT CJ4.  Use the Knobs to control the PFD and the MFD.
 {% endembed %}
+
+{% embed url="https://youtu.be/3es_awmNhRU" %}
+Logitech / Saitek BIP Panel Basics
+{% endembed %}
+
