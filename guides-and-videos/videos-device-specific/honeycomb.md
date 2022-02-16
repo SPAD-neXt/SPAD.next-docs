@@ -32,3 +32,7 @@ TBM 930 Config for the Bravo.  Full Control over the h Throttle with 2 Axis..
 Alpha and Bravo Config for the Aerosoft CRJ 550/700/900/1000
 {% endembed %}
 
+{% embed url="https://youtu.be/VhFcYrwiQl0" %}
+New Features and Capabilities for the Honeycomb Bravo
+{% endembed %}
+
