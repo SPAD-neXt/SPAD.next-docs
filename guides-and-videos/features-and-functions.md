@@ -4,7 +4,7 @@ description: >-
   or Functionality to leverage to complete our tasks
 ---
 
-# Feature / Functions
+# Features & Functions
 
 Conditional Events and Local Variables are powerful for creating intelligent actions.  We may want to have multiple things on a single Button or Encoder.  We can use conditions to allow them to figure out which event to send on that click!  In this Video we use Multiple Conditions and a Local Variable to create our own Acceleration Events!!
 
@@ -30,3 +30,8 @@ From time to time the SDK can be updated or other developers like Fly By Wire ma
 Client Event Tab: Add Missing Sim Events to SPAD.neXt
 {% endembed %}
 
+SPAD.neXt has a very useful Text to Speech Feature.  In this short Feature video we use it to setup button events and script events to have the Bravo and Multipanel tell us what their selectors are assigned to!
+
+{% embed url="https://youtu.be/v9cOmkwP1RE" %}
+Text to Speech: Devices Can Talk to you!
+{% endembed %}
