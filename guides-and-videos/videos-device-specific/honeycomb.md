@@ -36,3 +36,7 @@ Alpha and Bravo Config for the Aerosoft CRJ 550/700/900/1000
 New Features and Capabilities for the Honeycomb Bravo
 {% endembed %}
 
+{% embed url="https://youtu.be/kGBVRsow9uU" %}
+Setup All Axis, Switches and Annunciators for the SWS Kodaik
+{% endembed %}
+
