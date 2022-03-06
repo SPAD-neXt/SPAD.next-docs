@@ -24,7 +24,8 @@
 
 ## User Interface
 
-* [UI Familiarization](user-interface/untitled.md)
+* [UI Familiarization](user-interface/untitled/README.md)
+  * [Home Page](user-interface/untitled/home-page.md)
 
 ***
 
