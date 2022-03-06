@@ -25,8 +25,8 @@ Format: `1,ADD,<CMDID>,<path>,<valuetype>,<access>,<name>[,description];`
 | \<description> | optional description for the UI                                                                                                                                                                                                                                               |                                                    |
 
 Within SPAD.neXt the data will be available in Serial->Devicename. \
-Internally the Data is referenced as `SERIAL:<DeviceGUID>/<path>` \
-e.g. `SERIAL:{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729}/buttons/button1`\
+Internally the Data is referenced as `<DeviceGUID>:<path>` \
+e.g. `{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729}:buttons/button1`\
 ``\
 `Example:`\
 `1,ADD,11,buttons//button1,Activate Function,My cool description;`
@@ -49,7 +49,7 @@ Example\
 1,SUBSCRIBE,12,XPLANE:sim//cockpit//autopilot//heading\_mag,,5
 
 {% hint style="info" %}
-You can get the internal name of a data value, by selecting it in teh data browser or clicking on "book"-icon in the data monitor. It will be copied to teh clipboard
+You can get the internal name of a data value, by selecting it in the data browser and pressing `CTRL-C` or clicking on "book"-icon in the data monitor. It will be copied to the clipboard
 {% endhint %}
 
 ## SUBCOMMAND: `UNSUBSCRIBE`
@@ -71,52 +71,42 @@ The TARGET\_SWITCH will be the "BOUNDTO" and the TARGET\_EVENT the "Trigger"
 
 Alternatively you can get a list of all devices and events at Settings->Application->Expert->Available Remote Events
 
-## SUBCOMMAND: INPUT
-
-See the dedicated pages about defining physical device inputs (buttons/encoders/switches/axis)
-
-## SUBCOMMAND: OUTPUT
-
-See the dedicated pages about defining device outputs (lec/display)
-
 ## SUBCOMMAND: XML
 
-1,XML,\<allowlocal>,\<sourcetype>,\<sourcename>\[,\<sourcedata>]
+1,XML,\<sourcetype>,\<sourcename>\[,\<sourcedata>]
 
 Instructs SPAD.neXt to get the device configuration as an XML from another source instead of configuring the device upon connect, to save device data space.
-
-\<allowlocal> \
-0 not allowing local files \
-1 allowing local files for anyone\
-2 allowing local files only for the author
 
 \<sourename> contains the name device xml the author/you has published using the SPAD.neXt device designer.\
 \<sourcetype> defines where SPAD.neXt will look for the device xml
 
+{% hint style="info" %}
+the ALLOWLOCAL option (see OPTIONS) controls where SPAD will look for the xml\
+
+{% endhint %}
+
 ### Sourcetype: SPAD
 
-e.g.: 1,XML,1,SPAD,device.xml;
-
-{% hint style="info" %}
-the \<allowlocal> parameter controls where SPAD will look for the xml:\
-0 only in SPAD database\
-1 check a lcoal file first then SPAD database\
-2 check a lcoal file first then SPAD database, If you are the author (see TODO AUTHORPAGE) of the device&#x20;
-{% endhint %}
+e.g.: 1,XML,SPAD,device.xml;
 
 ### Sourcetype: URL
 
 \<sourcedata> contains the url of the xml to download. Only XML-is supported. If URL is not available/online no UI will be shown\
-e.g.: 1,XML,0,URL,https://pastebin.com/zweWrQ
+e.g.: 1,XML,URL,https://pastebin.com/zweWrQ
 
 ## SUBCOMMAND: IMAGE
 
-1,IMAGE,\<allowlocal>,\<sourcetype>,\<sourcename>\[,sourcedata]
+1,IMAGE,\<sourcetype>,\<sourcename>\[,sourcedata]
 
 Defines a custom image for the device UI.\
 \[sourcedata] contains optional the **Base64**-encoded image-data
 
 {% hint style="info" %}
+the ALLOWLOCAL option (see OPTIONS) controls where SPAD will look for image\
+
+{% endhint %}
+
+{% hint style="warning" %}
 #### Restrictions:
 
 ImageSize must not exceed 640x480 pixel

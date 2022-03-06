@@ -37,7 +37,7 @@ For a SPAD.neXt compatible Arduino library import CmdMessenger (4.0) into the Ar
 ## Commands
 
 * [Command: 0](command-0.md)
-* [Command: 1](command-1.md)
+* [Command: 1](command-1/)
 * [Command: 2](command-2.md)
 * [Data Updates](command-data-updates.md)
 
