@@ -26,6 +26,7 @@
 
 * [UI Familiarization](user-interface/untitled/README.md)
   * [Home Page](user-interface/untitled/home-page.md)
+  * [Profiles Page](user-interface/untitled/profiles-page.md)
 
 ***
 
