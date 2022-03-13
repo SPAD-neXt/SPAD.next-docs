@@ -64,7 +64,7 @@ Moving on to the next Action item "Aircraft Assignments" in Fig 11 we see that t
 
 "Device Assignments" (Fig 12) is an action item which also has the quick navigation and does not required editing the Profile to bring up the dialog editor.
 
-![](<../../.gitbook/assets/image (5).png>)Fig 12
+![](<../../.gitbook/assets/image (5) (1).png>)Fig 12
 
 "Publish Profile" action will bring up the Dialog to allow you to share the entire Profile to the online community.  In Fig 13 we see what this context menu looks like and that it allows you to pick which devices are included with the publish and which aircraft if you want to help filter it for very specific single or multiple different planes.
 

@@ -16,7 +16,7 @@ The UI Contains Navigational Elements On the Left Hand side.  In addition there 
 
 The Left Most Column of the User Interface is the Navigation Column.  The Navigation Column is always visible while the second column to the right is the sub navigation or "Tabs" for the UI component that this selected in the Navigation Column.   Fig 3 points to these elements
 
-![](<../../.gitbook/assets/image (5) (1).png>)Fig 3
+![](<../../.gitbook/assets/image (5) (1) (1).png>)Fig 3
 
 The SPAD.neXt Version in operation can be found at the Top of the UI on the Left Side.  If running on an Alpha or Beta channel (selectable in Settings) that will also be displayed as seen in Fig 4.  Next to the version number the current "Profile" is displayed in brackets.
 

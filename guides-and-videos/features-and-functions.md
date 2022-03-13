@@ -35,3 +35,9 @@ SPAD.neXt has a very useful Text to Speech Feature.  In this short Feature video
 {% embed url="https://youtu.be/v9cOmkwP1RE" %}
 Text to Speech: Devices Can Talk to you!
 {% endembed %}
+
+Another application where we needed to use Local Variables, Expressions and Conditions to make the Radio Panel operate in a different mode of operation for the transponder.  The operational result is a way to visualize how to leverage these SPAD.neXt features to enhance your sim experience!!
+
+{% embed url="https://youtu.be/TfgrF6RgwkI" %}
+Local Variable + Expression + Conditions = Alternate Operation!!
+{% endembed %}
