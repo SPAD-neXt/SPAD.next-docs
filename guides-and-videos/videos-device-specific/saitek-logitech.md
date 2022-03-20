@@ -60,3 +60,7 @@ Setup the Radio Panel with the WT CJ4.  Use the Knobs to control the PFD and the
 Logitech / Saitek BIP Panel Basics
 {% endembed %}
 
+{% embed url="https://youtu.be/TfgrF6RgwkI" %}
+Alternate Transponder Mode Operation
+{% endembed %}
+

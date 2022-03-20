@@ -16,3 +16,8 @@ Here we go with the Early Alpha Implementation and configuration..  This will pr
 Configuration and Mapping CM CDU with CRJ L:VARs
 {% endembed %}
 
+Support for WT CJ4 Mod .. When you have another Mod :) which provides similar implementation as the FBW A32NX.  In this video we setup the CM CDU with the CJ4 and get a basic Flight plan with Departure and Arrival entered
+
+{% embed url="https://youtu.be/_ZT5rXMJ4Us" %}
+CM CDU Configuration for the WT CJ4
+{% endembed %}
