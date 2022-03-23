@@ -40,3 +40,7 @@ New Features and Capabilities for the Honeycomb Bravo
 Setup All Axis, Switches and Annunciators for the SWS Kodaik
 {% endembed %}
 
+{% embed url="https://youtu.be/mIOqKUuQGtU" %}
+Bravo / FBW A32NX Axis Configuration
+{% endembed %}
+

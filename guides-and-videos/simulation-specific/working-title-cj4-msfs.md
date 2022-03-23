@@ -34,3 +34,6 @@ Setup The Radio Panel with the CJ4 v0.12.7 and use the NAV Knobs to control the 
 Stream Deck Snippet and the WT CJ4
 {% endembed %}
 
+{% embed url="https://youtu.be/_ZT5rXMJ4Us" %}
+Hardware CDU Implementation for the CJ4
+{% endembed %}
