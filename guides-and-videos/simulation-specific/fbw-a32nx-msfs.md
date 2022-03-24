@@ -9,3 +9,7 @@ description: >-
 {% embed url="https://youtu.be/mIOqKUuQGtU" %}
 Configure the Bravo Axis for the FBW A32NX
 {% endembed %}
+
+{% embed url="https://youtu.be/oEv4SVJwkKo" %}
+TQ + Addon Full Device Configuration + FlyPad config
+{% endembed %}
