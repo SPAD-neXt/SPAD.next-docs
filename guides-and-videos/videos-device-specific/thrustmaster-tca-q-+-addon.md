@@ -12,3 +12,7 @@ Setting up the TCA TQ plus Add On to work with the AS CRJ
 Get the TCA TQ Dialed in For the TBM 930!
 {% endembed %}
 
+{% embed url="https://youtu.be/oEv4SVJwkKo" %}
+TCA TQ with Addon - FlyByWire A32NX
+{% endembed %}
+
