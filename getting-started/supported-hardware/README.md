@@ -71,6 +71,7 @@ Directly supported with custom UI:
   * GTN650&#x20;
   * GTN750
 * Elgato Streamdeck (\*)
+* General Midi Devices (In & Out)
 
 Furthermore, all Devices that show up on Windows as a Joystick are supported
 
