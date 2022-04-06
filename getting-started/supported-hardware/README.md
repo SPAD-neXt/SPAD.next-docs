@@ -72,6 +72,8 @@ Directly supported with custom UI:
   * GTN750
 * Elgato Streamdeck (\*)
 * General Midi Devices (In & Out)
+* CoreFlightTech
+  * FCU v17 (Custom firmware required)
 
 Furthermore, all Devices that show up on Windows as a Joystick are supported
 
