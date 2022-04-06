@@ -70,6 +70,8 @@ Directly supported with custom UI:
   * GNS530&#x20;
   * GTN650&#x20;
   * GTN750
-* Elgate Streamdeck (\*)
+* Elgato Streamdeck (\*)
+
+Furthermore, all Devices that show up on Windows as a Joystick are supported
 
 (\*) Complete Edition required
