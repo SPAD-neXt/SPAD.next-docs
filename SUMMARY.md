@@ -51,6 +51,7 @@
   * [Simulation Specific](guides-and-videos/simulation-specific/README.md)
     * [AS CRJ 550/700/900/1000 (MSFS)](guides-and-videos/simulation-specific/as-crj-550-700-msfs.md)
     * [FBW A32NX (MSFS)](guides-and-videos/simulation-specific/fbw-a32nx-msfs.md)
+    * [FSW C414AW](guides-and-videos/simulation-specific/fsw-c414aw.md)
     * [SWS Kodiak (MSFS)](guides-and-videos/simulation-specific/sws-kodiak-msfs.md)
     * [WT CJ4 (MSFS)](guides-and-videos/simulation-specific/working-title-cj4-msfs.md)
     * [WT G1000 NXi (MSFS)](guides-and-videos/simulation-specific/wt-g1000-nxi-msfs.md)
