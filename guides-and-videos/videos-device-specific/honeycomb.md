@@ -44,3 +44,6 @@ Setup All Axis, Switches and Annunciators for the SWS Kodaik
 Bravo / FBW A32NX Axis Configuration
 {% endembed %}
 
+{% embed url="https://youtu.be/H7huQoTNfu8" %}
+Alpha Setup - FSW C414AW
+{% endembed %}
