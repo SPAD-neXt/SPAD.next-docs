@@ -18,4 +18,5 @@ description: Set a device specific options
 | NO\_DISPLAY\_CLEAR | 0\|1      | Disable clearing of displays on page changes                                                              |
 | UI\_TYPE           | 0\|1\|2   | <p>0 = SPAD Generic UI<br>1 =  Joystick UI<br>2 =  MCP/FCU Style UI<br>(can be overwritten per INPUT)</p> |
 | DEFAULT\_PANEL     | string    | Name of the Default UI Panel if UI is a split panel                                                       |
+| TARGET\_PANEL      | string    | name of the target ui panel of an in-/output                                                              |
 
