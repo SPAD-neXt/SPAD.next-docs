@@ -95,9 +95,10 @@
   * [Data Updates](extending-and-apis/serial-connection/command-data-updates.md)
   * [Serial: LED Update (6)](extending-and-apis/serial-connection/serial-led-update-6.md)
   * [Serial: Display Update (7)](extending-and-apis/serial-connection/serial-display-update-7.md)
+  * [Serial: Virtual Power](extending-and-apis/serial-connection/serial-virtual-power.md)
   * [Serial V2](extending-and-apis/serial-connection/serial-v2/README.md)
-    * [Command: 0,AUTH](extending-and-apis/serial-connection/serial-v2/command-0-auth.md)
     * [Command 1,RAISE](extending-and-apis/serial-connection/serial-v2/command-1-raise.md)
+    * [Command: 0,AUTH](extending-and-apis/serial-connection/serial-v2/command-0-auth.md)
 * [X-Plane Datarefs & Commands](extending-and-apis/xplane-datarefs.md)
 
 ## FAQ
