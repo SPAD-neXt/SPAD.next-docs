@@ -80,13 +80,13 @@ The PID will be used in SPAD.neXt all over the place (e.g. Variable names), so *
 ## **Device variables**
 
 if VID **and** PID are defined for a device, all its inputs will be available as LOCAL variables within SPAD.neXt as\
-LOCAL:\<VID>\_\<PID>\_\<TAG>\[suffix]\
+`LOCAL:<VID>_<PID>_<TAG>[suffix]`\
 \[suffix] will only be present if more than one identical device is connected
 
 #### Example
 
-LOCAL:SHAKEPRINT_ECHOBUTTON1_\
-_LOCAL:C0NNEX\_FCU\_I\_AP1_
+`LOCAL:SHAKEPRINT_ECHO_BUTTON1`\
+`LOCAL:C0NNEX_FCU_I_AP1`
 
 ## **INIT Example**
 

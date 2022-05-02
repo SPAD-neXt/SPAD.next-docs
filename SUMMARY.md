@@ -79,7 +79,7 @@
 * [Gauges and Extensions](extending-and-apis/gauges-and-extensions.md)
 * [C# Scripting Interface](extending-and-apis/scripting-interface.md)
 * [Serial Interface](extending-and-apis/serial-connection/README.md)
-  * [Serial: General Command (0)](extending-and-apis/serial-connection/command-0/README.md)
+  * [Serial: General Command (0)](extending-and-apis/serial-connection/command-0.md)
     * [Serial: Device Initialisation](extending-and-apis/serial-connection/command-0/serial-device-initialisation.md)
   * [Serial: Configuration (1)](extending-and-apis/serial-connection/command-1/README.md)
     * [Serial: Page-Control](extending-and-apis/serial-connection/command-1/serial-page-control.md)
