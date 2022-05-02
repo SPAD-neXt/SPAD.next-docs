@@ -38,7 +38,7 @@ available only in INIT Command. All options are optional\
 ### AUTHOR
 
 To receive your unique authorkey, issue the command "!deviceinfo" on the SPAD.neXt discord.\
-This key will identify you as the device author and enable author-only functions like e.g. editing the device UI or device configuration database.
+This key will identify the device author and enable author-only functions like e.g. editing the device UI or device configuration database automatically, if the current user is the device author.
 
 {% hint style="warning" %}
 The authorkey is case-sensitive!
@@ -51,11 +51,11 @@ The ALLOWLOCAL option controls where SPAD.neXt will search for device configurat
 Possible Values:\
 
 
-0 SPAD.neXt will not search for any local files and will always use the globally defined/published ones from the database, if any.&#x20;
+0 SPAD.neXt will not search for any local files and will always use the globally defined/published ones from the database/device, if any.&#x20;
 
-1 SPAD.neXt will first search in %APPDATA%/conf/data\_config/local/devices/\<VID>/\<PID> for configuration files before checking the database.
+1 SPAD.neXt will first search in %APPDATA%/SPAD.neXt/conf/data\_config/local/devices/\<VID>/\<PID> for configuration files before checking the database.
 
-2 **only if the current user is the author of the device** SPAD.neXt will first search in %APPDATA%/conf/data\_config/local/\<AUTHOR>/\<VID>/\<PID> for configuration files before checking the database
+2 **only if the current user is the author of the device** SPAD.neXt will first search in %APPDATA%/SPAD.neXt/conf/data\_config/local/\<AUTHOR>/\<VID>/\<PID> for configuration files before checking the database
 
 {% hint style="info" %}
 if no local configuration exists (or is not allowed), the device sent-configuration will be used always.\
@@ -64,17 +64,18 @@ if a local configuration exists (and is allowed) it will always overwrite any de
 
 ### VID
 
-The VID (or Vendor ID) defines the **author** of a device uniquely in a similar manor to USB devices.\
-To prevent duplicate id's you have to request your VID in the SPAD.neXt discord
+The VID (or Vendor ID) defines the **author** of a device uniquely in a similar manor to USB devices.
+
+The VID cannot be chosen freely, but has to be requested by opening a ticket, to prevent duplicate vid's&#x20;
 
 ### PID
 
 The PID (or Product ID) defines a **device** uniquely in a similar manor to USB devices.
 
-The PID should be unique per device as it will be also used to find the corresponding device profile within a SPAD.neXt profile.
+The PID can be choosen freely and should be unique per device(type) as it will be also used to find the corresponding device profile within a SPAD.neXt profile.
 
 {% hint style="warning" %}
-The PID will be used in SPAD.neXt all over the place (e.g. Variable names), so **keep it short and simpl**e. The only allowed characters for the PID are A-Z,0-9 (no spaces, no special chars)
+The VID/PID will be used in SPAD.neXt all over the place (e.g. Variable names), so **keep it short and simpl**e. The only allowed characters for the VID/PID are A-Z,0-9 (no spaces, no special chars)
 {% endhint %}
 
 ## **Device variables**
@@ -83,17 +84,25 @@ if VID **and** PID are defined for a device, all its inputs will be available as
 `LOCAL:<VID>_<PID>_<TAG>[suffix]`\
 \[suffix] will only be present if more than one identical device is connected
 
-#### Example
+#### Examples
 
 `LOCAL:SHAKEPRINT_ECHO_BUTTON1`\
-`LOCAL:C0NNEX_FCU_I_AP1`
+`LOCAL:C0NNEX_FCU_I_AP1`\
+`LOCAL:C0NNEX_FCU_I_AP1_2` (second FCU device)
 
-## **INIT Example**
+``
 
-Request: `0,INIT,2,0.9.10.0,73993732632;`\
-Reply (go ahead): `0,SPAD,{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729},Altimeter Display,2,1.0;`\
-Reply (error): `0,ERROR,<message>;` (e.g. version not supported)
+## **INIT Examples**
 
-Request: `0,INIT,2,0.9.10.0,73993732632;`\
-Reply (go ahead): `0,SPAD,{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729},Altimeter Display,2,1.0,AUTHOR=a3dhfc4323dca`
+Request from SPAD.neXt: \
+`0,INIT,2,0.9.10.0,73993732632;`\
+Reply from device: \
+`0,SPAD,{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729},Altimeter Display,2,1.0;`\
+(No one will be able to locally modify the device configuration)
+
+Request from SPAD.neXt: \
+`0,INIT,2,0.9.10.0,73993732632;`\
+Reply from device:\
+`0,SPAD,{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729},Demo,2,1.0,AUTHOR=a3dhfc4323dca,VID=ShakePrint,PID=Echo`\
+``The user associated with authorkey a3dhfc4323dca will be able to edit the device configuration. SPAD.neXT will look in `%APPDATA%/SPAD.neXt/conf/data_config/local/a3dhfc4323dca/shakeprint/echo` for local configurations
 
