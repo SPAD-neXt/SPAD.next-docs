@@ -2,13 +2,13 @@
 description: 'Serial: Configuration (1) Page-Control'
 ---
 
-# Serial: Page-Control
+# Page-Control
 
-If the serial device supports paging (see OPTIONS), the current page being active can be controlled from the device
+If the device supports paging (see [OPTIONS](../device-configuration/device-options.md)), the current page being active can be controlled from the device
 
 ## SWITCHPAGE: Switching to a specific Page
 
-Format: `1,SWITCHPAGE,<Guid>[,<create>,<name>]`
+Syntax: `1,SWITCHPAGE,<Guid>[,<create>,<name>];`
 
 |           |                                               |
 | --------- | --------------------------------------------- |
@@ -20,7 +20,7 @@ SPAD.neXT will either respond with PAGE-Events or a ERROR
 
 ## GOTOPAGE: Navigate absolute or releative
 
-Format: `1,GOTOPAGE,<number>,<isrel>`
+Syntax: `1,GOTOPAGE,<number>,<isrel>;`
 
 ### Navigate (absolute) (\<isrel> = 0)
 
@@ -31,7 +31,7 @@ Format: `1,GOTOPAGE,<number>,<isrel>`
 \<number> contains the number of pages to navigate left ( < 0 ) or right ( > 0 )
 
 {% hint style="info" %}
-a rollover over first/last page will be done automatically
+a rollover to first/last page will be done automatically
 {% endhint %}
 
 \

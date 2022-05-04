@@ -1,6 +1,6 @@
-# Serial: Device Initialisation
+# Device Initialisation
 
-When starting SPAD.neXt, after opening the serial port, it will send an INIT Request to all serial devices configured and expects them to respond within 5 seconds, else the device will be marked as offline/unavailable.
+When starting SPAD.neXt will send an INIT Request to the device and expects a response within 5 seconds, else the device will be marked as offline/unavailable.
 
 Request from SPAD.neXt:\
 `0,INIT,<SerialVersion>,<AppVersion>,<AuthToken>`
@@ -21,12 +21,12 @@ Reply from device:\
 | \<NAME>             | the human readable name of the device. This will be used throughout the SPAD.neXt UI for everything related to that device                                                                                                                                                                                                  |
 | \<SerialVersion>    | Serialversion the device is supporting (Current Version is 2)                                                                                                                                                                                                                                                               |
 | \<DeviceVersion>    | Version of the device (Major.Minor\[.Build.Patch])                                                                                                                                                                                                                                                                          |
-| \<opt1>,...,\<optN> | optional device option Key=Value pairs (see [OPTIONS](../command-1/command-1-option.md))                                                                                                                                                                                                                                    |
+| \<opt1>,...,\<optN> | optional device option Key=Value pairs (see [OPTIONS](device-configuration/device-options.md))                                                                                                                                                                                                                              |
 
 ## Options&#x20;
 
-available only in INIT Command. All options are optional\
-(all additional [options](../command-1/command-1-option.md) can be added as well)
+available only in INIT Command. \
+(all additional [options](device-configuration/device-options.md) can be added as well)
 
 | Key        | Value              |                                                                       |
 | ---------- | ------------------ | --------------------------------------------------------------------- |
@@ -35,10 +35,14 @@ available only in INIT Command. All options are optional\
 | VID        | string             | The VendorID assigned to the device author.                           |
 | PID        | string             | A unique **short** product id for the device.                         |
 
+{% hint style="warning" %}
+If VID/PID option is provided, the AUTHOR option must be provided as well
+{% endhint %}
+
 ### AUTHOR
 
 To receive your unique authorkey, issue the command "!deviceinfo" on the SPAD.neXt discord.\
-This key will identify the device author and enable author-only functions like e.g. editing the device UI or device configuration database automatically, if the current user is the device author.
+This key will identify the device author and enable author-only functions like e.g. editing the device UI or device configuration database, if the current SPAD.neXt user is the device author.
 
 {% hint style="warning" %}
 The authorkey is case-sensitive!
@@ -46,16 +50,36 @@ The authorkey is case-sensitive!
 
 ### ALLOWLOCAL
 
-The ALLOWLOCAL option controls where SPAD.neXt will search for device configuration files/images etc. before checking the database.
+The ALLOWLOCAL option controls where SPAD.neXt will search for device configuration files/images etc. before checking the database.\
+_Documents_ refers to the Documents-Directory from SPAD.neXt configuration. Default: "Documents/SPAD.neXt"-Folder of Windows user
 
 Possible Values:\
 
 
-0 SPAD.neXt will not search for any local files and will always use the globally defined/published ones from the database/device, if any.&#x20;
+0
 
-1 SPAD.neXt will first search in %APPDATA%/SPAD.neXt/conf/data\_config/local/devices/\<VID>/\<PID> for configuration files before checking the database.
+&#x20;SPAD.neXt will not search for any local files and will always use&#x20;
 
-2 **only if the current user is the author of the device** SPAD.neXt will first search in %APPDATA%/SPAD.neXt/conf/data\_config/local/\<AUTHOR>/\<VID>/\<PID> for configuration files before checking the database
+1. Internal database
+2. Device provided data
+
+1
+
+1. _Documents_/devices/local/\<VID>/\<PID>/
+2. Internal database
+3. Device provided data
+
+2
+
+**if the current SPAD.neXt user is the author of the device, else it will behave like 0**\
+SPAD.neXt will search for files/images in the following order
+
+1. _Documents_/devices/\<AUTHOR>/\<VID>/\<PID>/
+2. _Documents_/devices/local/\<VID>/\<PID>/
+3. Internal database
+4. Device provided data
+
+
 
 {% hint style="info" %}
 if no local configuration exists (or is not allowed), the device sent-configuration will be used always.\
@@ -104,5 +128,5 @@ Request from SPAD.neXt: \
 `0,INIT,2,0.9.10.0,73993732632;`\
 Reply from device:\
 `0,SPAD,{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729},Demo,2,1.0,AUTHOR=a3dhfc4323dca,VID=ShakePrint,PID=Echo`\
-``The user associated with authorkey a3dhfc4323dca will be able to edit the device configuration. SPAD.neXT will look in `%APPDATA%/SPAD.neXt/conf/data_config/local/a3dhfc4323dca/shakeprint/echo` for local configurations
+``The user associated with authorkey a3dhfc4323dca will be able to edit the device configuration. SPAD.neXT will look in `Documents/SPAD.neXt/devices/a3dhfc4323dca/shakeprint/echo` for local configurations
 
