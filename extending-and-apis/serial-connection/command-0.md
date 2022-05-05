@@ -1,8 +1,34 @@
 ---
-description: Genral Command ( SPAD.neXt <--> Device)
+description: General Command ( SPAD.neXt <--> Device) on Channel 0
 ---
 
-# General Commands
+# Device General Commands
+
+## STATESCAN
+
+Syntax: `0,STATESCAN;`
+
+this command tells the device that SPAD.neXt is now ready to receive the current state of stateful inputs (switches/rotaries/axis)
+
+if the device does **not** support scanning of the states reply with `0,STATESCAN;`
+
+if the device supports scanning of stateful inputs reply with
+
+`0,STATESCAN,1[,<Behavior>];`
+
+`BEHAVIOR`
+
+`0` instructs SPAD.neXt just to update the UI and do not execute any events
+
+`1` instructs SPAD.neXt to update the UI and execute all events associated with the states
+
+After the STATESCAN reply, issue any Device Input commands (8) ``&#x20;
+
+and finally send a&#x20;
+
+`0,STATESCAN,2;`
+
+to notify SPAD.neXt that the state-scanning has completed
 
 ## &#x20;PING
 

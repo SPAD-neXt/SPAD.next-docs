@@ -1,6 +1,10 @@
-# Serial: Events (CMDID 2)
+---
+description: SPAD.neXt raises internal events on Channel 2
+---
 
-The 2-Command is used by SPAD.neXt to inform the device about events. There are some events that the device might ignore, and some that it should react to.
+# Device SPAD.neXt Events (2)
+
+The channel 2 is used by SPAD.neXt to inform the device about events. There are some events that the device might ignore, and some that it should react to.
 
 `2,START;` -> The device can send data updates now , if any\
 `2,STOP;`-> The device should stop sending data updates\

@@ -1,13 +1,31 @@
-# Serial Interface
+# Device Interface
 
 SPAD.neXt can communicate with external devices like e.g. Arduino/Teensy via a very simple line based communication.
 
 Request and reply on both sides will follow this format:
 
-`<CHANNELID>,<PARAM1>,...,<PARAMn>;`
+`<ChannelId>,<Param1>[,...,<ParamN>];`
+
+{% hint style="success" %}
+Thoughout the description of the device interface the following syntax will be used:
+
+, is the seperator for parameters
+
+; is the terminator of a command
+
+/ is used as escape character
+
+\[ ... ] defines optional parameter
+
+\<Name> defines an actual value. This can be a number or a string (without quotes!)
+
+Anything not enclosed in <> defines the exact string (without quotes!)
+{% endhint %}
+
+
 
 {% hint style="danger" %}
-If `, / ;` are used within the parameters, they have to be escaped by a leading /. \
+If `, / ;` are used within a parameter, they have to be escaped by a leading /. \
 E.g.\
 `15,Hello/, from Arduino;`
 {% endhint %}
@@ -43,18 +61,4 @@ By default cmdMessenger is limited to a max of 50 channels to preserve device me
 `#define MAXCALLBACKS 50`\
 in cmdMessenger.h, however this is **not** recommended.
 {% endhint %}
-
-## Communication Flow
-
-Initialization Phase
-
-| SPAD.neXt sends              | Device sends              | Comment                                                                   |
-| ---------------------------- | ------------------------- | ------------------------------------------------------------------------- |
-| 0,INIT...                    |                           |                                                                           |
-|                              | 0,SPAD,...                |                                                                           |
-| 0,CONFIG\[,Parameters]       |                           |                                                                           |
-|                              | 0,INPUT/OUTPUT/OPTIONS... | Only if device needs to configure anything                                |
-|                              | 0,CONFIG;                 | <p>Device Setup completed<br><strong>Needs to be sent always</strong></p> |
-| (any queued events and data) |                           |                                                                           |
-| 0,START;                     |                           |                                                                           |
 

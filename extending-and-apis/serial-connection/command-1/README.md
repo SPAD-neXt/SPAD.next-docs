@@ -1,5 +1,5 @@
 ---
-description: The 1-Command is used by the device to send configuration to SPAD.neXt.
+description: The 1-Command is used by the device to send commands to SPAD.neXt.
 ---
 
 # Device commands
@@ -55,7 +55,7 @@ You can get the internal name of a data value, by selecting it in the data brows
 ## SUBCOMMAND: `UNSUBSCRIBE`
 
 The subcommand `UNSUBSCRIBE` will unsubscribe from a previously subscribed data value\
-Syntax: `1,UNSUBSCRIBE,<CMDID>;`
+Syntax: `1,UNSUBSCRIBE,<CHANNELID>;`
 
 ## SUBCOMMAND: `EMULATE`
 

@@ -7,34 +7,34 @@ description: Define a device output descriptor (SPAD -> Device)
 For defining an output descriptor the following command syntax is used:
 
 ```
-0,OUTPUT,<DEVICEINDEX>,<TAG>,<TYPE>,<INHERITS>[,Option=Value,...];
+0,OUTPUT,<DeviceIndex>,<Tag>,<Type>,<Inherits>[,<Option>=<Value>,...];
 ```
 
-\<DEVICEINDEX> is the numercial index the output should be used by SPAD when sending updates to the device (See [LED](../serial-led-update-6.md) / [DISPLAY ](../serial-display-update-7.md)update   ). For Led commonly the pin on the device can be used as \<DEVICEINDEX>. This way no more internal processing needs to be done on the device. \
-The \<DEVICEINDEX> should be unique per \<TYPE>
+\<DeviceIndex> is the numercial index the output should be used by SPAD when sending updates to the device (See [LED](../device-led-update-6.md) / [DISPLAY ](../device-display-update-7.md)update   ). For Led commonly the pin on the device can be used as \<DeviceIndex>. This way no more internal processing needs to be done on the device. \
+The \<DeviceIndex> should be unique per \<Type>
 
-\<TAG> being the internal name SPAD.neXt should use for events bound to that output descriptor. \<TAG>'s must be unique device wide. It's generally a good idea to give the \<TAG> a prefix (e.g. `L_` __ for led and `D_` for Displays)
+\<Tag> being the internal name SPAD.neXt should use for events bound to that output descriptor. \<Tag>'s must be unique device wide. It's generally a good idea to give the \<TAG> a prefix (e.g. `L_` __ for led and `D_` for Displays)
 
-\<TYPE> the type of the output descriptor\
-Currently there are two types of output descriptors (\<TYPE>) supported:
+\<Type> the type of the output descriptor\
+Currently there are two types of output descriptors  supported:
 
 `LED` an led that has either only a ON/OFF state or a multi color LED
 
 `DISPLAY` any kind of display&#x20;
 
-\<INHERITS> is a list of base configurations the output shall use within SPAD.neXt. This decides about the events available for the output and the behaviour.
+\<Inherits> is a list of base configurations the output shall use within SPAD.neXt. This decides about the events available for the output and the behaviour.
 
 ### Type: LED
 
 A led is a simple output descriptor that always has at least the state ON or OFF ``&#x20;
 
-Available \<INHERITS> for led
+Available \<Inherits> for led
 
 `SPAD_LED`  a simple ON/OFF led
 
 `SPAD_LED_3COL` a 3 color led predefined as Red,Green,Yellow
 
-`SPAD_LED_C` a led with custom defined colors. The option `COLORSET=<COLORSET_INDEX>` must be added to the command to inform SPAD.neXt about the available colors.
+`SPAD_LED_C` a led with custom defined colors. The option `COLORSET=<Colorset_Index>` must be added to the command to inform SPAD.neXt about the available colors.
 
 Examples\
 `0,OUTPUT,1,L_LED1,LED,SPAD_LED;` defines a ON/OFF led with tag `L_LED1` and index 1
@@ -47,7 +47,7 @@ Examples\
 
 A display is any kind of alphanumerical output. It can e.g. be a 7-Segemnt lcd or a complex display with 5 rows of 20 characters each
 
-The only available \<INHERITS> for a display is
+The only available \<Inherits> for a display is
 
 `SPAD_DISPLAY`
 

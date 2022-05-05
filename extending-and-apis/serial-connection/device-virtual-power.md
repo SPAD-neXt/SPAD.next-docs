@@ -2,15 +2,16 @@
 description: Virtual Power Support for serial devices
 ---
 
-# Serial: Virtual Power
+# Device Virtual Power
 
-To enable Virtual Power support for the serial devices, the following steps have to be done:
+To enable Virtual Power support for the device, the following steps have to be done:
 
 * [ ] Add the Option VPSUPPORT=1
 * [ ] Define an INPUT with
-  * [ ] TYPE `SYSTEM`
-  * [ ] TAG `CONFIGURE_PANEL_STATUS`&#x20;
-  * [ ] INHERIT `SPAD_VIRTUAL_POWER`&#x20;
+  * [ ] DeviceIndex 0
+  * [ ] Type `SYSTEM`
+  * [ ] Tag `CONFIGURE_PANEL_STATUS`&#x20;
+  * [ ] Inherit `SPAD_VIRTUAL_POWER`&#x20;
   * [ ] OPTION `UI_TYPE=3 CUSTOM_TYPE=POWER`
   * [ ] (in Alpha < 0.9.12.38) `WIDTH=20 HEIGHT=20`
 

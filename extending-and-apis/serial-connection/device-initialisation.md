@@ -14,19 +14,19 @@ Request from SPAD.neXt:\
 | \<AuthToken>     | A unique ID identifying the SPAD.neXt instance used as authentication tag in AuthenticationCipher (See [http://rweather.github.io/arduinolibs/classAuthenticatedCipher.html](http://rweather.github.io/arduinolibs/classAuthenticatedCipher.html#details) for details) |
 
 Reply from device:\
-`0,SPAD,<GUID>,<NAME>,<SerialVersion>,<DeviceVersion>[,<opt1>,...,<optN>;`
+`0,SPAD,<Guid>,<Name>,<SerialVersion>,<DeviceVersion>[,<opt1>,...,<optN>;`
 
-| `<GUID>`            |  Unique Identifier identifying the device. It should follow the GUID-Registryformat e.g. "{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729}". To create a GUID you can use this site: [https://www.guidgenerator.com/online-guid-generator.aspx](https://www.guidgenerator.com/online-guid-generator.aspx) (enable braces and hyphens) |
+| `<Guid>`            |  Unique Identifier identifying the device. It should follow the GUID-Registryformat e.g. "{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729}". To create a GUID you can use this site: [https://www.guidgenerator.com/online-guid-generator.aspx](https://www.guidgenerator.com/online-guid-generator.aspx) (enable braces and hyphens) |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \<NAME>             | the human readable name of the device. This will be used throughout the SPAD.neXt UI for everything related to that device                                                                                                                                                                                                  |
+| \<Name>             | the human readable name of the device. This will be used throughout the SPAD.neXt UI for everything related to that device                                                                                                                                                                                                  |
 | \<SerialVersion>    | Serialversion the device is supporting (Current Version is 2)                                                                                                                                                                                                                                                               |
 | \<DeviceVersion>    | Version of the device (Major.Minor\[.Build.Patch])                                                                                                                                                                                                                                                                          |
-| \<opt1>,...,\<optN> | optional device option Key=Value pairs (see [OPTIONS](device-configuration/device-options.md))                                                                                                                                                                                                                              |
+| \<opt1>,...,\<optN> | optional device option Key=Value pairs (see [OPTIONS](device-configuration-phase/device-options.md))                                                                                                                                                                                                                        |
 
-## Options&#x20;
+## INIT-Options&#x20;
 
 available only in INIT Command. \
-(all additional [options](device-configuration/device-options.md) can be added as well)
+(all additional [options](device-configuration-phase/device-options.md) can be added as well)
 
 | Key        | Value              |                                                                       |
 | ---------- | ------------------ | --------------------------------------------------------------------- |
@@ -53,26 +53,25 @@ The authorkey is case-sensitive!
 The ALLOWLOCAL option controls where SPAD.neXt will search for device configuration files/images etc. before checking the database.\
 _Documents_ refers to the Documents-Directory from SPAD.neXt configuration. Default: "Documents/SPAD.neXt"-Folder of Windows user
 
-Possible Values:\
+SPAD.neXt will search for files/images in the following order \
 
 
-0
+Value = 0 (default)
 
 &#x20;SPAD.neXt will not search for any local files and will always use&#x20;
 
 1. Internal database
 2. Device provided data
 
-1
+Value = 1
 
 1. _Documents_/devices/local/\<VID>/\<PID>/
 2. Internal database
 3. Device provided data
 
-2
+Value = 2
 
-**if the current SPAD.neXt user is the author of the device, else it will behave like 0**\
-SPAD.neXt will search for files/images in the following order
+**if the current SPAD.neXt user is the author of the device, else it will behave like 0**
 
 1. _Documents_/devices/\<AUTHOR>/\<VID>/\<PID>/
 2. _Documents_/devices/local/\<VID>/\<PID>/
@@ -128,5 +127,5 @@ Request from SPAD.neXt: \
 `0,INIT,2,0.9.10.0,73993732632;`\
 Reply from device:\
 `0,SPAD,{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729},Demo,2,1.0,AUTHOR=a3dhfc4323dca,VID=ShakePrint,PID=Echo`\
-``The user associated with authorkey a3dhfc4323dca will be able to edit the device configuration. SPAD.neXT will look in `Documents/SPAD.neXt/devices/a3dhfc4323dca/shakeprint/echo` for local configurations
+``The user associated with authorkey a3dhfc4323dca will be able to edit the device configuration. SPAD.neXT will frist search in `Documents/SPAD.neXt/devices/a3dhfc4323dca/shakeprint/echo` for local configurations
 
