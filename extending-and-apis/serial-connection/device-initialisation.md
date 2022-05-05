@@ -21,12 +21,12 @@ Reply from device:\
 | \<Name>             | the human readable name of the device. This will be used throughout the SPAD.neXt UI for everything related to that device                                                                                                                                                                                                  |
 | \<SerialVersion>    | Serialversion the device is supporting (Current Version is 2)                                                                                                                                                                                                                                                               |
 | \<DeviceVersion>    | Version of the device (Major.Minor\[.Build.Patch])                                                                                                                                                                                                                                                                          |
-| \<opt1>,...,\<optN> | optional device option Key=Value pairs (see [OPTIONS](device-configuration-phase/device-options.md))                                                                                                                                                                                                                        |
+| \<opt1>,...,\<optN> | optional device option Key=Value pairs (see [OPTIONS](device-configuration/device-options.md))                                                                                                                                                                                                                              |
 
 ## INIT-Options&#x20;
 
 available only in INIT Command. \
-(all additional [options](device-configuration-phase/device-options.md) can be added as well)
+(all additional [options](device-configuration/device-options.md) can be added as well)
 
 | Key        | Value              |                                                                       |
 | ---------- | ------------------ | --------------------------------------------------------------------- |

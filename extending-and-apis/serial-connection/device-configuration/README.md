@@ -1,4 +1,4 @@
-# Device Configuration
+# Device Configuration-Phase
 
 After the device initialisation SPAD.neXt will send the command
 

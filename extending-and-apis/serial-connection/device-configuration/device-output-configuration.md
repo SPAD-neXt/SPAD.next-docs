@@ -10,7 +10,7 @@ For defining an output descriptor the following command syntax is used:
 0,OUTPUT,<DeviceIndex>,<Tag>,<Type>,<Inherits>[,<Option>=<Value>,...];
 ```
 
-\<DeviceIndex> is the numercial index the output should be used by SPAD when sending updates to the device (See [LED](../device-led-update-6.md) / [DISPLAY ](../device-display-update-7.md)update   ). For Led commonly the pin on the device can be used as \<DeviceIndex>. This way no more internal processing needs to be done on the device. \
+\<DeviceIndex> is the numercial index the output should be used by SPAD when sending updates to the device (See [LED](../serial-led-update-6.md) / [DISPLAY ](../serial-display-update-7.md)update   ). For Led commonly the pin on the device can be used as \<DeviceIndex>. This way no more internal processing needs to be done on the device. \
 The \<DeviceIndex> should be unique per \<Type>
 
 \<Tag> being the internal name SPAD.neXt should use for events bound to that output descriptor. \<Tag>'s must be unique device wide. It's generally a good idea to give the \<TAG> a prefix (e.g. `L_` __ for led and `D_` for Displays)
