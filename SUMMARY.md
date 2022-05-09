@@ -99,6 +99,8 @@
   * [Device LED Update (6)](extending-and-apis/serial-connection/serial-led-update-6.md)
   * [Device Display Update (7)](extending-and-apis/serial-connection/serial-display-update-7.md)
   * [Device Virtual Power](extending-and-apis/serial-connection/virtual-power.md)
+  * [Device Custom UI](extending-and-apis/serial-connection/device-custom-ui.md)
+  * [Device HTML UI](extending-and-apis/serial-connection/device-html-ui.md)
   * [Serial V2](extending-and-apis/serial-connection/serial-v2/README.md)
     * [Command 1,RAISE](extending-and-apis/serial-connection/serial-v2/command-1-raise.md)
     * [Command: 0,AUTH](extending-and-apis/serial-connection/serial-v2/command-0-auth.md)
