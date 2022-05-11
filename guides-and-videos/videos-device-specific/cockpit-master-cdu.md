@@ -21,3 +21,10 @@ Support for WT CJ4 Mod .. When you have another Mod :) which provides similar im
 {% embed url="https://youtu.be/_ZT5rXMJ4Us" %}
 CM CDU Configuration for the WT CJ4
 {% endembed %}
+
+Next Up we have the Configuration for working with the PMDG 737 in MSFS!!  This implementation is just Amazing !!!
+
+{% embed url="https://youtu.be/QwK6ez8JtzE" %}
+PMDG 737 (MSFS) and the Cockpit Master CDU
+{% endembed %}
+
