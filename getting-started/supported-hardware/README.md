@@ -23,7 +23,7 @@ Directly supported with custom UI:
   * PACLed64
   * PACDrive
 * OpenCockpits
-  * MCP v2 / v3
+  * MCP v3
   * EFIS
 * GoFlight
   * GF-WCP

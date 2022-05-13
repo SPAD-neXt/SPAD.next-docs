@@ -1,0 +1,39 @@
+<DataDefinitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1" xmlns="http://www.fsgs.com/SPAD">
+  <OffsetDataDefinition Selectable="true">
+      <Name>Ground elevation</Name>
+      <Valuetype>S32</Valuetype>
+      <Size>4</Size>
+      <Category>Pos./Attitude</Category>
+	  <SubCategory>FGM 1##Flight</SubCategory>
+      <Access>R</Access>
+      <Usage>
+         in feet, See also 0B4C
+      </Usage>
+      <Key>0000:0020</Key>
+    </OffsetDataDefinition>
+	<OffsetDataDefinition Selectable="true">
+      <Name>Ground elevation</Name>
+      <Valuetype>S32</Valuetype>
+      <Size>4</Size>
+      <Category>Pos./Attitude</Category>
+	  <SubCategory>FGM 1##Flight</SubCategory>
+      <Access>RW</Access>
+      <Usage>
+         in feet, See also 0B4C
+      </Usage>
+	  <LinkedEntry>0000:0022</LinkedEntry>
+      <Key>0000:0021</Key>
+    </OffsetDataDefinition>
+	<OffsetDataDefinition Selectable="true">
+      <Name>Ground elevation</Name>
+      <Valuetype>S32</Valuetype>
+      <Size>4</Size>
+      <Category>Pos./Attitude</Category>
+	  <SubCategory>FGM 1##Flight</SubCategory>
+      <Access>RW</Access>
+      <Usage>
+         in feet, See also 0B4C
+      </Usage>
+      <Key>0000:0022</Key>
+    </OffsetDataDefinition>
+</DataDefinitions>

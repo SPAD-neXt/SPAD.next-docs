@@ -106,6 +106,7 @@
     * [Command 1,RAISE](extending-and-apis/serial-connection/serial-v2/command-1-raise.md)
     * [Command: 0,AUTH](extending-and-apis/serial-connection/serial-v2/command-0-auth.md)
 * [X-Plane Datarefs & Commands](extending-and-apis/xplane-datarefs.md)
+* [FSUIPC: Custom Offsets](extending-and-apis/fsuipc-custom-offsets.md)
 
 ## FAQ
 
