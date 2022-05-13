@@ -21,3 +21,9 @@ The Third Video for the 737 PMDG focuses on Programing the MCP (mode control sup
 {% embed url="https://youtu.be/3_UmS1lSQPQ" %}
 Configure 737 MCP Devices to Control the PMDG 737 MCP
 {% endembed %}
+
+Continuing on in the 4th PMDG 737 Video we configure the Honeycomb Bravo for use with the MCP (AP functions) as well as all other Axis and Switches!!  Full implementation of the LEDs and Annunciators -- don't forget you need to be on the at least 0.9.12.37 for this!!
+
+{% embed url="https://youtu.be/Sc1HH0n8h_A" %}
+Configure the Bravo TQ for the PMDG 737
+{% endembed %}
