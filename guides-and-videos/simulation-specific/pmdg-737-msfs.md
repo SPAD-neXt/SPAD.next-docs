@@ -27,3 +27,10 @@ Continuing on in the 4th PMDG 737 Video we configure the Honeycomb Bravo for use
 {% embed url="https://youtu.be/Sc1HH0n8h_A" %}
 Configure the Bravo TQ for the PMDG 737
 {% endembed %}
+
+Sticking with Autopilot Configurations we move on to the Logitech/Saitek Multi Panel device.  Download the Snippet or use the walkthrough to configure it yourself.
+
+{% embed url="https://youtu.be/RVTOqQVL5pQ" %}
+Configure the MultiPanel for the PMDG 737(MSFS)
+{% endembed %}
+
