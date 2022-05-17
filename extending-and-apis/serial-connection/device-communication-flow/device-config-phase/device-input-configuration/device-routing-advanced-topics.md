@@ -99,3 +99,18 @@ The E\_ALT encoder will have the events
 `CW / CCW / PUSH / PULL / ALT100 / ALT1000`
 
 ``
+
+## Output routing
+
+The other way around is an output that physically located on a button (e.g. MCP / FCU). Here SPAD.neXt needs to know not to expose the led in the UI, but add it to another input, while keeping the output events separated
+
+Again the led will need to have the `HIDDEN=1` option so it will not be exposed in the UI, but now the button needs an option to associate it with the led. This is done by adding the option `LED=<ledtargettag>` to it.
+
+### Example: FCU AP1 button
+
+`0,INPUT,8,I_AP1,PUSHBUTTON,SPAD_PUSHBUTTON,LED=L_AP1;`
+
+`0,OUTPUT,5,L_AP1,LED,SPAD_LED;`
+
+This will add the led-control actions to the button, but when executed they will be routed to the `L_AP1` led using the led-update channel (6)
+
