@@ -4,7 +4,7 @@ description: Define a device input (Device -> SPAD)
 
 # Device INPUT configuration
 
-0,INPUT,\<Index>,\<Tag>,\<Type>\[,\<Inherit>\[,\<OPTIONS>]];
+`0,INPUT,<Index>,<Tag>,<Type>[,<Inherit>[,<OPTIONS>]];`
 
 All input definition follow the same definition.
 
@@ -26,3 +26,12 @@ Options supported for all Inputs
 |             |                                                                        |   |
 |             |                                                                        |   |
 
+### Sending INPUT updates
+
+For all inputs the devices uses the channel 8 to send updates to SPAd.neXt:
+
+`8,<index>,<value>;`
+
+\<index> being the index given in the input configuration
+
+\<value> being the new value

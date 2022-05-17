@@ -4,7 +4,7 @@ description: 'Serial: Configuration (1) Page-Control'
 
 # Page-Control
 
-If the device supports paging (see [OPTIONS](../device-configuration/device-options.md)), the current page being active can be controlled from the device
+If the device supports paging (see [OPTIONS](../device-communication-flow/device-config-phase/device-options.md)), the current page being active can be controlled from the device
 
 ## SWITCHPAGE: Switching to a specific Page
 

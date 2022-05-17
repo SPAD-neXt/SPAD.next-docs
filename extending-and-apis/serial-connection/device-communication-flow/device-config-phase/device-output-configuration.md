@@ -10,7 +10,7 @@ For defining an output descriptor the following command syntax is used:
 0,OUTPUT,<DeviceIndex>,<Tag>,<Type>,<Inherits>[,<Option>=<Value>,...];
 ```
 
-\<DeviceIndex> is the numercial index the output should be used by SPAD when sending updates to the device (See [LED](../serial-led-update-6.md) / [DISPLAY ](../serial-display-update-7.md)update   ). For Led commonly the pin on the device can be used as \<DeviceIndex>. This way no more internal processing needs to be done on the device. \
+\<DeviceIndex> is the numercial index the output should be used by SPAD when sending updates to the device (See [LED](../../device-led-update-channel-6.md) / [DISPLAY ](../../device-display-update-channel-7.md)update   ). For Led commonly the pin on the device can be used as \<DeviceIndex>. This way no more internal processing needs to be done on the device. \
 The \<DeviceIndex> should be unique per \<Type>
 
 \<Tag> being the internal name SPAD.neXt should use for events bound to that output descriptor. \<Tag>'s must be unique device wide. It's generally a good idea to give the \<TAG> a prefix (e.g. `L_` __ for led and `D_` for Displays)
@@ -24,7 +24,7 @@ Currently there are two types of output descriptors  supported:
 
 \<Inherits> is a list of base configurations the output shall use within SPAD.neXt. This decides about the events available for the output and the behaviour.
 
-### Type: LED
+### Device output LED
 
 A led is a simple output descriptor that always has at least the state ON or OFF ``&#x20;
 
@@ -43,7 +43,7 @@ Examples\
 
 `0,OUTPUT,3,L_LED3,LED,SPAD_LED_C,COLORSET=1;` defines a custom led with tag `L_LED3` and index 3 using the defined colorset 1 (See COLORSET)
 
-### Type: DISPLAY
+### Device output DISPLAY
 
 A display is any kind of alphanumerical output. It can e.g. be a 7-Segemnt lcd or a complex display with 5 rows of 20 characters each
 
@@ -74,12 +74,16 @@ Examples
 
 `0,OUTPUT,1,DISPLAY,SPAD_DISPLAY,LENGTH=6,ROWS=1,WIDTH=133,HEIGHT=40`
 
-![One row with 6 characters](../../../.gitbook/assets/Serial\_Display\_1.png)
+![One row with 6 characters](../../../../.gitbook/assets/Serial\_Display\_1.png)
 
 `0,OUTPUT,1,DISPLAY,SPAD_DISPLAY,LENGTH=15,ROWS=3,WIDTH=350,HEIGHT=120`
 
-![3 rows woth 15 chars each](../../../.gitbook/assets/Serial\_Display\_2.png)
+![3 rows woth 15 chars each](../../../../.gitbook/assets/Serial\_Display\_2.png)
 
 `0,OUTPUT,1,DISPLAY,SPAD_DISPLAY,LENGTH=24,ROWS=12,WIDTH=400,HEIGHT=300,FONTSIZE=16`
 
-![12 Rows with 24 chars each](../../../.gitbook/assets/Serial\_Display\_3.png)
+![12 Rows with 24 chars each](../../../../.gitbook/assets/Serial\_Display\_3.png)
+
+### Other outputs
+
+Forany other kind of output (e.g. a servo) no output needs to be defined. Just provide a RW-data for the output using the [ADD](../../command-1/#subcommand-add) command and act on the device accordingly to changes to that data

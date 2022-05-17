@@ -1,3 +1,7 @@
+---
+description: SPAD.neXt device interface V2
+---
+
 # Device Interface
 
 SPAD.neXt can communicate with external devices like e.g. Arduino/Teensy via a very simple line based communication.
@@ -62,3 +66,6 @@ By default cmdMessenger is limited to a max of 50 channels to preserve device me
 in cmdMessenger.h, however this is **not** recommended.
 {% endhint %}
 
+{% hint style="warning" %}
+For the specs of the Serial V1 protocol (still supported but deprecated) please see [here](https://github.com/c0nnex/SPAD.neXt/wiki/Serial-Connection).
+{% endhint %}

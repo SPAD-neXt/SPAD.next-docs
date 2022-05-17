@@ -1,4 +1,4 @@
-# Device Initialisation
+# Device INIT-Phase
 
 When starting SPAD.neXt will send an INIT Request to the device and expects a response within 5 seconds, else the device will be marked as offline/unavailable.
 
@@ -21,22 +21,21 @@ Reply from device:\
 | \<Name>             | the human readable name of the device. This will be used throughout the SPAD.neXt UI for everything related to that device                                                                                                                                                                                                  |
 | \<SerialVersion>    | Serialversion the device is supporting (Current Version is 2)                                                                                                                                                                                                                                                               |
 | \<DeviceVersion>    | Version of the device (Major.Minor\[.Build.Patch])                                                                                                                                                                                                                                                                          |
-| \<opt1>,...,\<optN> | optional device option Key=Value pairs (see [OPTIONS](device-configuration/device-options.md))                                                                                                                                                                                                                              |
+| \<opt1>,...,\<optN> | optional device option Key=Value pairs (see [OPTIONS](device-config-phase/device-options.md))                                                                                                                                                                                                                               |
 
 ## INIT-Options&#x20;
 
 available only in INIT Command. \
-(all additional [options](device-configuration/device-options.md) can be added as well)
+(all additional [options](device-config-phase/device-options.md) can be added as well)
 
 | Key        | Value              |                                                                       |
 | ---------- | ------------------ | --------------------------------------------------------------------- |
 | AUTHOR     | \<your authtorkey> |                                                                       |
 | ALLOWLOCAL | 0\|1\|2            | where SPAD.neXt will look for device configuration files (default: 0) |
-| VID        | string             | The VendorID assigned to the device author.                           |
 | PID        | string             | A unique **short** product id for the device.                         |
 
 {% hint style="warning" %}
-If VID/PID option is provided, the AUTHOR option must be provided as well
+If PID option is provided, the AUTHOR option must be provided as well
 {% endhint %}
 
 ### AUTHOR
@@ -89,7 +88,7 @@ if a local configuration exists (and is allowed) it will always overwrite any de
 
 The VID (or Vendor ID) defines the **author** of a device uniquely in a similar manor to USB devices.
 
-The VID cannot be chosen freely, but has to be requested by opening a ticket, to prevent duplicate vid's&#x20;
+The VID cannot be chosen freely, but has to be requested by opening a ticket, to prevent duplicates. The VID is provided and set automatically by SPAD.neXt once it has been assigned.
 
 ### PID
 
@@ -98,12 +97,12 @@ The PID (or Product ID) defines a **device** uniquely in a similar manor to USB 
 The PID can be choosen freely and should be unique per device(type) as it will be also used to find the corresponding device profile within a SPAD.neXt profile.
 
 {% hint style="warning" %}
-The VID/PID will be used in SPAD.neXt all over the place (e.g. Variable names), so **keep it short and simpl**e. The only allowed characters for the VID/PID are A-Z,0-9 (no spaces, no special chars)
+The PID will be used in SPAD.neXt all over the place (e.g. Variable names), so **keep it short and simpl**e. The only allowed characters for the PID are A-Z,0-9 (no spaces, no special chars)
 {% endhint %}
 
 ## **Device variables**
 
-if VID **and** PID are defined for a device, all its inputs will be available as LOCAL variables within SPAD.neXt as\
+if PID is defined for a device, all its inputs will be available as LOCAL variables within SPAD.neXt as\
 `LOCAL:<VID>_<PID>_<TAG>[suffix]`\
 \[suffix] will only be present if more than one identical device is connected
 
@@ -126,6 +125,6 @@ Reply from device: \
 Request from SPAD.neXt: \
 `0,INIT,2,0.9.10.0,73993732632;`\
 Reply from device:\
-`0,SPAD,{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729},Demo,2,1.0,AUTHOR=a3dhfc4323dca,VID=ShakePrint,PID=Echo`\
+`0,SPAD,{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729},Demo,2,1.0,AUTHOR=a3dhfc4323dca,PID=Echo`\
 ``The user associated with authorkey a3dhfc4323dca will be able to edit the device configuration. SPAD.neXT will frist search in `Documents/SPAD.neXt/devices/a3dhfc4323dca/shakeprint/echo` for local configurations
 

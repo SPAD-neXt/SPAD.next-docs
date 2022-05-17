@@ -4,7 +4,7 @@ description: Virtual Power Support for serial devices
 
 # Device Virtual Power
 
-To enable Virtual Power support for the device, the following steps have to be done:
+To enable Virtual Power support for the device, the following steps have to be completed:
 
 * [ ] Add the Option VPSUPPORT=1
 * [ ] Define an INPUT with
