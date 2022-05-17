@@ -47,3 +47,7 @@ Bravo / FBW A32NX Axis Configuration
 {% embed url="https://youtu.be/H7huQoTNfu8" %}
 Alpha Setup - FSW C414AW
 {% endembed %}
+
+{% embed url="https://youtu.be/Sc1HH0n8h_A" %}
+Bravo Config and Snippet for the PMDG 777 (MSFS)
+{% endembed %}

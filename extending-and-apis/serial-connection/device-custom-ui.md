@@ -10,9 +10,9 @@ All custom UI is defined as SVG or PNG images.&#x20;
 
 You can use your favorite editor to create SVG images.&#x20;
 
-As a free online editor [https://boxy-svg.com/](https://boxy-svg.com) is a good choice
+As a free online editor [https://boxy-svg.com/](https://boxy-svg.com/) is a good choice
 
-Also the repository at [https://www.svgrepo.com/](https://www.svgrepo.com) is a good first stop if you are looking for free SVG icons and graphics, or ideas
+Also the repository at [https://www.svgrepo.com/](https://www.svgrepo.com/) is a good first stop if you are looking for free SVG icons and graphics, or ideas
 
 All common features of SVG can be used, but keep in mind that users might use a diffrent theme than you. Make sure the UI looks ok in both light and dark theme of SPAD.neXt.\
 If a SVG does not define a fill-color the button text color of the choosen SPAD.neXt theme will be used.
@@ -36,7 +36,8 @@ To have a custom UI for an input being displayed, the following options for an i
 * [ ] TOP and LEFT can be set to define the position of the UI element relativ to the UI panel (default 0,0 )
 * [ ] UI\_TYPE=3
 * [ ] BEHAVIOR is set, if it differs from input-default
-* [ ] SVG=\<relativePathAndFilename> **OR** IMG= (See the BEHAVIOR for any special requirements)
+* [ ] IMG=\<relativePathAndFilename> (See the BEHAVIOR for any special requirements)
+* [ ] The type of the file will be determined by the extension. Only .svg and .png are supported
 
 ### BEHAVIOR
 
@@ -56,9 +57,9 @@ UI element will rotate around its center point, to an angle of 15 \* eventvalue 
 
 Most commonly used for switches. Two images have to provided:
 
-`SVG_ON/IMG_ON` (shown when input is considered ON/PRESSED)
+`IMG_ON` (shown when input is considered ON/PRESSED)
 
-`SVG_OFF/IMG_OFF` (shown when input is considered OFF/RELEASED)
+`IMG_OFF` (shown when input is considered OFF/RELEASED)
 
 {% hint style="info" %}
 When loading/initializing all inputs are treated as OFF
@@ -70,7 +71,7 @@ default behavior. The UI element will not be modified when activated but hightli
 
 {% hint style="warning" %}
 If the  input is a double encoder/rotary the options\
-`SVG_INNER/IMG_INNER`\
-`SVG_OUTER/IMG_OUTER`\
+`IMG_INNER`\
+`IMG_OUTER`\
 have to be provided
 {% endhint %}

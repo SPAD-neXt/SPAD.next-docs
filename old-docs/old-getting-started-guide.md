@@ -44,9 +44,9 @@ Contents
 
 ## What is SPAD.neXt and will I need it?
 
-SPAD.neXt set out as a replacement for Saitek Flight Simulation Panels ([http://www.saitek.com/](http://www.saitek.com)) drivers, but supports much more Hardware today. While Saitek provides drivers for their panels, these have several shortcomings, notably lack of configurability. SPAD.neXt closes this gap and provides almost unlimited options to configure your panels not only for use with flight simulation software.
+SPAD.neXt set out as a replacement for Saitek Flight Simulation Panels ([http://www.saitek.com/](http://www.saitek.com/)) drivers, but supports much more Hardware today. While Saitek provides drivers for their panels, these have several shortcomings, notably lack of configurability. SPAD.neXt closes this gap and provides almost unlimited options to configure your panels not only for use with flight simulation software.
 
-SPAD stands for Saitek Panels Advanced Driver. There was an earlier attempt to develop substitute drivers by Massimo de Nadal ([http://fstools.weebly.com](http://fstools.weebly.com)). Unfortunately, development stopped several years ago. Thus, Ulrich Strauss ([http://www.fsgs.com/](http://www.fsgs.com)) made a "neXt" approach. Despite similar names, SPAD.neXt is not based on the former SPAD drivers but has been written from scratch.
+SPAD stands for Saitek Panels Advanced Driver. There was an earlier attempt to develop substitute drivers by Massimo de Nadal ([http://fstools.weebly.com](http://fstools.weebly.com/)). Unfortunately, development stopped several years ago. Thus, Ulrich Strauss ([http://www.fsgs.com/](http://www.fsgs.com/)) made a "neXt" approach. Despite similar names, SPAD.neXt is not based on the former SPAD drivers but has been written from scratch.
 
 Saitek has been recently acquired by Logitech and all devices will be renamed. This guide uses the old common names for the devices.
 
@@ -88,7 +88,7 @@ SPAD.neXt comes in two flavors, a free one and a registered one (cf. Section 3 f
 * Supported Simulation-Connection Methods:
   * Microsoft's SimConnect interface
   * Pete Dowson's FSUIPC, available from [http://www.schiratti.com/dowson.html](http://www.schiratti.com/dowson.html) (freeware is sufficient),
-  * FSconnect ([http://www.dirks-software.ca/](http://www.dirks-software.ca)), for WILCO planes only.
+  * FSconnect ([http://www.dirks-software.ca/](http://www.dirks-software.ca/)), for WILCO planes only.
 
 SPAD.neXt supports the following devices/features as of the time of this writing:
 
@@ -128,7 +128,7 @@ To make SPAD.neXt drive your Saitek Flight Instrument Panels (FIP) it is importa
 
 ## Where to get it and full vs. free vs. trial version
 
-The most current installer of SPAD.neXt can always be found at [http://www.spadnext.com](http://www.spadnext.com).
+The most current installer of SPAD.neXt can always be found at [http://www.spadnext.com](http://www.spadnext.com/).
 
 To enable the "registered only" features of SPAD.neXt, you will need to purchase an activation key turning the unregistered version into the registered one (cf. Section 7). This activation key is available from [SimMarket](https://secure.simmarket.com/spad.next.phtml). Just follow the link on the r.h.s. of the SPAD.neXt portal or the in-program link (see again Section 7).
 
@@ -688,7 +688,7 @@ Fig. 47 Freeware gauges
 
 The next entry provides a preview for a number of freeware gauges. You can download and install them, just by clicking onto them.
 
-Finally, the 3rd entry showcases creations by two commercial providers providing their own gauge shops under [fipgauges](http://www.fipgauges.com) and [FSXTimes](http://www.fsxtimes.tomandmiu.com/index.php), resp.
+Finally, the 3rd entry showcases creations by two commercial providers providing their own gauge shops under [fipgauges](http://www.fipgauges.com/) and [FSXTimes](http://www.fsxtimes.tomandmiu.com/index.php), resp.
 
 ![](../.gitbook/assets/49.jpeg)
 
@@ -868,7 +868,7 @@ _Fig. 50: Sending a support ticket_
 
 ## Author and Version
 
-This is Getting Started (formerly Quickstart) Version 0.5 written by Michael Basler ([http://michael-basler.net](http://michael-basler.net)). It is valid for SPAD.neXt, Version 0.9.4.73, by Ulrich Strauß ([http://fsgs.com/](http://fsgs.com)).
+This is Getting Started (formerly Quickstart) Version 0.5 written by Michael Basler ([http://michael-basler.net](http://michael-basler.net/)). It is valid for SPAD.neXt, Version 0.9.4.73, by Ulrich Strauß ([http://fsgs.com/](http://fsgs.com/)).
 
 **Changelog**
 

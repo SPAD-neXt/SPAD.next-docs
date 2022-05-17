@@ -64,3 +64,7 @@ Logitech / Saitek BIP Panel Basics
 Alternate Transponder Mode Operation
 {% endembed %}
 
+{% embed url="https://youtu.be/RVTOqQVL5pQ" %}
+Multipanel Config for the PMDG 737 in MSFS
+{% endembed %}
+
