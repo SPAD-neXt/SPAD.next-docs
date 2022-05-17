@@ -4,7 +4,13 @@ description: Stateless push button
 
 # Device input PUSHBUTTON
 
+Pushbutton with Press / Press short / Press long / Relase events
+
 `0,INPUT,<Index>,<TAG>,PUSHBUTTON[,<Inherit>[,<OPTIONS>]];`
+
+Simple Pushbutton with Press and  Relase events
+
+`0,INPUT,<Index>,<TAG>,PUSHBUTTON_NOMODE[,<Inherit>[,<OPTIONS>]];`
 
 ### Available inherits
 
