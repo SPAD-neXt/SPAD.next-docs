@@ -81,7 +81,7 @@ Important!\
 Routed inputs still have their own variables to hold their current value!
 {% endhint %}
 
-Example: Airbus FCU Altitude encoder
+#### Example: Airbus FCU Altitude encoder
 
 The Airbus FCU altitude encoder has following addtional functions:\
 Push , Pull and a ring-switch for 100 / 1000 steps
