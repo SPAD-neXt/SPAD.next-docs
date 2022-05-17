@@ -20,11 +20,11 @@ An additional input is created, and the following options are added to it:
 
 First the Encoder is configured
 
-`0,INPUT,2000,E_HDG,ENCODER,SPAD_ENCODER_ACC`
+`0,INPUT,2000,E_HDG,ENCODER,SPAD_ENCODER_ACC;`
 
 Then the pushbutton is configured, telling SPAD.neXt to route it to the encoder
 
-`0,INPUT,7,I_HDG_PUSH,PUSHBUTTON,SPAD_PUSHBUTTON,HIDDEN=1,ROUTETO=E_HDG`
+`0,INPUT,7,I_HDG_PUSH,PUSHBUTTON,SPAD_PUSHBUTTON,HIDDEN=1,ROUTETO=E_HDG;`
 
 SPAD.neXt will now add the pushbutton-events to the encoder in the UI, and not expose the pushbutton I\_HDG\_PUSH in the UI at all. Whenever the device sends now an inputevent (`8,7,1;`) for that pushbutton, the according events on the encoder will be executed.
 
@@ -33,7 +33,7 @@ SPAD.neXt will now add the pushbutton-events to the encoder in the UI, and not e
 Again,just configure the encoder and the additional switch
 
 `0,INPUT,2000,E_HDG,ENCODER,SPAD_ENCODER_ACC;`\
-`0,INPUT,7,S_HDG_PULL,SWITCH,SPAD_SWITCH,HIDDEN=1,ROUTETO=E_HDG`\
+`0,INPUT,7,S_HDG_PULL,SWITCH,SPAD_SWITCH,HIDDEN=1,ROUTETO=E_HDG;`\
 ``
 
 ### Complex Examples
@@ -64,9 +64,9 @@ The option-value will be used as event name in SPAD.neXt. If it does not exist y
 
 But back to the example, now create the 2 additional input buttons  (simple ones to keep this short and simple):
 
-`0,INPUT,7,I_HDG_PUSH,PUSHBUTTON,SPAD_PUSHBUTTON_NOMODE,HIDDEN=1,ROUTETO=E_HDG,ROUTETO.PRESS=PUSH_PRESS,ROUTETO.RELEASE=PUSH_RELEASE`
+`0,INPUT,7,I_HDG_PUSH,PUSHBUTTON,SPAD_PUSHBUTTON_NOMODE,HIDDEN=1,ROUTETO=E_HDG,ROUTETO.PRESS=PUSH_PRESS,ROUTETO.RELEASE=PUSH_RELEASE;`
 
-`0,INPUT,7,I_HDG_PULL,PUSHBUTTON,SPAD_PUSHBUTTON_NOMODE,HIDDEN=1,ROUTETO=E_HDG,ROUTETO.PRESS=PULL_PRESS,ROUTETO.RELEASE=IGNORE`
+`0,INPUT,8,I_HDG_PULL,PUSHBUTTON,SPAD_PUSHBUTTON_NOMODE,HIDDEN=1,ROUTETO=E_HDG,ROUTETO.PRESS=PULL_PRESS,ROUTETO.RELEASE=IGNORE;`
 
 For the pull-button SPAD.neXt is instructed to ignore the release event and only support the push event. The value "IGNORE" can also be ommited which will have the same effect.
 
