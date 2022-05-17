@@ -64,9 +64,13 @@ The option-value will be used as event name in SPAD.neXt. If it does not exist y
 
 But back to the example, now create the 2 additional input buttons  (simple ones to keep this short and simple):
 
-`0,INPUT,7,I_HDG_PUSH,PUSHBUTTON,SPAD_PUSHBUTTON_NOMODE,HIDDEN=1,ROUTETO=E_HDG,ROUTETO.PRESS=PUSH_PRESS,ROUTETO.RELEASE=PUSH_RELEASE;`
+`0,INPUT,7,I_HDG_PUSH,PUSHBUTTON_NOMODE,,HIDDEN=1,ROUTETO=E_HDG,ROUTETO.PRESS=PUSH_PRESS,ROUTETO.RELEASE=PUSH_RELEASE;`
 
-`0,INPUT,8,I_HDG_PULL,PUSHBUTTON,SPAD_PUSHBUTTON_NOMODE,HIDDEN=1,ROUTETO=E_HDG,ROUTETO.PRESS=PULL_PRESS,ROUTETO.RELEASE=IGNORE;`
+`0,INPUT,8,I_HDG_PULL,PUSHBUTTON_NOMODE,,HIDDEN=1,ROUTETO=E_HDG,ROUTETO.PRESS=PULL_PRESS,ROUTETO.RELEASE=IGNORE;`
+
+{% hint style="warning" %}
+Note that the INHERIT for the button are ommited, to prevent SPAD.neXt to add any default events to the buttons.
+{% endhint %}
 
 For the pull-button SPAD.neXt is instructed to ignore the release event and only support the push event. The value "IGNORE" can also be ommited which will have the same effect.
 
@@ -88,17 +92,19 @@ Push , Pull and a ring-switch for 100 / 1000 steps
 
 `0,INPUT,1000,E_ALT,ENCODER,SPAD_ENCODER_ACC;`
 
-`0,INPUT,1,I_ALT_PUSH,PUSHBUTTON,SPAD_PUSBUTTON_NOMODE,HIDDEN=1,ROUTETO=E_ALT,ROUTETO.PRESS=PUSH,ROUTETO.RELEASE=;`
+`0,INPUT,1,I_ALT_PUSH,PUSHBUTTON_NOMODE,,HIDDEN=1,ROUTETO=E_ALT,ROUTETO.PRESS=PUSH,ROUTETO.RELEASE=;`
 
-`0,INPUT,2,I_ALT_PULL,PUSHBUTTON,SPAD_PUSBUTTON_NOMODE,HIDDEN=1,ROUTETO=E_ALT,ROUTETO.PRESS=PULL,ROUTETO.RELEASE=;`
+`0,INPUT,2,I_ALT_PULL,PUSHBUTTON_NOMODE,,HIDDEN=1,ROUTETO=E_ALT,ROUTETO.PRESS=PULL,ROUTETO.RELEASE=;`
 
-`0,INPUT,3,S_ALT_RING,SWITCH,SPAD_SWITCH,HIDDEN=1,ROUTETO=E_ALT,ROUTETO.SWITCHON=ALT100,ROUTETO.SWITCHOFF=ALT1000;`
+`0,INPUT,3,S_ALT_RING,SWITCH,,HIDDEN=1,ROUTETO=E_ALT,ROUTETO.SWITCHON=ALT100,ROUTETO.SWITCHOFF=ALT1000;`
 
 The E\_ALT encoder will have the events
 
 `CW / CCW / PUSH / PULL / ALT100 / ALT1000`
 
-``
+{% hint style="warning" %}
+Note that the INHERIT for the buttons`/switch` are ommited, to prevent SPAD.neXt to add any default events to the buttons.
+{% endhint %}
 
 ## Output routing
 
