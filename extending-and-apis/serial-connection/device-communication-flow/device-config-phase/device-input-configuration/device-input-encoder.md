@@ -21,12 +21,12 @@ description: Define a stateless encoder
 
 #### Single Encoder
 
-send -10 for counterclockwise turn
+send -1 for counterclockwise turn
 
-send 10 for clockwise turn
+send 1 for clockwise turn
 
 #### Double Encoder
 
-Inner Encoder :smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile: `-10 / 10`
+Inner Encoder  `-1 / 1`
 
-Outer Encoder: `-100 / 100`
+Outer Encoder `-100 / 100`

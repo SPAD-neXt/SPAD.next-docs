@@ -15,11 +15,11 @@ The `Name=Value` pairs contain
 `Value` being a valid color value. A valid color is either a named color (as defined in [KnownColor](https://docs.microsoft.com/en-us/dotnet/api/system.drawing.knowncolor?view=netframework-4.8) ) or a #RRGGBB hexadecimal value (e.g. AliceBlue , #FF0000 )
 
 {% hint style="info" %}
-Each color set should contain a definition for OFF. If it's not included a pair `OFF=OFF` will be added automatically.
+Each color set must not contain a definition for OFF. It will be generated automatically and is internally fixed.
 {% endhint %}
 
 Examples
 
-`0,COLORSET,1,OFF=Black,Red=Red,Green=Green,Yellow=Yellow,Blue=#0000FF`
+`0,COLORSET,1,Red=Red,Green=Green,Yellow=Yellow,Blue=#0000FF`
 
-`0,COLORSET,MyCoolSetName,OFF=Black,Red=Red,Green=Green,Yellow=Yellow,Blue=#0000FF`
+`0,COLORSET,MyCoolSetName,Red=Red,Green=Green,Yellow=Yellow,Blue=#0000FF`
