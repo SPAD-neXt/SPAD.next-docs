@@ -2,7 +2,7 @@
 description: Add functionality to inputs and outputs
 ---
 
-# Device routing: Advanced topics
+# Device config: Advanced topics
 
 ## Input Routing
 
@@ -108,7 +108,7 @@ Note that the INHERIT for the buttons`/switch` are ommited, to prevent SPAD.neXt
 
 ## Output routing
 
-The other way around is an output that physically located on a button (e.g. MCP / FCU). Here SPAD.neXt needs to know not to expose the led in the UI, but add it to another input, while keeping the output events separated
+The other way around is an output that physically located on a button (e.g. MCP / FCU). Here SPAD.neXt needs to know not to expose the led in the UI, but add it to another input, while keeping the output events separated. This is curretntly only supported for leds.
 
 Again the led will need to have the `HIDDEN=1` option so it will not be exposed in the UI, but now the button needs an option to associate it with the led. This is done by adding the option `LED=<ledtargettag>` to it.
 
@@ -116,7 +116,7 @@ Again the led will need to have the `HIDDEN=1` option so it will not be exposed 
 
 `0,INPUT,8,I_AP1,PUSHBUTTON,SPAD_PUSHBUTTON,LED=L_AP1;`
 
-`0,OUTPUT,5,L_AP1,LED,SPAD_LED;`
+`0,OUTPUT,5,L_AP1,LED,SPAD_LED,HIDDEN=1;`
 
 This will add the led-control actions to the button, but when executed they will be routed to the `L_AP1` led using the led-update channel (6)
 
