@@ -10,7 +10,7 @@ description: Define a stateful 3-Position (On1-Mid2-On0) switch
 
 |                              |                                 |                        |
 | ---------------------------- | ------------------------------- | ---------------------- |
-| POS\_NAMES=name0#name1#name2 | Event names of the 0/1/2 states | POS\_NAMES=OFF#UP#DOWN |
+| POS\_NAMES=name0#name1#name2 | Event names of the 0/1/2 states | POS\_NAMES=DOWN#UP#OFF |
 |                              |                                 |                        |
 |                              |                                 |                        |
 
