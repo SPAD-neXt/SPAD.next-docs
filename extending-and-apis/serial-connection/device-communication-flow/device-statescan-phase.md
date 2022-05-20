@@ -1,6 +1,6 @@
 # Device STATESCAN-Phase
 
-`0,SCANSTATE;`
+`0,STATESCAN;`
 
 this command tells the device that SPAD.neXt is now ready to receive the current state of stateful inputs (switches/rotaries/axis)
 
