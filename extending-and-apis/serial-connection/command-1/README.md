@@ -87,3 +87,8 @@ The TARGET\_SWITCH will be the "BOUNDTO" and the TARGET\_EVENT the "Trigger"
 
 Alternatively you can get a list of all devices and events at Settings->Application->Expert->Available Remote Events
 
+## Update the labeltext of an input/output or label
+
+`1,LABEL,<index>,<newlabel>;`
+
+Updates the labeltext of a input/led (DYNLABEL=1 !) or a label pseudo input

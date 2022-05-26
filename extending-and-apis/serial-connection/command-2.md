@@ -15,4 +15,6 @@ The channel 2 is used by SPAD.neXt to inform the device about events. There are 
 
 2,PAGE,\<GUID>,\<completed>,\<name>; -> Switch to page&#x20;
 
-2,VIRTUALPOWER,\<onoff>\
+2,VIRTUALPOWER,\<onoff>
+
+2,LABEL,\<index>,\<newlabel>;\

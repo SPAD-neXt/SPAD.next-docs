@@ -24,11 +24,11 @@ Currently there are two types of output descriptors  supported:
 
 \<Inherits> is a list of base configurations the output shall use within SPAD.neXt. This decides about the events available for the output and the behaviour.
 
-### Device output LED
+## Device output LED
 
 A led is a simple output descriptor that always has at least the state ON or OFF ``&#x20;
 
-Available \<Inherits> for led
+#### Available \<Inherits> for led
 
 `SPAD_LED`  a simple ON/OFF led
 
@@ -36,14 +36,25 @@ Available \<Inherits> for led
 
 `SPAD_LED_C` a led with custom defined colors. The option `COLORSET=<Colorset_Index>` must be added to the command to inform SPAD.neXt about the available colors.
 
-Examples\
+#### Available specific options
+
+|             |                                                                           |                                                                                                                                                                     |
+| ----------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DYNLABEL=1  | Enabled updates of the led-labeltext (UI\_FACE=2) via events              |                                                                                                                                                                     |
+| UI\_FACE=0  | A round led that changed fillcolor depending on it's state                |                                                                                                                                                                     |
+| UI\_FACE=1  | A rectangular led that changes foreground-color depending on it's state   | `FOREGROUND=Red`                                                                                                                                                    |
+| UI\_FACE=2  | A rectangular led that can change fore/background depending on it's state | <p><code>FOREGROUND.ON=Red</code><br><code>FOREGROUND.OFF=LightGray</code><br><code>BACKGROUND.ON=Transparent</code><br><code>BACKGROUND.OFF=Transparent</code></p> |
+| NOIMG=1     | No background image                                                       |                                                                                                                                                                     |
+
+### Examples
+
 `0,OUTPUT,1,L_LED1,LED,SPAD_LED;` defines a ON/OFF led with tag `L_LED1` and index 1
 
 `0,OUTPUT,2,L_LED2,LED,SPAD_LED_3COL;` defines a 3-color led with tag `L_LED2` and index 2
 
 `0,OUTPUT,3,L_LED3,LED,SPAD_LED_C,COLORSET=1;` defines a custom led with tag `L_LED3` and index 3 using the defined colorset 1 (See COLORSET)
 
-### Device output DISPLAY
+## Device output DISPLAY
 
 A display is any kind of alphanumerical output. It can e.g. be a 7-Segemnt lcd or a complex display with 5 rows of 20 characters each
 

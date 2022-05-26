@@ -69,3 +69,7 @@ in cmdMessenger.h, however this is **not** recommended.
 {% hint style="warning" %}
 For the specs of the Serial V1 protocol (still supported but deprecated) please see [here](https://github.com/c0nnex/SPAD.neXt/wiki/Serial-Connection).
 {% endhint %}
+
+{% hint style="danger" %}
+All \<tag> or \<targettag> are limited to the characters`A-Z,0-9,_`&#x20;
+{% endhint %}

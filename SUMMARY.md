@@ -95,6 +95,7 @@
         * [Device input ROTARY](extending-and-apis/serial-connection/device-communication-flow/device-config-phase/device-input-configuration/device-input-rotary.md)
         * [Device input SWITCH](extending-and-apis/serial-connection/device-communication-flow/device-config-phase/device-input-configuration/device-input-switch.md)
         * [Device input SWITCH3](extending-and-apis/serial-connection/device-communication-flow/device-config-phase/device-input-configuration/device-input-switch3.md)
+        * [Device LABEL](extending-and-apis/serial-connection/device-communication-flow/device-config-phase/device-input-configuration/device-label.md)
       * [Device config: Advanced topics](extending-and-apis/serial-connection/device-communication-flow/device-config-phase/device-config-advanced-topics.md)
     * [Device STATESCAN-Phase](extending-and-apis/serial-connection/device-communication-flow/device-statescan-phase.md)
   * [Device General Commands](extending-and-apis/serial-connection/command-0.md)
