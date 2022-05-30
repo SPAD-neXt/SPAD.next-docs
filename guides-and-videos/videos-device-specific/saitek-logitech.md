@@ -68,3 +68,7 @@ Alternate Transponder Mode Operation
 Multipanel Config for the PMDG 737 in MSFS
 {% endembed %}
 
+{% embed url="https://youtu.be/vg_zHfWdJPk" %}
+FFX/MG HJet Logitech Multipanel Config
+{% endembed %}
+

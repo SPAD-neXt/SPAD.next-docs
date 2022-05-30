@@ -4,21 +4,23 @@ description: Stateless push button
 
 # Device input PUSHBUTTON
 
+`0,INPUT,<index>,<type>[,<inherit>[,<options]];`
+
 Pushbutton with Press / Press short / Press long / Relase events
 
-`0,INPUT,<Index>,<TAG>,PUSHBUTTON[,<Inherit>[,<OPTIONS>]];`
+`0,INPUT,<Index>,<TAG>,PUSHBUTTON,SPAD_PUSHBUTTON[,<OPTIONS>]];`
 
 Simple Pushbutton with Press and  Relase events
 
-`0,INPUT,<Index>,<TAG>,PUSHBUTTON_NOMODE[,<Inherit>[,<OPTIONS>]];`
+`0,INPUT,<Index>,<TAG>,PUSHBUTTON,SPAD_SIMPLEBUTTON[,<OPTIONS>]];`
 
 ### Available inherits
 
-|                          |                                                                                           |   |
-| ------------------------ | ----------------------------------------------------------------------------------------- | - |
-| SPAD\_PUSHBUTTON         | a standard SPAD.neXt push button with `PRESS / PRESS_SHORT / PRESS_LONG / RELEASE` events |   |
-| `SPAD_PUSHBUTTON_NOMODE` | a simple pushbutton with PRESS / RELEASE Events                                           |   |
-|                          |                                                                                           |   |
+|                     |                                                                                           |   |
+| ------------------- | ----------------------------------------------------------------------------------------- | - |
+| SPAD\_PUSHBUTTON    | a standard SPAD.neXt push button with `PRESS / PRESS_SHORT / PRESS_LONG / RELEASE` events |   |
+| `SPAD_SIMPLEBUTTON` | a simple pushbutton with PRESS / RELEASE Events                                           |   |
+|                     |                                                                                           |   |
 
 ### Available options
 
