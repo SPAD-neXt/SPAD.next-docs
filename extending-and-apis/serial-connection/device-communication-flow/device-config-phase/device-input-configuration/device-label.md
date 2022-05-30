@@ -1,6 +1,6 @@
 # Device LABEL
 
-`0,LABEL,<index>[,options];`
+`0,LABEL,<index>,<tag>[,options];`
 
 Creates a label on the UI
 
