@@ -10,3 +10,9 @@ First video is on the Logitech MultiPanel Configuration!!  Plus we do a demo fli
 FFX/MG HJet MultiPanel Configuration
 {% endembed %}
 
+The Second HJet video focuses on the Honeycomb Bravo and our Arrival and Approach into CYTZ in this video
+
+{% embed url="https://youtu.be/xoKReEa74Rk" %}
+FFX/MG HJet Honeycomb Bravo Configuration
+{% endembed %}
+
