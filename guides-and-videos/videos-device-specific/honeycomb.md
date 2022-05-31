@@ -51,3 +51,8 @@ Alpha Setup - FSW C414AW
 {% embed url="https://youtu.be/Sc1HH0n8h_A" %}
 Bravo Config and Snippet for the PMDG 777 (MSFS)
 {% endembed %}
+
+{% embed url="https://youtu.be/xoKReEa74Rk" %}
+FFS/MG HJet Honeycomb Bravo Configuration
+{% endembed %}
+
