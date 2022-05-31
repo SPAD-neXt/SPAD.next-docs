@@ -23,3 +23,5 @@ We walk through the configuration of all switches and also setup the H:Events un
 After Setup we jump into the Cockpit and demo all the controls including the Custom Checklist Control!! Then we walk through doing the basics of Cold and Dark using the Switches to Turn on the Electrics, Follow the Checklist and then Start up the Engines!!
 
 {% embed url="https://youtu.be/3Y-d7ILy1HI" %}
+FFX/MG HJet Honeycomb Alpha Configuration
+{% endembed %}
