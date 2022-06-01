@@ -25,3 +25,10 @@ After Setup we jump into the Cockpit and demo all the controls including the Cus
 {% embed url="https://youtu.be/3Y-d7ILy1HI" %}
 FFX/MG HJet Honeycomb Alpha Configuration
 {% endembed %}
+
+We move on to the TCA TQ with the Addon Package!  Full Configuration and even do an in cockpit demo with Startup using the our work!!
+
+{% embed url="https://youtu.be/diV10x73c4c" %}
+FFX/MG HJet TCA TQ + Addon Configuration
+{% endembed %}
+

@@ -16,3 +16,6 @@ Get the TCA TQ Dialed in For the TBM 930!
 TCA TQ with Addon - FlyByWire A32NX
 {% endembed %}
 
+{% embed url="https://youtu.be/diV10x73c4c" %}
+FFX/MG HJet TCA TQ + Addon Configuration
+{% endembed %}
