@@ -39,6 +39,7 @@
     * [Cockpit Master CDU](guides-and-videos/videos-device-specific/cockpit-master-cdu.md)
     * [Honeycomb](guides-and-videos/videos-device-specific/honeycomb.md)
     * [Joystick (Generic HID)](guides-and-videos/videos-device-specific/joystick-generic-hid.md)
+    * [Midi](guides-and-videos/videos-device-specific/midi.md)
     * [RealSimGear](guides-and-videos/videos-device-specific/realsimgear.md)
     * [Saitek/Logitech](guides-and-videos/videos-device-specific/saitek-logitech.md)
     * [Script Panel](guides-and-videos/videos-device-specific/script-panel.md)
