@@ -18,7 +18,7 @@ The Third Tab will display the "Video Guides" menu.  A third Column with subject
 
 The Fourth Tab is for the "Discord" (Fig 4).  This is a tremendous resource with real time interaction from many of the users and even the developer.  It is different than a Forum but has much more real time interaction and results usually in some great back and forth.  There is a search and there are "channels" to use for different types of information.
 
-![](<../../.gitbook/assets/image (1) (1).png>)Fig 4
+![](<../../.gitbook/assets/image (1) (1) (1).png>)Fig 4
 
 The Fifth Tab contains the "FAQ" ...  Yes many of the questions are already directly in the UI and if you use this page you might find what you are looking for.  Fig 5 shows a recent update with plenty of information and especially one example at the top that many could find the answer right here in the UI!!
 

@@ -53,6 +53,10 @@ Bravo Config and Snippet for the PMDG 777 (MSFS)
 {% endembed %}
 
 {% embed url="https://youtu.be/xoKReEa74Rk" %}
-FFS/MG HJet Honeycomb Bravo Configuration
+FFX/MG HJet Honeycomb Bravo Configuration
+{% endembed %}
+
+{% embed url="https://youtu.be/3Y-d7ILy1HI" %}
+FFX/MG HJet Honeycomb Alpha Configuration
 {% endembed %}
 

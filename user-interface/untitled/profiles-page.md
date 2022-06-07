@@ -56,7 +56,7 @@ Select the Aircraft on the Left Side that you want to link to this profile and t
 
 Continuing on with the Edit Actions is the Device Assignments operation (Fig 10) which will launch another dialog that lists all of the device configurations that were saved with this profile and which physically connected devices they are assigned too.  This can also help with re-mapping incase a duplicate device that only get instantiated by windows was out of order...  Once complete click OK
 
-![](../../.gitbook/assets/image.png)Fig 10
+![](<../../.gitbook/assets/image (1).png>)Fig 10
 
 Moving on to the next Action item "Aircraft Assignments" in Fig 11 we see that there are quick selects that effectively take you to the same editor for the Aircraft Assignments as we saw in the Edit Profile section.  This is no different in operation however saves the button click of going into Edit Profile first when you just need to link a new Aircraft
 
