@@ -32,3 +32,8 @@ We move on to the TCA TQ with the Addon Package!  Full Configuration and even do
 FFX/MG HJet TCA TQ + Addon Configuration
 {% endembed %}
 
+Using an X-Touch Midi Controller to Configure the Overhead Lights Control
+
+{% embed url="https://youtu.be/EUoqibwPPm8" %}
+X-Touch Mini Slider/Fader Configuration - Overhead Lights
+{% endembed %}
