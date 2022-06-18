@@ -16,19 +16,15 @@ Simple Pushbutton with Press and  Relase events
 
 ### Available inherits
 
-|                     |                                                                                           |   |
-| ------------------- | ----------------------------------------------------------------------------------------- | - |
-| SPAD\_PUSHBUTTON    | a standard SPAD.neXt push button with `PRESS / PRESS_SHORT / PRESS_LONG / RELEASE` events |   |
-| `SPAD_SIMPLEBUTTON` | a simple pushbutton with PRESS / RELEASE Events                                           |   |
-|                     |                                                                                           |   |
+|                     |                                                                                                |   |
+| ------------------- | ---------------------------------------------------------------------------------------------- | - |
+| SPAD\_PUSHBUTTON    | a standard SPAD.neXt push button with `PRESS / PRESSSHORT / PRESSLONG / RELEASE / HELD` events |   |
+| `SPAD_SIMPLEBUTTON` | a simple pushbutton with PRESS / RELEASE Events                                                |   |
+|                     |                                                                                                |   |
 
 ### Available options
 
-|        |                                                                    |   |
-| ------ | ------------------------------------------------------------------ | - |
-| HELD=1 | Enables "Held-mode" support for HELD event while button is pressed |   |
-|        |                                                                    |   |
-|        |                                                                    |   |
+No specific options
 
 ### Sending button input updates
 

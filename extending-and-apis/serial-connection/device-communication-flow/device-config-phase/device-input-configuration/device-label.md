@@ -4,6 +4,10 @@
 
 Creates a label on the UI
 
+{% hint style="info" %}
+By default labels are page aware and will store their current value if the page is changed and restore it again, when the page is switched back.
+{% endhint %}
+
 ### Available options
 
 |                       |                                                                                             |   |

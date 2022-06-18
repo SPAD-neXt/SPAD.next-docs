@@ -48,13 +48,13 @@ First, as before the encoder is configured
 
 Now 2 additional inputs shall be attached to the encoder that will use the same events. SPAD.neXt needs to know what to do and how to separate the events. To achieve this, additonal options can be added to the input(s) to create diffrent events for each of them:
 
-| Option             | Default   |   |
-| ------------------ | --------- | - |
-| `ROUTETO.PRESSIMM` | PRESSIMM  |   |
-| ROUTETO.PRESS      | PRESS     |   |
-| ROUTETO.PRESSLONG  | PRESSLONG |   |
-| ROUTETO.HELD       | HELD      |   |
-| ROUTETO.RELEASE    | RELEASE   |   |
+| Option             | Default    |   |
+| ------------------ | ---------- | - |
+| `ROUTETO.PRESS`    | PRESS      |   |
+| ROUTETO.PRESSSHORT | PRESSSHORT |   |
+| ROUTETO.PRESSLONG  | PRESSLONG  |   |
+| ROUTETO.HELD       | HELD       |   |
+| ROUTETO.RELEASE    | RELEASE    |   |
 
 Literally every event from an input can be rerouted this way. For a switch the options would be `ROUTETO.ON` , `ROUTETO.OFF` , for stateful input (rotary/3-way) those would be `ROUTETO.<positionname>`
 
