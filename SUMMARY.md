@@ -18,6 +18,7 @@
     * [USB HUB Requirements](getting-started/supported-hardware/common-issues/usb-hub-requirements.md)
 * [Installation](getting-started/untitled/README.md)
   * [Simulation Specifc Steps](getting-started/untitled/simulation-specifc-steps/README.md)
+    * [MSFS: Enable PMDG data access](getting-started/untitled/simulation-specifc-steps/msfs-enable-pmdg-data-access.md)
     * [SimConnect Configuration](getting-started/untitled/simulation-specifc-steps/simconnect-configuration.md)
 * [First Start](getting-started/first-run-the-configuration-wizard/README.md)
   * [Configuration Wizard](getting-started/first-run-the-configuration-wizard/configuration-wizard.md)
