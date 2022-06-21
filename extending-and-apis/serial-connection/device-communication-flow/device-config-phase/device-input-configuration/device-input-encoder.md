@@ -11,9 +11,9 @@ description: Define a stateless encoder
 |                             |                                                                                |                 |
 | --------------------------- | ------------------------------------------------------------------------------ | --------------- |
 | `SPAD_ENCODER_NOACC`        | a single encoder with Clockwise/Counterclockwise events                        | no acceleration |
-| `SPAD_ENCODER_ACC`          | a single encoder with Clockwise/Counterclockwise events and accelleration      |                 |
+| `SPAD_ENCODER`              | a single encoder with Clockwise/Counterclockwise events and accelleration      |                 |
 | `SPAD_DOUBLE_ENCODER_NOACC` | a double encoder with CW/CCW events for inner and outer knob                   | no acceleration |
-| `SPAD_DOUBLE_ENCODER_ACC`   | a double encoder with CW/CCW events for inner and outer knob and accelleration |                 |
+| `SPAD_DOUBLE_ENCODER`       | a double encoder with CW/CCW events for inner and outer knob and accelleration |                 |
 
 ### Sending encoder input updates
 
