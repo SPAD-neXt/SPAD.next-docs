@@ -83,15 +83,15 @@ All configuration is done via the options:
 
 Examples
 
-`0,OUTPUT,1,DISPLAY,SPAD_DISPLAY,LENGTH=6,ROWS=1,WIDTH=133,HEIGHT=40`
+`0,OUTPUT,1,D_1,DISPLAY,SPAD_DISPLAY,LENGTH=6,ROWS=1,WIDTH=133,HEIGHT=40`
 
 ![One row with 6 characters](../../../../.gitbook/assets/Serial\_Display\_1.png)
 
-`0,OUTPUT,1,DISPLAY,SPAD_DISPLAY,LENGTH=15,ROWS=3,WIDTH=350,HEIGHT=120`
+`0,OUTPUT,1,D_1,DISPLAY,SPAD_DISPLAY,LENGTH=15,ROWS=3,WIDTH=350,HEIGHT=120`
 
 ![3 rows woth 15 chars each](../../../../.gitbook/assets/Serial\_Display\_2.png)
 
-`0,OUTPUT,1,DISPLAY,SPAD_DISPLAY,LENGTH=24,ROWS=12,WIDTH=400,HEIGHT=300,FONTSIZE=16`
+`0,OUTPUT,1,D_1,DISPLAY,SPAD_DISPLAY,LENGTH=24,ROWS=12,WIDTH=400,HEIGHT=300,FONTSIZE=16`
 
 ![12 Rows with 24 chars each](../../../../.gitbook/assets/Serial\_Display\_3.png)
 
