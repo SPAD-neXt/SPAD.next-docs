@@ -60,3 +60,6 @@ FFX/MG HJet Honeycomb Bravo Configuration
 FFX/MG HJet Honeycomb Alpha Configuration
 {% endembed %}
 
+{% embed url="https://youtu.be/JqRQmSnt0G4" %}
+Re-Configure the Alpha Yoke to use the Default Configs!
+{% endembed %}
