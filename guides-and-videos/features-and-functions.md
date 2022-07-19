@@ -41,3 +41,7 @@ Another application where we needed to use Local Variables, Expressions and Cond
 {% embed url="https://youtu.be/TfgrF6RgwkI" %}
 Local Variable + Expression + Conditions = Alternate Operation!!
 {% endembed %}
+
+Use Local Variables and Conditional Events to put Multiple Functions onto a single Knob.  Here we use the example of toggling a Variable on the X-Touch by pushing the Knob to flip between Heading and Speed Controls.  We also setup a second Local Variable to make the Second Knob flip between Altitude adjustment in 100 Foot increments to 1000 Foot Increments.
+
+{% embed url="https://youtu.be/_hV32_FKfLA" %}
