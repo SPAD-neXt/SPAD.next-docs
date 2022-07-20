@@ -24,14 +24,16 @@ The subcommand `ADD` informs SPAD.neXt about a data value the device will provid
 | \<name>        | human readable name of the data for the UI                                                                                                                                                                                                                                    |                                                    |
 | \<description> | optional description for the UI                                                                                                                                                                                                                                               |                                                    |
 
-Within SPAD.neXt the data will be available in Serial->Devicename. \
-Internally the Data is referenced as `<DeviceGUID>:<path>` \
-e.g. `{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729}:buttons/button1`
+Within SPAD.neXt the data will be available in Device->Devicename. \
+Internally the Data is referenced as `DEVICE:{DeviceId}/<path>##{DeviceSerial}` \
+e.g.  DEVICE:`A8AA15C5-7BB6-4AC6-A558-A88CAFB78729/buttons/button1##123456`
+
+Device Data is only available within the profile of the device.&#x20;
 
 SPAD.neXt will send data updates to the device and expect data using the given CHANNELID channel in the format: `<CHANNELID>,<value>;` \
 ``\
 `Example:`\
-`1,ADD,11,buttons//button1,Activate Function,My cool description;`
+`1,ADD,11,pages//activepage,U8,RW,Active device page,My cool description;`
 
 ## Subscribe to a data&#x20;
 

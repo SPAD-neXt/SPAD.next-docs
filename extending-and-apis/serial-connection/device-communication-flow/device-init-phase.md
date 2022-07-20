@@ -33,6 +33,7 @@ available only in INIT Command. \
 | AUTHOR     | \<your authtorkey> |                                                                       |
 | ALLOWLOCAL | 0\|1\|2            | where SPAD.neXt will look for device configuration files (default: 0) |
 | PID        | string             | A unique **short** product id for the device.                         |
+| SERIAL     | string             | optional serial number of device                                      |
 
 {% hint style="warning" %}
 If PID option is provided, the AUTHOR option must be provided as well
@@ -99,6 +100,10 @@ The PID can be choosen freely and should be unique per device(type) as it will b
 {% hint style="warning" %}
 The PID will be used in SPAD.neXt all over the place (e.g. Variable names), so **keep it short and simpl**e. The only allowed characters for the PID are A-Z,0-9 (no spaces, no special chars)
 {% endhint %}
+
+### SERIAL
+
+If provided the serial number of the device (unique per device connected!) to identify device variables (ADD Command). If not provided or a duplicate is found, SPAD.neXt will use an internal unique identifier
 
 ## **Device variables**
 

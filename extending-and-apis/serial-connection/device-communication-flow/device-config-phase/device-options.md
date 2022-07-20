@@ -23,6 +23,7 @@ Syntax: `Optionkey=Value`
 | UI\_TYPE           | 0\|1\|2\|3 | <p>0 = SPAD Generic UI<br>1 =  Joystick UI<br>2 =  MCP/FCU Style UI<br>3 = Custom UI<br>(can be overwritten per INPUT)</p> |
 | DEFAULT\_PANEL     | string     | Name of the Default UI Panel if UI is a split panel                                                                        |
 | TARGET\_PANEL      | string     | name of the target ui panel of an in-/output                                                                               |
+| NOECHO             | 0\|1       | Disable echoing back changes of Device Data (ADD Command)                                                                  |
 
 ## Complex Device Options
 
