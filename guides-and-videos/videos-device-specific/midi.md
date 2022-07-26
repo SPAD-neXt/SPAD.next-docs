@@ -21,3 +21,12 @@ X-Touch Mini Slider/Fader Configuration
 Use Local Variables and Conditional Events to put Multiple Functions onto a single Knob.  Here we use the example of toggling a Variable on the X-Touch by pushing the Knob to flip between Heading and Speed Controls.  We also setup a second Local Variable to make the Second Knob flip between Altitude adjustment in 100 Foot increments to 1000 Foot Increments.
 
 {% embed url="https://youtu.be/_hV32_FKfLA" %}
+Local Variables, Conditional Events = Multiple Controls per Knob
+{% endembed %}
+
+In this video we map the XTouch Mini to work with the WT G1000 NXi and the SWS Kodiak!  Note this layout and config should work with any G1000NXi equipped plane!  Full Autopilot control, PFD, MFD and even COM/NAV Radios and Audio Support..  Perfect for VATSIM users!
+
+{% embed url="https://youtu.be/3Ihb_UGN-Qk" %}
+XTouch Setup for G1000 NXi
+{% endembed %}
+

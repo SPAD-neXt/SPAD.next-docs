@@ -7,3 +7,8 @@ description: Kodiak Configs and Examples
 {% embed url="https://youtu.be/kGBVRsow9uU" %}
 Full Bravo Setup of the Kodiak
 {% endembed %}
+
+{% embed url="https://youtu.be/3Ihb_UGN-Qk" %}
+XTouch Setup for G1000 NXi
+{% endembed %}
+
