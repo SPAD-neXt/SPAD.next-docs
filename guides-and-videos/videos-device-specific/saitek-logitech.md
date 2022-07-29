@@ -72,3 +72,7 @@ Multipanel Config for the PMDG 737 in MSFS
 FFX/MG HJet Logitech Multipanel Config
 {% endembed %}
 
+{% embed url="https://youtu.be/6Yg_409J_Kk" %}
+FFX/MG HJet v1.0.4 Logitech MultiPanel Config
+{% endembed %}
+
