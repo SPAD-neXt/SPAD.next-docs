@@ -12,3 +12,7 @@ Full Bravo Setup of the Kodiak
 XTouch Setup for G1000 NXi
 {% endembed %}
 
+{% embed url="https://youtu.be/JqRQmSnt0G4" %}
+HC Alpha for the SWS Kodiak
+{% endembed %}
+
