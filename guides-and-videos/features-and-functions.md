@@ -41,3 +41,13 @@ Another application where we needed to use Local Variables, Expressions and Cond
 {% embed url="https://youtu.be/TfgrF6RgwkI" %}
 Local Variable + Expression + Conditions = Alternate Operation!!
 {% endembed %}
+
+Use Local Variables and Conditional Events to put Multiple Functions onto a single Knob.  Here we use the example of toggling a Variable on the X-Touch by pushing the Knob to flip between Heading and Speed Controls.  We also setup a second Local Variable to make the Second Knob flip between Altitude adjustment in 100 Foot increments to 1000 Foot Increments.
+
+{% embed url="https://youtu.be/_hV32_FKfLA" %}
+
+Well this one is kind of a Feature ...  Using  the vJoy Axis we can make an indirect link to the throttle.  We do this so that the TBM 930 Throttle will move in the cockpit by mapping the MSFS control bindings for the vJoy to the Throttle Axis.  Then we use Spad to map out hardware controller Axis to the vJoy Axis...  Now we have the same freedom to re map controllers and auto switch profiles!
+
+{% embed url="https://youtu.be/VPUX4vBaBDc" %}
+vJoy Axis - Re Map the Throttle in MSFS
+{% endembed %}

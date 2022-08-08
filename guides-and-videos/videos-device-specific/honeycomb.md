@@ -63,3 +63,8 @@ FFX/MG HJet Honeycomb Alpha Configuration
 {% embed url="https://youtu.be/JqRQmSnt0G4" %}
 Re-Configure the Alpha Yoke to use the Default Configs!
 {% endembed %}
+
+{% embed url="https://youtu.be/VPUX4vBaBDc" %}
+vJoy Axis - Re Map the Bravo Throttle in MSFS
+{% endembed %}
+

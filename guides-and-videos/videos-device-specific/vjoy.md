@@ -9,3 +9,8 @@ This was to work around the View / Camera System Issues
 {% embed url="https://youtu.be/xwdPurSOW1g" %}
 Use vJoy to bridge the gap to the Condition Levers after SU7 adding them in.
 {% endembed %}
+
+{% embed url="https://youtu.be/VPUX4vBaBDc" %}
+vJoy Axis - Re Map the Throttle in MSFS
+{% endembed %}
+
