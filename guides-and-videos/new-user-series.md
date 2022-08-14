@@ -28,6 +28,12 @@ What is a Profile?
 Buttons / Switches and the Modes
 {% endembed %}
 
+Well Looks like we needed a 3.1 in the New User Series....  With Version 0.9.12.x and greater we now have a new implementation to the Button Modes.  All Three Pushbutton / Simple Pushbutton and Switch can be accomplished with the "Pushbutton" Mode plus some new elements and tweaks as well!!  With the release on the horizon there will be some editing but don't worry.. the Change Trigger To edit event will save the day!!
+
+{% embed url="https://youtu.be/BzRh5a0EpRg" %}
+v0.9.12.x+ Button Modes Explained
+{% endembed %}
+
 4th Installment is about Axis ... When putting them in Spad is better ![:slight\_smile:](https://discord.com/assets/da3651e59d6006dfa5fa07ec3102d1f3.svg) always... But also what is the difference between Standard and Custom Axis along with how to use the features in the Custom Axis..
 
 {% embed url="https://youtu.be/9u--vZpV1iA" %}
