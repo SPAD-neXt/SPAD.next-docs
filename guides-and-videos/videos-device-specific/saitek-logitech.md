@@ -76,3 +76,9 @@ FFX/MG HJet Logitech Multipanel Config
 FFX/MG HJet v1.0.4 Logitech MultiPanel Config
 {% endembed %}
 
+This Video focuses on using a Local Variable that we Create to Allow us to assign conditions to what the Radio Panel will Display. This example focuses on the Radio Panel and switching between displaying Baro in in/HG or MB but could be applied to anything!!
+
+{% embed url="https://youtu.be/uH3fGLts4Z4" %}
+Local Variable and Conditions = Multiple Display Options!
+{% endembed %}
+

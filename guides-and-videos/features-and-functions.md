@@ -51,3 +51,9 @@ Well this one is kind of a Feature ...  Using  the vJoy Axis we can make an indi
 {% embed url="https://youtu.be/VPUX4vBaBDc" %}
 vJoy Axis - Re Map the Throttle in MSFS
 {% endembed %}
+
+This Video focuses on using a Local Variable that we Create to Allow us to assign conditions to what the Radio Panel will Display.  This example focuses on the Radio Panel and switching between displaying Baro in in/HG or MB but could be applied to anything!!
+
+{% embed url="https://youtu.be/uH3fGLts4Z4" %}
+Local Variable and Conditions = Multiple Display Options!
+{% endembed %}
