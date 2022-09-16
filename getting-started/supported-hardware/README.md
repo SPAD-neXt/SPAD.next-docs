@@ -49,9 +49,6 @@ Directly supported with custom UI:
   * ProPt
   * Overhead 737 (\*)
   * Overhead A320 (\*)
-* CpFlight
-  * FCU (\*)
-  * MCP (\*)
 * SimInnovations Knobster
 * Honeycomb
   * Alpha
@@ -73,7 +70,7 @@ Directly supported with custom UI:
 * Elgato Streamdeck (\*)
 * General Midi Devices (In & Out)
 * CoreFlightTech
-  * FCU v17 (Custom firmware required)
+  * Custom firmware required
 
 Furthermore, all Devices that show up on Windows as a Joystick are supported
 
