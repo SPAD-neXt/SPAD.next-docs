@@ -68,3 +68,10 @@ Re-Configure the Alpha Yoke to use the Default Configs!
 vJoy Axis - Re Map the Bravo Throttle in MSFS
 {% endembed %}
 
+This Video is a General Update to How the Bravo Layout and UI is handled in the Release version of SPAD.neXt v0.9.12!
+
+There was a video update early in the Alpha phase but near the end of testing the final layout including sub tabs was introduced.
+
+{% embed url="https://youtu.be/DWH-8P8Kz3o" %}
+Honeycomb Bravo v0.9.12 Explained! New Config and New Layout!
+{% endembed %}
