@@ -19,3 +19,8 @@ TCA TQ with Addon - FlyByWire A32NX
 {% embed url="https://youtu.be/diV10x73c4c" %}
 FFX/MG HJet TCA TQ + Addon Configuration
 {% endembed %}
+
+{% embed url="https://youtu.be/u_AfIvurDro" %}
+TCA TQ+Addon New Layout Overview
+{% endembed %}
+
