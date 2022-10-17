@@ -15,6 +15,7 @@
   * [Saitek FIP (Flight Instrument Panel)](getting-started/supported-hardware/saitek-fip/README.md)
     * [Saitek FIP: Driver & Function Check](getting-started/supported-hardware/saitek-fip/saitek-fip-function-check.md)
   * [Common Issues](getting-started/supported-hardware/common-issues/README.md)
+    * [Check Hardware](getting-started/supported-hardware/common-issues/check-hardware.md)
     * [VRInsight Overhead](getting-started/supported-hardware/common-issues/vrinsight-overhead.md)
     * [USB HUB Requirements](getting-started/supported-hardware/common-issues/usb-hub-requirements.md)
 * [Installation](getting-started/untitled/README.md)

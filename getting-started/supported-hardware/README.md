@@ -1,6 +1,6 @@
 # Supported hardware
 
-Note: Saitek has been recently acquired by Logitech and all devices will be renamed. This guide uses the old common names for the devices.
+Note: Saitek has been acquired by Logitech and all devices will be renamed. This documentation uses the old common names for the devices.
 
 Directly supported with custom UI:
 
@@ -38,6 +38,7 @@ Directly supported with custom UI:
   * GF-P8
   * GF-T8
   * GF-SECM
+  * GF-MESM
 * Virtual Avionic
   * MCP
   * EFIS
@@ -53,8 +54,11 @@ Directly supported with custom UI:
 * Honeycomb
   * Alpha
   * Bravo
-* Thrustmaster TCA Quadrant (incl. addons)
-* RealSimgear
+* Thrustmaster
+  * TCA Quadrant Airbus (incl. addons)
+  * TCA Quadrant Boenig
+  * Boeing Yoke
+* RealSimgear (Firmware >= 3.0.24 required)
   * CIRRUS-SW1&#x20;
   * G1000MFD15&#x20;
   * G1000XFD&#x20;
