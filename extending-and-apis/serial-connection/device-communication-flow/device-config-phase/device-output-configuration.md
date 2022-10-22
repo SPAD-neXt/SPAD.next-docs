@@ -44,7 +44,12 @@ A led is a simple output descriptor that always has at least the state ON or OFF
 | UI\_FACE=0  | A round led that changed fillcolor depending on it's state                |                                                                                                                                                                     |
 | UI\_FACE=1  | A rectangular led that changes foreground-color depending on it's state   | `FOREGROUND=Red`                                                                                                                                                    |
 | UI\_FACE=2  | A rectangular led that can change fore/background depending on it's state | <p><code>FOREGROUND.ON=Red</code><br><code>FOREGROUND.OFF=LightGray</code><br><code>BACKGROUND.ON=Transparent</code><br><code>BACKGROUND.OFF=Transparent</code></p> |
+| UI\_FACE=3  | Use custom provided images                                                |                                                                                                                                                                     |
 | NOIMG=1     | No background image                                                       |                                                                                                                                                                     |
+| COL\_0      | Color of OFF in UI (UI\_FACE != 3)                                        | LightGray                                                                                                                                                           |
+| COL\_1      | Color of ON in UI (UI\_FACE != 3)                                         | Yellow or #FFFF00                                                                                                                                                   |
+| IMG\_OFF    | Image for OFF (UI\_FACE = 3)                                              | \_PanelImages/LED\_OFF.png                                                                                                                                          |
+| IMG\_ON     | Image for ON (UI\_FACE = 3)                                               | \_PanelImages/LED\_ON.png                                                                                                                                           |
 
 ### Examples
 
