@@ -24,6 +24,7 @@ description: Videos Focused on the PMDG 737 for MSFS
    `EnableCDUBroadcast.1=1`\
    \
    to the SDK section\
+   **Make sure there is a newline/empty line after the section you added!**\
 
 5. start MSFS and load 737 ,start flight
 6. start SPAD.neXt
