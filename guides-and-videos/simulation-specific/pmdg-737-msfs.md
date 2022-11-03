@@ -66,3 +66,9 @@ Sticking with Autopilot Configurations we move on to the Logitech/Saitek Multi P
 Configure the MultiPanel for the PMDG 737(MSFS)
 {% endembed %}
 
+In this Video we delve into the Thrustmaster TCA Airbus 320 TQ with Add ONs and configure a complete setup for the PMDG 737 Series! Don't worry the Snippet is available now so you can download and fly in just a couple of minutes!!
+
+{% embed url="https://youtu.be/ksgmi13BBJo" %}
+PMDG 737 TCA TQ + Addons
+{% endembed %}
+
