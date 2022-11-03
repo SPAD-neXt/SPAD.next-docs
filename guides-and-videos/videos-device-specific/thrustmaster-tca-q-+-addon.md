@@ -24,3 +24,9 @@ FFX/MG HJet TCA TQ + Addon Configuration
 TCA TQ+Addon New Layout Overview
 {% endembed %}
 
+In this Video we delve into the Thrustmaster TCA Airbus 320 TQ with Add ONs and configure a complete setup for the PMDG 737 Series! Don't worry the Snippet is available now so you can download and fly in just a couple of minutes!!
+
+{% embed url="https://youtu.be/ksgmi13BBJo" %}
+PMDG 737 TCA TQ + Addons
+{% endembed %}
+
