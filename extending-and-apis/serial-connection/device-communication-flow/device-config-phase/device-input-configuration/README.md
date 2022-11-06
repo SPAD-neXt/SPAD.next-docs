@@ -18,13 +18,13 @@ All input definition follow the same definition.
 
 \<options> optional options to alter the behavior/ui of an input
 
-Options supported for all Inputs
+### Options supported for all Inputs and Outputs
 
-|             |                                                                        |   |
-| ----------- | ---------------------------------------------------------------------- | - |
-| NO\_LABEL=1 | Disable the state-value label above the input in SPAD.neXt standard UI |   |
-|             |                                                                        |   |
-|             |                                                                        |   |
+|                 |                                                                                             |   |
+| --------------- | ------------------------------------------------------------------------------------------- | - |
+| NO\_LABEL=1     | Disable the state-value label above the input in SPAD.neXt standard UI                      |   |
+| ORDER=\<number> | Defines the ordering in SPAD UI. Default 0 = All elements are shown in order as they arrive |   |
+|                 |                                                                                             |   |
 
 ### Sending INPUT updates
 
