@@ -13,7 +13,7 @@ Reply: none or 2,ERROR
 The subcommand `ADD` informs SPAD.neXt about a data value the device will provide. This data can be used in events or expressions like any simulation data in the SPAD.neXt UI.
 
 \
-&#x20;`1,ADD,<CHANNELID>,<path>,<valuetype>,<access>,<name>[,description][,options];`
+&#x20;`1,ADD,<CHANNELID>,<path>,<valuetype>,<access>,<name>[[,description][,options]];`
 
 | Parameter      | Description                                                                                                                                                                                                                                                                   | Limits                                             |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
@@ -24,11 +24,13 @@ The subcommand `ADD` informs SPAD.neXt about a data value the device will provid
 | \<name>        | human readable name of the data for the UI                                                                                                                                                                                                                                    |                                                    |
 | \<description> | optional description for the UI                                                                                                                                                                                                                                               |                                                    |
 
-Supported options
+#### Supported options
 
-|         |      |                                                                 |
-| ------- | ---- | --------------------------------------------------------------- |
-| ASLOCAL | 0\|1 | Create a LOCAL variable instead of a persistent DEVICE variable |
+|         |      |                                                                                      |
+| ------- | ---- | ------------------------------------------------------------------------------------ |
+| PERSIST | 0\|1 | <p>0 create LOCAL variable (default)</p><p>1 Create a persistent DEVICE variable</p> |
+
+#### PERSIST=1
 
 Within SPAD.neXt the data will be available in Device->Devicename. \
 Internally the Data is referenced as `DEVICE:{DeviceId}/<path>` \
@@ -36,14 +38,22 @@ e.g.  DEVICE:`A8AA15C5-7BB6-4AC6-A558-A88CAFB78729/buttons/button1`
 
 **Device Data is only available within the profile of the device.**&#x20;
 
+### Getting and setting
+
 SPAD.neXt will send data updates to the device and expect data using the given CHANNELID channel using the 5-Channel: 5,`<CHANNELID>,<value>;` \
-``\
-``Examples:\
-`1,ADD,11,pages//activepage,U8,RW,Active device page,My cool description;`
+``
 
-creates a variable `DEVICE:GUID/pages/activepage` available only within the deviceperofile of the device. outside of the deviceprofile this variable will always have the value 0
+### Examples
 
-`1,ADD,11,pages//activepage,U8,RW,Active device page,,ASLOCAL=1;`
+#### Persitent Device Variable
+
+`1,ADD,11,pages//activepage,U8,RW,Active device page,My cool description,PERSIST=1;`
+
+creates a variable `DEVICE:VID/PID/pages/activepage` available only within the deviceperofile of the device. outside of the deviceprofile this variable will always have the value 0
+
+#### Normal non-persistent local variable
+
+`1,ADD,11,pages//activepage,U8,RW,Active device page;`
 
 creates a variable `LOCAL:VID/PID/SERIAL/pages/activepage` available to all deviceprofiles within SPAD.neXt
 
