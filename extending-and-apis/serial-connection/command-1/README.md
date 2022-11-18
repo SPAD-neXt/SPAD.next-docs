@@ -124,3 +124,9 @@ Alternatively you can get a list of all devices and events at Settings->Applicat
 `1,LABEL,<index>,<newlabel>;`
 
 Updates the labeltext of a input/led (DYNLABEL=1 !) or a label pseudo input
+
+## Ask SPAD.neXt to resend all subscribed data
+
+`1,REFRESHDATA;`
+
+SPAD.neXt will send all currently subscribed data&#x20;
