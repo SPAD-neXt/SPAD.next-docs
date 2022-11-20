@@ -10,6 +10,12 @@ All Videos are curtesy of [Les O'Reilly](https://www.youtube.com/channel/UCL5U40
 New to SPAD.neXt then Start here with getting a quick run through the UI
 {% endembed %}
 
+Before you Bind in Devices in SPAD you need to make sure you have configured MSFS to Remove those devices/buttons/Axis that you will be setting up in your SPAD.neXt Profiles.  Lets Make New or Duplicate the Default Profiles in MSFS First!!
+
+{% embed url="https://youtu.be/cwpD6fGT_8g" %}
+Delete in MSFS FIRST!!!
+{% endembed %}
+
 Advanced Planes are going to Need the L:Var and H:Event Bridge...  So this is how to add it so you can access it :)
 
 {% embed url="https://youtu.be/UHeECsbE6Ew" %}
