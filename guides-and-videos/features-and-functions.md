@@ -57,3 +57,10 @@ This Video focuses on using a Local Variable that we Create to Allow us to assig
 {% embed url="https://youtu.be/uH3fGLts4Z4" %}
 Local Variable and Conditions = Multiple Display Options!
 {% endembed %}
+
+Using the "Import Device" feature.  Now you can Import a device from one of your other local profiles.  No longer need to switch profiles.. copy the device... switch back to Paste it!!
+
+{% embed url="https://youtu.be/R6_wmJeaYkk" %}
+Import Device Configuration From Another Local Profile
+{% endembed %}
+
