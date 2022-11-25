@@ -64,3 +64,8 @@ Using the "Import Device" feature.  Now you can Import a device from one of your
 Import Device Configuration From Another Local Profile
 {% endembed %}
 
+v0.9.12 introduced the Axis Range Feature to Standard Axis Configuration.  Now it is possible to create "zones" for the Full / Idle and Reverse ranges.  This will be really helpful for High resolution devices like the TCA throttles or Low Resolution where the end stops can sometimes mis a value or two..
+
+{% embed url="https://youtu.be/qa7k8X3UMZ8" %}
+Axis Ranges added in v0.9.12
+{% endembed %}
