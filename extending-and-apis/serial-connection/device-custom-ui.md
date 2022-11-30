@@ -4,7 +4,12 @@ description: Providing a Custom UI for a device
 
 # Device Custom UI
 
-All custom UI is defined as SVG or PNG images.&#x20;
+All custom UI is defined as SVG or PNG images. Transparent PNG are preferred.\
+Limitations:\
+\* Maximum size is 640x480 pixel \
+\* Images must have a DPI of 96. Else windows automatically will upscale them when rendering. E.g. Images has 72dpi => upscaling to 96dpi will cause the image dimensions to grow by 33% => Positions will not match what you expect them to be
+
+
 
 ### SVG
 
