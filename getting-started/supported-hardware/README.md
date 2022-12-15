@@ -17,8 +17,12 @@ Directly supported with custom UI:
   * Cessna Trimwheel
   * X.52
   * X.52 Pro
+* Cockpit-Simulator
+  * Boeing CDU Left/Right (\*)
+  * MCP (\*)
+  * EFIS Left/Right (\*)
 * Cockpitmaster
-  * Boeing CDU (\*)
+  * CDU (\*)&#x20;
 * Ultimarc
   * PACLed64
   * PACDrive
