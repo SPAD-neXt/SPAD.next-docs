@@ -37,3 +37,10 @@ Stream Deck Snippet and the WT CJ4
 {% embed url="https://youtu.be/_ZT5rXMJ4Us" %}
 Hardware CDU Implementation for the CJ4
 {% endembed %}
+
+Map the CJ4 FADEC Detents! Let's use Multiple Custom Axis to map these into custom ranges on the Throttle Axis! This method would work for any Throttle since it does not rely on the TCA TQ's Virtual Detent Buttons!
+
+{% embed url="https://youtu.be/hJ_l2uPIydk" %}
+Throttle FADEC Detents via Multiple Custom Axis
+{% endembed %}
+
