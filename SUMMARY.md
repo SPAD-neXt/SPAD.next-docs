@@ -3,11 +3,6 @@
 * [SPAD.neXt Manual](README.md)
 * [About SPAD.neXt](about.md)
 
-## Unsorted
-
-* [Untitled](unsorted/untitled.md)
-* [Untitled](unsorted/untitled-1.md)
-
 ## Getting Started
 
 * [System Requirements](getting-started/system-requirements.md)
