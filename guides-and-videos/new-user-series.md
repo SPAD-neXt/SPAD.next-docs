@@ -1,5 +1,5 @@
 ---
-description: All Videos are curtesy of Les O'Reilly
+description: All Videos are courtesy of Les O'Reilly
 ---
 
 # New User Series
