@@ -17,12 +17,12 @@ Directly supported with custom UI:
   * Cessna Trimwheel
   * X.52
   * X.52 Pro
-* Cockpit-Simulator
-  * Boeing CDU Left/Right (\*)
-  * MCP (\*)
-  * EFIS Left/Right (\*)
-* Cockpitmaster
-  * CDU (\*)&#x20;
+* Cockpit-Simulator (Cockpitmaster)
+  * 737 CDU Left/Right (\*)
+  * 737 MCP (\*)
+  * 737 EFIS Left/Right (\*)
+* Skalarki (\*)
+  * All devices (\*)
 * Ultimarc
   * PACLed64
   * PACDrive
@@ -43,6 +43,7 @@ Directly supported with custom UI:
   * GF-T8
   * GF-SECM
   * GF-MESM
+  * GF-TQ
 * Virtual Avionic
   * MCP
   * EFIS
