@@ -18,3 +18,7 @@ First Steps to add a GMA 350 for use in SPAD.neXt
 Configure the GMA 350 to work with Standard Aircraft
 {% endembed %}
 
+{% embed url="https://youtu.be/NcflcN5tX18" %}
+Add RSG GNS430 and Download the 430 Setup
+{% endembed %}
+
