@@ -17,12 +17,13 @@ Directly supported with custom UI:
   * Cessna Trimwheel
   * X.52
   * X.52 Pro
-* Cockpit-Simulator (Cockpitmaster)
+* Cockpit-Simulator / Cockpitmaster
   * 737 CDU Left/Right (\*)
   * 737 MCP (\*)
   * 737 EFIS Left/Right (\*)
-* Skalarki (\*)
-  * All devices (\*)
+* Skalarki&#x20;
+  * HOMELine: All devices (\*)
+  * PROLine: All devices(\*)
 * Ultimarc
   * PACLed64
   * PACDrive
@@ -59,6 +60,7 @@ Directly supported with custom UI:
 * Honeycomb
   * Alpha
   * Bravo
+  * Charlie
 * Thrustmaster
   * TCA Quadrant Airbus (incl. addons)
   * TCA Quadrant Boenig
@@ -66,21 +68,20 @@ Directly supported with custom UI:
 * RealSimgear (Firmware >= 3.0.24 required)
   * CIRRUS-SW1&#x20;
   * G1000MFD15&#x20;
-  * G1000XFD&#x20;
-  * GCU&#x20;
-  * GCU479&#x20;
-  * GFC500&#x20;
+  * G1000XFD /  G1000XFD1 / G1000XFD2
+  * GCU / GCU479  / GFC500&#x20;
   * GMA-Addon&#x20;
   * GMA350&#x20;
   * GNS430&#x20;
   * GNS530&#x20;
   * GTN650&#x20;
   * GTN750
-* Elgato Streamdeck (\*)
+* Elgato:
+  * &#x20;Streamdeck all versions (\*)
 * General Midi Devices (In & Out)
 * CoreFlightTech
   * Custom firmware required
 
 Furthermore, all Devices that show up on Windows as a Joystick are supported
 
-(\*) Complete Edition required
+(\*) SPAD.neXt Complete Edition required

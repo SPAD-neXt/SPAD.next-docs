@@ -1,10 +1,11 @@
 # MSFS: Enable PMDG data access
 
-To access MSFS PMDG Data from SPAD.neXt the following steps have to be completed:
+To access MSFS PMDG Data from SPAD.neXt the following steps have to be completed:\
+(Steps provided for the PMDG 737, for all other PMDG aircraft same steps epply for the aircrafr specific ini-file)
 
-1. In MSFS the 737 must have been loaded beyond "ready to fly" at least once and exited again.
+1. In MSFS the PMDG 737 must have been loaded beyond "ready to fly" at least once and exited again.
 2. Exit MSFS
-3. in file browser open \
+3. in Widnows File-Explorer open \
    Store/Gamepass Version \
    `%LOCALAPPDATA%\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalState\packages\pmdg-aircraft-737\work` \
    ``Steam Version \
@@ -17,22 +18,28 @@ To access MSFS PMDG Data from SPAD.neXt the following steps have to be completed
 `EnableCDUBroadcast.1=1`\
 ``
 
+{% hint style="info" %}
+The EnableCDUBroadcast entries are only needed if you have a CDU Device or want to access CDU Data within SPAD.neXt
+{% endhint %}
+
 {% hint style="danger" %}
-Make sure there is a newline/empty line after the last entry, eöse it will get deleted again
+Make sure there is a newline/empty line after the last entry, else it will get deleted again by the pmdg
 {% endhint %}
 
 1. start MSFS and load 737, start flight
 2. start SPAD.neXt
 3. Make sure in SPAD.neXt\
-   Settings->Application->FSX (SPAD.neXt 0.9.12 Alpha) \
-   Settings->Application->Simulations (SPAD.neXt 0.9.11.5) \
-   PMDG Support is enabled. (If it was not, enable it and restart SPAD.neXt)
+   Settings->Status\
+   PMDG Connection shows as connected. \
+   If it's not connected check the ini file.
 4. Always 3 green!
 
-* All Data in "PMDG 737 NGXu" should be working
-* All Simulation Events in "PMDG 737 NGXu" should be working.
-* Cockpitmaster CDU should be working right away
+All SDK Data and events are referenced in SPAD.neXt in the  "PMDG 737 NGXu" category
+
+
 
 P3D PMDG 737 NGXu SPAD.neXt Profiles should be working.
 
+{% hint style="danger" %}
 Please remember PMDG Simulation Events work exactly like the cockpit. Use the "PMDG Special Actions" to do with the event what you would do in cockpit with the mouse!
+{% endhint %}
