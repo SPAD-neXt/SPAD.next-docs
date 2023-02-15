@@ -22,3 +22,7 @@ Configure the GMA 350 to work with Standard Aircraft
 Add RSG GNS430 and Download the 430 Setup
 {% endembed %}
 
+{% embed url="https://youtu.be/lCfpk7FKRNY" %}
+Add RSG GNS530 and Download the 530 Snippet
+{% endembed %}
+
