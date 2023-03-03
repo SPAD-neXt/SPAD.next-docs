@@ -26,3 +26,7 @@ Add RSG GNS430 and Download the 430 Setup
 Add RSG GNS530 and Download the 530 Snippet
 {% endembed %}
 
+{% embed url="https://youtu.be/sXISlDau4h8" %}
+Connect and Apply Config for the RSG GMA-ADDon
+{% endembed %}
+
