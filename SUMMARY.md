@@ -19,6 +19,10 @@
     * [SimConnect Configuration](getting-started/untitled/simulation-specifc-steps/simconnect-configuration.md)
 * [First Start](getting-started/first-run-the-configuration-wizard/README.md)
   * [Configuration Wizard](getting-started/first-run-the-configuration-wizard/configuration-wizard.md)
+* [Common Tasks and Issues](getting-started/common-tasks-and-issues/README.md)
+  * [Move SPAD.neXt to new Computer](getting-started/common-tasks-and-issues/move-spad.next-to-new-computer.md)
+  * [Saitek/Logitech MP/RP blinking](getting-started/common-tasks-and-issues/saitek-logitech-mp-rp-blinking.md)
+  * [X-Plane error: Discover port blocked](getting-started/common-tasks-and-issues/x-plane-error-discover-port-blocked.md)
 
 ## User Interface
 
