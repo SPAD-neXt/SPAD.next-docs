@@ -30,7 +30,7 @@ It's no joy to gravel through megabytes of unnecessary logfiles if you update th
 There are 3 update channels available for SPAD.neXt
 
 * Release: This is the public release of SPAD.neXt. Your SPAD.neXt installation will automatically update to it, if your update subscription is valid for it
-* Beta: The upcoming pre-release, abailable only for "Complete Edition"-License users , or when assigned for special tests
+* Beta: The upcoming pre-release, available only for "Complete Edition"-License users , or when assigned for special tests
 * Alpha: The current development version of SPAD.neXt. This update channel is invite only for early adopters. To apply for participation, open a ticket from within SPAD.neXt. Development focus of current Alpha version can be reviewed in the SPAD.neXt-Discord in the apropiate #release-faq thread
 
 To change your update channel, head to Settings->Application->Expert in SPAD.neXt. All update channels available to you will be selectable.
