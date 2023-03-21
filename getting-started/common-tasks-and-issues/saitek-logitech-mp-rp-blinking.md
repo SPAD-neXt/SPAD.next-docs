@@ -9,4 +9,4 @@ If you do not need this feature, you can get rid off that blinking:
   * [ ] Stop the service if it is running
   * [ ] Set the Start-Type to "disabled"
 * [ ] reboot computer
-* [ ] It might be possibel to repeat this steps after a windows update or are the Steam-GameInput Redistributables are reinstalled
+* [ ] It might be necessary to repeat this steps after a windows update or if the Steam-GameInput Redistributables are reinstalled by a game installation
