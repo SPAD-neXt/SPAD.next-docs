@@ -35,3 +35,8 @@ There are 3 update channels available for SPAD.neXt
 
 To change your update channel, head to Settings->Application->Expert in SPAD.neXt. All update channels available to you will be selectable.
 
+### Thrustmaster TCA Speedbrake / Flaps are reversed
+
+Make sure the Speedbrake and Flaps are calibrated following the Thrustmaster Guide:\
+[https://ts.thrustmaster.com/download/accessories/manuals/TCA\_Quadrant/TCA\_Quadrant-Throttle-addons\_Calibration.pdf](https://ts.thrustmaster.com/download/accessories/manuals/TCA\_Quadrant/TCA\_Quadrant-Throttle-addons\_Calibration.pdf)
+
