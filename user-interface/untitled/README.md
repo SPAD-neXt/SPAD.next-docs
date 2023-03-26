@@ -12,7 +12,7 @@ When SPAD.neXt Launches and after initialization you are greeted with the follow
 
 The UI Contains Navigational Elements On the Left Hand side.  In addition there are two "quick selects" found in the Upper right side to Jump to the Settings and Support sections of the program. Seen in Fig 2 with the red arrow pointing to the location
 
-![](<../../.gitbook/assets/image (1) (1).png>)Fig 2
+![](<../../.gitbook/assets/image (1) (1) (2).png>)Fig 2
 
 The Left Most Column of the User Interface is the Navigation Column.  The Navigation Column is always visible while the second column to the right is the sub navigation or "Tabs" for the UI component that this selected in the Navigation Column.   Fig 3 points to these elements
 
