@@ -52,11 +52,11 @@ The next selection in the "Edit Profile" Action is found on the Bottom and will 
 \
 Select the Aircraft on the Left Side that you want to link to this profile and then press the Arrow to "transfer" them to the assigned aircraft on the Right hand side.  If you want to remove an aircraft you can select them on the Right Side and use the Left Arrow to remove them from the assignments Field.  Note: If you were editing a Profile and add an aircraft that is already assigned in another profile you will be warned that making the assignment will remove it from the other Profile.  Once finished press Save to confirm the assignments.
 
-![](<../../.gitbook/assets/image (2).png>)Fig 9
+![](<../../.gitbook/assets/image (2) (2).png>)Fig 9
 
 Continuing on with the Edit Actions is the Device Assignments operation (Fig 10) which will launch another dialog that lists all of the device configurations that were saved with this profile and which physically connected devices they are assigned too.  This can also help with re-mapping incase a duplicate device that only get instantiated by windows was out of order...  Once complete click OK
 
-![](<../../.gitbook/assets/image (1).png>)Fig 10
+![](<../../.gitbook/assets/image (1) (2).png>)Fig 10
 
 Moving on to the next Action item "Aircraft Assignments" in Fig 11 we see that there are quick selects that effectively take you to the same editor for the Aircraft Assignments as we saw in the Edit Profile section.  This is no different in operation however saves the button click of going into Edit Profile first when you just need to link a new Aircraft
 

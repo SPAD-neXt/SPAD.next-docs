@@ -6,7 +6,7 @@ description: Configuration of Midi Devices
 
 Setting up a Midi Device using the X-Touch Mini.  Covers application configuration and UI to Hardware explanation.  Example walkthrough for configuration Events to Encoder, Buttons and the LEDs to conditional events.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (17).png>)
 
 {% embed url="https://youtu.be/tbL4QMsABFE" %}
 X-Touch Mini Initial Setup and Config Examples
