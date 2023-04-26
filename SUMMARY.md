@@ -52,6 +52,7 @@
     * [vJoy](guides-and-videos/videos-device-specific/vjoy.md)
     * [VRinsight](guides-and-videos/videos-device-specific/videos-vrinsight.md)
   * [Simulation Specific](guides-and-videos/simulation-specific/README.md)
+    * [ATR 600 (MSFS)](guides-and-videos/simulation-specific/atr-600-msfs.md)
     * [AS CRJ 550/700/900/1000 (MSFS)](guides-and-videos/simulation-specific/as-crj-550-700-msfs.md)
     * [FBW A32NX (MSFS)](guides-and-videos/simulation-specific/fbw-a32nx-msfs.md)
     * [FFX/MG HJet (MSFS)](guides-and-videos/simulation-specific/ffx-mg-hjet-msfs.md)
