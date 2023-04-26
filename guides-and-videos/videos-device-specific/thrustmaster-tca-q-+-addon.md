@@ -36,3 +36,7 @@ Plenty of Jets have Throttle FADEC Detents!  Let's use Multiple Custom Axis to m
 Throttle FADEC Detents via Multiple Custom Axis
 {% endembed %}
 
+{% embed url="https://youtu.be/YS-2_swi-18" %}
+ATR - 600 Full TCA TQ with Addons
+{% endembed %}
+
