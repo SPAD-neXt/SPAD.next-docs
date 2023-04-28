@@ -9,3 +9,7 @@ Full TCA-TQ Configuration.  All ATR TQ controls fully supported.  Plus ability t
 {% embed url="https://youtu.be/YS-2_swi-18" %}
 ATR - 600 Full TCA TQ with Addons
 {% endembed %}
+
+{% embed url="https://youtu.be/6jvi3-dWNQs" %}
+Find The Control L:VARs via the Data Monitor
+{% endembed %}

@@ -27,3 +27,6 @@ Getting Started with L:Vars using the CRJ
 Disable WT GNS LVARS to Run TDS External Mode
 {% endembed %}
 
+{% embed url="https://youtu.be/6jvi3-dWNQs" %}
+Find The Control L:VARs via the Data Monitor
+{% endembed %}
