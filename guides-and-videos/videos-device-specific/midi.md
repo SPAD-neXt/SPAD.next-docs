@@ -30,3 +30,7 @@ In this video we map the XTouch Mini to work with the WT G1000 NXi and the SWS K
 XTouch Setup for G1000 NXi
 {% endembed %}
 
+{% embed url="https://youtu.be/lWJrVxHxHS0" %}
+MS ATR 600 X-Touch Autopilot Configuration
+{% endembed %}
+

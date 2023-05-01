@@ -13,3 +13,7 @@ ATR - 600 Full TCA TQ with Addons
 {% embed url="https://youtu.be/6jvi3-dWNQs" %}
 Find The Control L:VARs via the Data Monitor
 {% endembed %}
+
+{% embed url="https://youtu.be/lWJrVxHxHS0" %}
+MS ATR 600 X-Touch Autopilot Configuration
+{% endembed %}
