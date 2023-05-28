@@ -8,3 +8,6 @@ Getting Started with the Stream Deck and SPAD.neXt
 Link a Stream Deck and an Encoder together .. Full Control!!!
 {% endembed %}
 
+{% embed url="https://youtu.be/lMVo2-qHImQ" %}
+v0.9.13 New UI for Button Images and Text
+{% endembed %}
