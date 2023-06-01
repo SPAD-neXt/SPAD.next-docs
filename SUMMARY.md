@@ -56,6 +56,7 @@
     * [AS CRJ 550/700/900/1000 (MSFS)](guides-and-videos/simulation-specific/as-crj-550-700-msfs.md)
     * [FBW A32NX (MSFS)](guides-and-videos/simulation-specific/fbw-a32nx-msfs.md)
     * [FFX/MG HJet (MSFS)](guides-and-videos/simulation-specific/ffx-mg-hjet-msfs.md)
+    * [FFX Vision Jet](guides-and-videos/simulation-specific/ffx-vision-jet.md)
     * [FSW C414AW (MSFS)](guides-and-videos/simulation-specific/fsw-c414aw-msfs.md)
     * [PMDG 737 (MSFS)](guides-and-videos/simulation-specific/pmdg-737-msfs.md)
     * [SWS Kodiak (MSFS)](guides-and-videos/simulation-specific/sws-kodiak-msfs.md)
