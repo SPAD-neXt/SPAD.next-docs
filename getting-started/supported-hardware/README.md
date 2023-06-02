@@ -19,6 +19,7 @@ Directly supported with custom UI:
 * Elgato
   * Stream Deck Mini – 6 Buttons (\*)
   * Stream Deck – 15 Buttons (\*)
+  * Stream Deck MK.2 – 15 Buttons (\*)
   * Stream Deck XL – 32 Buttons (\*)
   * Stream Deck Plus – 8 Buttons + 4 Encoders (\*)
 * Generic USB Joystick Devices
