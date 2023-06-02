@@ -1,87 +1,108 @@
 # Supported hardware
 
-Note: Saitek has been acquired by Logitech and all devices will be renamed. This documentation uses the old common names for the devices.
-
 Directly supported with custom UI:
 
-* Saitek / Logitech
-  * Switch Panel
-  * Multi Panel
-  * Backlight Information Panel (BIP)
-  * Radio Panel
-  * Flight Instrument Panel (FIP)
-  * Quadrant (USB)
-  * Pro Yoke
-  * Cessna Yoke
-  * TPM&#x20;
-  * Cessna Trimwheel
-  * X.52
-  * X.52 Pro
+(\*) SPAD.neXt Complete Edition required.
+
+
+
+* Arduino
+  * SPAD.neXt Serial Protocol v1
+  * SPAD.neXt Serial Protocol v2
+  * USB-HID Joystick Library (Standard Joystick UI)
 * Cockpit-Simulator / Cockpitmaster
   * 737 CDU Left/Right (\*)
   * 737 MCP (\*)
   * 737 EFIS Left/Right (\*)
-* Skalarki&#x20;
-  * HOMELine: All devices (\*)
-  * PROLine: All devices(\*)
-* Ultimarc
-  * PACLed64
-  * PACDrive
-* OpenCockpits
-  * MCP v3
-  * EFIS
+* CoreFlightTech
+  * Custom firmware required.
+* Elgato
+  * Stream Deck Mini – 6 Buttons (\*)
+  * Stream Deck – 15 Buttons (\*)
+  * Stream Deck XL – 32 Buttons (\*)
+  * Stream Deck Plus – 8 Buttons + 4 Encoders (\*)
+* Generic USB Joystick Devices
+  * All USB-HID Joysticks – If Windows Says it’s a Joystick SPAD.neXt will Discover it and use the Generic Joystick UI!
 * GoFlight
-  * GF-WCP
-  * GF-MCP
-  * GF-MCP Pro
-  * GF-EFIS
   * GF-46
   * GF-166
+  * GF-EFIS
   * GF-LGT
   * GF-LGT II
-  * GF-RP48
-  * GF-P8
-  * GF-T8
-  * GF-SECM
+  * GF-MCP
+  * GF-MCP Pro
   * GF-MESM
+  * GF-P8
+  * GF-RP48
+  * GF-SECM
+  * GF-T8
   * GF-TQ
-* Virtual Avionic
-  * MCP
-  * EFIS
-* VRInsight
-  * Boeing MCP Combo II
-  * Airbus MCP Combo II
-  * FMER
-  * GPS
-  * ProPt
-  * Overhead 737 (\*)
-  * Overhead A320 (\*)
-* SimInnovations Knobster
+  * GF-WCP
 * Honeycomb
   * Alpha
   * Bravo
   * Charlie
-* Thrustmaster
-  * TCA Quadrant Airbus (incl. addons)
-  * TCA Quadrant Boenig
-  * Boeing Yoke
-* RealSimgear (Firmware >= 3.0.24 required)
-  * CIRRUS-SW1&#x20;
-  * G1000MFD15&#x20;
-  * G1000XFD /  G1000XFD1 / G1000XFD2
-  * GCU / GCU479  / GFC500&#x20;
-  * GMA-Addon&#x20;
-  * GMA350&#x20;
-  * GNS430&#x20;
-  * GNS530&#x20;
-  * GTN650&#x20;
+* Midi Devices (In & Out)
+  * General/Standard Midi (Discovery On First Use)
+  * Behringer X-Touch (Factory Default expected)
+* OpenCockpits
+  * MCP v3
+  * EFIS
+* RealSimGear (Firmware >= 3.0.24 required)
+  * CIRRUS-SW1
+  * G1000MFD15
+  * G1000XFD / G1000XFD1 / G1000XFD2
+  * GCU47X / GCU479
+  * GFC500 / GFC700
+  * GMA-Addon
+  * GMA350
+  * GNS430
+  * GNS530
+  * GTN650
   * GTN750
-* Elgato:
-  * &#x20;Streamdeck all versions (\*)
-* General Midi Devices (In & Out)
-* CoreFlightTech
-  * Custom firmware required
+* Saitek / Logitech (Note 1 )
+  * Backlight Information Panel (BIP)
+  * Cessna TPM
+  * Cessna TrimWheel
+  * Cessna Yoke
+  * Pro Flight Instrument Panel (FIP)
+  * Pro Flight Multi Panel
+  * Pro Flight Quadrant (USB)
+  * Pro Flight Radio Panel
+  * Pro Flight Switch Panel
+  * Pro Flight Yoke
+  * X.52
+  * X.52 Pro
+  * X55/X56 (Standard Joystick UI)
+* Shakeprint Simulations
+  * Class Echo Desktop
+  * Class Echo Mobile
+  * Shakeprint Knob
+* SimInnovations Knobster
+* Skalarki
+  * HOMELine: All devices (\*)
+  * PROLine: All devices (\*)
+* Thrustmaster
+  * TCA Airbus Side Stick (Standard Joystick UI)
+  * TCA Airbus Quadrant (incl. addons)
+  * TCA Boeing Quadrant
+  * TCA Boeing Yoke
+  * TM TPR / T-Flight / Warthog etc. (Standard Joystick UI)
+* Ultimarc
+  * PACLed64
+  * PACDrive
+* Virtual Avionics
+  * EFIS (Partial)
+  * MCP
+* VRInsight
+  * Airbus MCP Combo II
+  * Boeing MCP Combo II
+  * FMER
+  * GPS
+  * Overhead 737 (\*)
+  * Overhead A320 (\*)
+  * ProPt
 
-Furthermore, all Devices that show up on Windows as a Joystick are supported
+&#x20;
 
-(\*) SPAD.neXt Complete Edition required
+Note (1): Saitek has been acquired by Logitech and all devices will be renamed. This documentation uses the old common names for the devices.
