@@ -6,7 +6,7 @@ Request from SPAD.neXt:\
 `0,INIT,<SerialVersion>,<AppVersion>,<AuthToken>`
 
 `Parameters`\
-``
+
 
 | \<SerialVersion> | <p>Version of the serial protocol supported <br>2 means SPAD.neXt  supports version 1 and version 2<br>The current version is 2</p>                                                                                                                                    |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -117,7 +117,7 @@ if PID is defined for a device, all its inputs will be available as LOCAL variab
 `LOCAL:C0NNEX_FCU_I_AP1`\
 `LOCAL:C0NNEX_FCU_I_AP1_2` (second FCU device)
 
-``
+
 
 ## **INIT Examples**
 
@@ -131,5 +131,5 @@ Request from SPAD.neXt: \
 `0,INIT,2,0.9.10.0,73993732632;`\
 Reply from device:\
 `0,SPAD,{A8AA15C5-7BB6-4AC6-A558-A88CAFB78729},Demo,2,1.0,AUTHOR=a3dhfc4323dca,PID=Echo`\
-``The user associated with authorkey a3dhfc4323dca will be able to edit the device configuration. SPAD.neXT will frist search in `Documents/SPAD.neXt/devices/a3dhfc4323dca/shakeprint/echo` for local configurations
+The user associated with authorkey a3dhfc4323dca will be able to edit the device configuration. SPAD.neXT will frist search in `Documents/SPAD.neXt/devices/a3dhfc4323dca/shakeprint/echo` for local configurations
 

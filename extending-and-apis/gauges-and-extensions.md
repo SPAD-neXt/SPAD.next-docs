@@ -4,7 +4,7 @@ description: SPAD.neXt generally supports ESP compatible gauges
 
 # Gauges and Extensions
 
-Gauges loaded into SPAD.neXt have to match this schema: `` [`Gauge.xsd`](https://github.com/c0nnex/SPAD.neXt/blob/master/Gauges/gauge.xsd)``
+Gauges loaded into SPAD.neXt have to match this schema: [`Gauge.xsd`](https://github.com/c0nnex/SPAD.neXt/blob/master/Gauges/gauge.xsd)
 
 RPN Expressions have to be ESP RPN conform!
 
@@ -29,7 +29,7 @@ To access LVAR use the prefix **LVAR: (FSX/P3D/MSFS only)**\
 `(LVAR:AB_MCP_AP_ON, Number)`&#x20;
 
 To access FSUIPC Offsets use the Prefix **FSUIPC:**\
-****(FSUIPC:0000:0AB2, Number)
+(FSUIPC:0000:0AB2, Number)
 
 You can copy a dataref from the data browser to you cilpboard, by selecting it and pressing CTRL-C or the OK Button.
 
@@ -40,10 +40,10 @@ PMDG (P3D):\
 
 `ETS2`\
 `(SCS:scs/truck/fuel)`\
-``\
+\
 `X-Plane:`\
 `(XPLANE:sim/cockpit2/annunciators/afterburner)`\
-``
+
 
 #### Local Variables access
 

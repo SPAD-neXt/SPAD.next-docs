@@ -13,7 +13,7 @@ For defining an output descriptor the following command syntax is used:
 \<DeviceIndex> is the numercial index the output should be used by SPAD when sending updates to the device (See [LED](../../device-led-update-channel-6.md) / [DISPLAY ](../../device-display-update-channel-7.md)update   ). For Led commonly the pin on the device can be used as \<DeviceIndex>. This way no more internal processing needs to be done on the device. \
 The \<DeviceIndex> should be unique per \<Type>
 
-\<Tag> being the internal name SPAD.neXt should use for events bound to that output descriptor. \<Tag>'s must be unique device wide. It's generally a good idea to give the \<TAG> a prefix (e.g. `L_` __ for led and `D_` for Displays)
+\<Tag> being the internal name SPAD.neXt should use for events bound to that output descriptor. \<Tag>'s must be unique device wide. It's generally a good idea to give the \<TAG> a prefix (e.g. `L_` for led and `D_` for Displays)
 
 \<Type> the type of the output descriptor\
 Currently there are two types of output descriptors  supported:
@@ -26,7 +26,7 @@ Currently there are two types of output descriptors  supported:
 
 ## Device output LED
 
-A led is a simple output descriptor that always has at least the state ON or OFF ``&#x20;
+A led is a simple output descriptor that always has at least the state ON or OFF&#x20;
 
 #### Available \<Inherits> for led
 
@@ -69,22 +69,7 @@ The only available \<Inherits> for a display is
 
 All configuration is done via the options:
 
-| Option             | Value                         | Description                                                                            |
-| ------------------ | ----------------------------- | -------------------------------------------------------------------------------------- |
-| LENGTH             | integer                       | Length of each row in characters                                                       |
-| ROWS               | integer                       | number of rows                                                                         |
-| SEGMENTS           | integer                       | number of segements per row. Each segments will be LENGTH/SEGEMENTS width (Default: 0) |
-| DEFAULT            | any                           | Default value to display                                                               |
-| NOPADDING          | 0\|1                          | Disable padding and aligment of output values                                          |
-| NOSEGMENTROWEVENTS | 0\|1                          | SPAD will only send updates per row, not per segment                                   |
-| SEGMENTALIGN       | LEFT\|RIGHT (... per segment) | Alignment of segment value (Default: Right)                                            |
-| TEXTALIGN          | LEFT\|RIGHT                   | Aligment of row (Default: right)                                                       |
-| `FONT`             | string                        | Name of the font to use (Default: Builtin LCD Font)                                    |
-| FOREGROUND         | #RRGGBB                       | Forground color (Default: Blue #FFF0F8)                                                |
-| BACKGROUND         | #RRGGBB                       | Background color (Default: Black #000000)                                              |
-| FONTSIZE           | number                        | Size of the UI font (Default: Height of one display row)                               |
-| HEIGHT             | number                        | Height of display in pixels (UI)                                                       |
-| WIDTH              | number                        | Width of display in pixels (UI)                                                        |
+<table><thead><tr><th width="269.3333333333333">Option</th><th width="223.50597609561754">Value</th><th>Description</th></tr></thead><tbody><tr><td>LENGTH</td><td>integer</td><td>Length of each row in characters</td></tr><tr><td>ROWS</td><td>integer</td><td>number of rows</td></tr><tr><td>SEGMENTS</td><td>integer</td><td>number of segements per row. Each segments will be LENGTH/SEGEMENTS width (Default: 0)</td></tr><tr><td>DEFAULT</td><td>any</td><td>Default value to display</td></tr><tr><td>NOPADDING</td><td>0|1</td><td>Disable padding and aligment of output values</td></tr><tr><td>NOSEGMENTROWEVENTS</td><td>0|1</td><td>SPAD will only send updates per row, not per segment</td></tr><tr><td>SEGMENTALIGN</td><td>LEFT|RIGHT (... per segment)</td><td>Alignment of segment value (Default: Right)</td></tr><tr><td>TEXTALIGN</td><td>LEFT|RIGHT</td><td>Aligment of row (Default: right)</td></tr><tr><td><code>FONT</code></td><td>string</td><td>Name of the font to use (Default: Builtin LCD Font)</td></tr><tr><td>FOREGROUND</td><td>#RRGGBB</td><td>Forground color (Default: Blue #FFF0F8)</td></tr><tr><td>BACKGROUND</td><td>#RRGGBB</td><td>Background color (Default: Black #000000)</td></tr><tr><td>FONTSIZE</td><td>number</td><td>Size of the UI font (Default: Height of one display row)</td></tr><tr><td>HEIGHT</td><td>number</td><td>Height of display in pixels (UI)</td></tr><tr><td>WIDTH</td><td>number</td><td>Width of display in pixels (UI)</td></tr></tbody></table>
 
 Examples
 

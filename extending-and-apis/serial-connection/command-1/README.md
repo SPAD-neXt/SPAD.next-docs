@@ -15,14 +15,7 @@ The subcommand `ADD` informs SPAD.neXt about a data value the device will provid
 \
 &#x20;`1,ADD,<CHANNELID>,<path>,<valuetype>,<access>,<name>[[,description][,options]];`
 
-| Parameter      | Description                                                                                                                                                                                                                                                                   | Limits                                             |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| `<CHANNELID>`  | the Channel the device/SPAD.neXt will use to send updates for that data                                                                                                                                                                                                       | >= 10                                              |
-| \<path>        | <p> name of the data value. <br>To place it in a tree "//" can be used to separate the nodes. e.g. <code>buttons//button1</code> (<strong>note the escaped "/" !!</strong><br><strong></strong>If using CmdMessenger-Lib the escaping will be done automatically for you)</p> | name must not start with /                         |
-| \<valuetype>   | type of the data (**S**igned/**U**nsigned)                                                                                                                                                                                                                                    | `S8 S16 S32 S64 U8 U16 U32 U64 FLT32 FLT64 ASCIIZ` |
-| \<acces>       | **RO** for readonly, **RW** for readwrite                                                                                                                                                                                                                                     |                                                    |
-| \<name>        | human readable name of the data for the UI                                                                                                                                                                                                                                    |                                                    |
-| \<description> | optional description for the UI                                                                                                                                                                                                                                               |                                                    |
+<table><thead><tr><th width="177.24106344373394">Parameter</th><th width="345.85251798561154">Description</th><th>Limits</th></tr></thead><tbody><tr><td><code>&#x3C;CHANNELID></code></td><td>the Channel the device/SPAD.neXt will use to send updates for that data</td><td>>= 10</td></tr><tr><td>&#x3C;path></td><td> name of the data value. <br>To place it in a tree "//" can be used to separate the nodes. e.g. <code>buttons//button1</code> (<strong>note the escaped "/" !!</strong><br>If using CmdMessenger-Lib the escaping will be done automatically for you)</td><td>name must not start with /</td></tr><tr><td>&#x3C;valuetype></td><td>type of the data (<strong>S</strong>igned/<strong>U</strong>nsigned)</td><td><code>S8 S16 S32 S64 U8 U16 U32 U64 FLT32 FLT64 ASCIIZ</code></td></tr><tr><td>&#x3C;acces></td><td><strong>RO</strong> for readonly, <strong>RW</strong> for readwrite</td><td></td></tr><tr><td>&#x3C;name></td><td>human readable name of the data for the UI</td><td></td></tr><tr><td>&#x3C;description></td><td>optional description for the UI</td><td></td></tr></tbody></table>
 
 #### Supported options
 
@@ -41,7 +34,7 @@ e.g.  DEVICE:`A8AA15C5-7BB6-4AC6-A558-A88CAFB78729/buttons/button1`
 ### Getting and setting
 
 SPAD.neXt will send data updates to the device and expect data using the given CHANNELID channel using the 5-Channel: 5,`<CHANNELID>,<value>;` \
-``
+
 
 ### Examples
 
@@ -72,12 +65,7 @@ the subcommand `SUBSCRIBE` with subscribe the device to a data value from SPAD.n
 
 `1,SUBSCRIBE,<index>,<path>[,<unit>[,<epsilon>]];`
 
-|            |                                                                                                                                          |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| `<index>`  | the index associated with the data                                                                                                       |
-| \<path>    | internal name of the data value to subscribe to. E.g. `SIMCONNECT:AUTOPILOT HEADING LOCK DIR` `XPLANE:SIM/COCKPIT/AUTOPILOT/HEADING_MAG` |
-| \<unit>    | desired unit, if not default (e.g. 'degrees','radians','Hz','kHz','MHz')                                                                 |
-| \<epsilon> | minimum change that must happen before an update will be sent to the device. If it's omitted the default value for the data will be used |
+<table><thead><tr><th width="229.79003622134843"></th><th></th></tr></thead><tbody><tr><td><code>&#x3C;index></code></td><td>the index associated with the data</td></tr><tr><td>&#x3C;path></td><td>internal name of the data value to subscribe to. E.g. <code>SIMCONNECT:AUTOPILOT HEADING LOCK DIR</code> <code>XPLANE:SIM/COCKPIT/AUTOPILOT/HEADING_MAG</code></td></tr><tr><td>&#x3C;unit></td><td>desired unit, if not default (e.g. 'degrees','radians','Hz','kHz','MHz')</td></tr><tr><td>&#x3C;epsilon></td><td>minimum change that must happen before an update will be sent to the device. If it's omitted the default value for the data will be used</td></tr></tbody></table>
 
 
 
@@ -91,7 +79,7 @@ SPAD.neXt will send the subscribed data on the 5-Channel in the format
 
 Example\
 1,SUBSCRIBE,12,SIMCONNECT:AUTOPILOT HEADING LOCK DIR\
-``1,SUBSCRIBE,12,SIMCONNECT:AUTOPILOT HEADING LOCK DIR,radians\
+1,SUBSCRIBE,12,SIMCONNECT:AUTOPILOT HEADING LOCK DIR,radians\
 1,SUBSCRIBE,12,XPLANE:sim//cockpit//autopilot//heading\_mag,,5
 
 {% hint style="info" %}

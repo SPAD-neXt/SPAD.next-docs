@@ -8,7 +8,7 @@ To access MSFS PMDG Data from SPAD.neXt the following steps have to be completed
 3. in Widnows File-Explorer open \
    Store/Gamepass Version \
    `%LOCALAPPDATA%\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalState\packages\pmdg-aircraft-737\work` \
-   ``Steam Version \
+   Steam Version \
    `%APPDATA%\Microsoft Flight Simulator\Packages\pmdg-aircraft-737\work`
 4. Add to end of 737\_Options.ini
 
@@ -16,7 +16,7 @@ To access MSFS PMDG Data from SPAD.neXt the following steps have to be completed
 `EnableDataBroadcast=1` \
 `EnableCDUBroadcast.0=1` \
 `EnableCDUBroadcast.1=1`\
-``
+
 
 {% hint style="info" %}
 The EnableCDUBroadcast entries are only needed if you have a CDU Device or want to access CDU Data within SPAD.neXt

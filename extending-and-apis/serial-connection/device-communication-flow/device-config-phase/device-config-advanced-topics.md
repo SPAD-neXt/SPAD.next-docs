@@ -34,7 +34,7 @@ Again,just configure the encoder and the additional switch
 
 `0,INPUT,2000,E_HDG,ENCODER,SPAD_ENCODER_ACC;`\
 `0,INPUT,7,S_HDG_PULL,SWITCH,SPAD_SWITCH,HIDDEN=1,ROUTETO=E_HDG;`\
-``
+
 
 ### Complex Examples
 

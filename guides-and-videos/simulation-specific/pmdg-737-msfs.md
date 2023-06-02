@@ -11,7 +11,7 @@ description: Videos Focused on the PMDG 737 for MSFS
 3. In Windows File Browser open \
    Store/Gamepass Version \
    `%LOCALAPPDATA%\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalState\packages\pmdg-aircraft-737\work` \
-   ``Steam Version \
+   Steam Version \
    `%APPDATA%\Microsoft Flight Simulator\Packages\pmdg-aircraft-737\work` \
    For the 737-600 the folder is "pmdg-aircraft-736"
 4. Add to end of 737\_Options.ini\
