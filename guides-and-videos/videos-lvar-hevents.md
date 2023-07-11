@@ -30,3 +30,8 @@ Disable WT GNS LVARS to Run TDS External Mode
 {% embed url="https://youtu.be/6jvi3-dWNQs" %}
 Find The Control L:VARs via the Data Monitor
 {% endembed %}
+
+{% embed url="https://youtu.be/w9Wgk9cp05E" %}
+XML or Dev Mode - Find H:Events
+{% endembed %}
+
