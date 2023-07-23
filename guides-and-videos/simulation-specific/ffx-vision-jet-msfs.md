@@ -11,3 +11,8 @@ Vision Jet v2 VAMS Stream Deck Mapping
 {% embed url="https://youtu.be/urWoDjiZBG4" %}
 Vision Jet v2 GTC Operation and Bezel Control Mapping
 {% endembed %}
+
+{% embed url="https://youtu.be/heMHhlSGDoI" %}
+Stream Deck XL + Quadster = Vision Control Overload!
+{% endembed %}
+
