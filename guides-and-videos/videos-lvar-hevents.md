@@ -21,6 +21,10 @@ Install the L:Var and H:Event WASM Bridge
 Getting Started with L:Vars using the CRJ
 {% endembed %}
 
+{% embed url="https://youtu.be/Tw53OCbGvQg" %}
+Add H:Events or K:Events Manually
+{% endembed %}
+
 
 
 {% embed url="https://youtu.be/cTnzSreUoSs" %}
