@@ -69,3 +69,10 @@ v0.9.12 introduced the Axis Range Feature to Standard Axis Configuration.  Now i
 {% embed url="https://youtu.be/qa7k8X3UMZ8" %}
 Axis Ranges added in v0.9.12
 {% endembed %}
+
+Using an L:Var, an Expression and a Local Variable we will create a Script Panel Conditional Action to Pause the AAU2 WT 787 at the Top of Descent!
+
+{% embed url="https://youtu.be/_ctv-IoEcHA" %}
+Pause the AAU2 WT 787 at Top of Descent
+{% endembed %}
+

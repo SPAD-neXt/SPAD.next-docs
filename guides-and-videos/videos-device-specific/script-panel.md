@@ -12,3 +12,9 @@ Use the Script Panel to track L:Vars and write Sim Vars for vPilot
 Let's play with the Script Panel to Pause the Sim For us!
 {% endembed %}
 
+Using an L:Var, an Expression and a Local Variable we will create a Script Panel Conditional Action to Pause the AAU2 WT 787 at the Top of Descent!
+
+{% embed url="https://youtu.be/_ctv-IoEcHA" %}
+Pause the AAU2 WT 787 at Top of Descent
+{% endembed %}
+
