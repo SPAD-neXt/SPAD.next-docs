@@ -24,3 +24,7 @@ With the Vision Jet v2.1 on the path to release I felt updating the Stream Deck 
 Stream Deck XL + Quadster = Vision Control Overload!
 {% endembed %}
 
+{% embed url="https://youtu.be/Gwb3Bqpg2Tg" %}
+Kodiak Engine Reset - LVars and Events
+{% endembed %}
+

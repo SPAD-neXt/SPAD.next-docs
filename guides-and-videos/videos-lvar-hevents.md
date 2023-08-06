@@ -39,3 +39,6 @@ Find The Control L:VARs via the Data Monitor
 XML or Dev Mode - Find H:Events
 {% endembed %}
 
+{% embed url="https://youtu.be/Gwb3Bqpg2Tg" %}
+Kodiak Engine Reset - LVars and Events
+{% endembed %}

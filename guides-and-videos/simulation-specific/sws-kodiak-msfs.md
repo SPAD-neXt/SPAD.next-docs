@@ -16,3 +16,7 @@ XTouch Setup for G1000 NXi
 HC Alpha for the SWS Kodiak
 {% endembed %}
 
+{% embed url="https://youtu.be/Gwb3Bqpg2Tg" %}
+Kodiak Engine Reset - LVars and Events
+{% endembed %}
+
