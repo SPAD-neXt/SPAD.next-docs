@@ -139,11 +139,11 @@ An easy way to figure out your ip address is to press the WINDOWS key and type i
 
 Type in "ipconfig" and press enter
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (1).png>)
 
 RUN The Config Wizard on the Networked PC.  Make sure to select Remote/Network then Start the Wizard.
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (2).png>)
 
 STEP 2:  Add the IP Address and Port number as entered in the Sim PC XML.
 

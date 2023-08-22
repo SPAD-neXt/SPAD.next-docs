@@ -75,6 +75,7 @@
   * [Referencing Simulation Data](features/expressions/referencing-simulation-data.md)
   * [Operators](features/expressions/operators.md)
   * [Functions](features/expressions/functions.md)
+  * [Examples](features/expressions/examples.md)
 * [Tuner Acceleration](features/tuner-acceleration.md)
 
 ## Event programming
