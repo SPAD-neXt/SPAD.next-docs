@@ -6,8 +6,8 @@ description: All Videos are courtesy of Les O'Reilly
 
 All Videos are curtesy of [Les O'Reilly](https://www.youtube.com/channel/UCL5U40EKkvjXF5PA24\_IyKA)
 
-{% embed url="https://youtu.be/-tTl33LGAH0" %}
-New to SPAD.neXt then Start here with getting a quick run through the UI
+{% embed url="https://youtu.be/f7j7N0hGlmI" %}
+New to SPAD.neXt then Start here.   Install Applications and UI Walkthrough
 {% endembed %}
 
 Before you Bind in Devices in SPAD you need to make sure you have configured MSFS to Remove those devices/buttons/Axis that you will be setting up in your SPAD.neXt Profiles.  Lets Make New or Duplicate the Default Profiles in MSFS First!!
