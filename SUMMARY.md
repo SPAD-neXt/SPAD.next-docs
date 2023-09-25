@@ -38,7 +38,7 @@
   * [Features & Functions](guides-and-videos/features-and-functions.md)
   * [Device Specific](guides-and-videos/videos-device-specific/README.md)
     * [Arduino / SPAD Serial](guides-and-videos/videos-device-specific/arduino-spad-serial.md)
-    * [Cockpit Master CDU](guides-and-videos/videos-device-specific/cockpit-master-cdu.md)
+    * [Cockpit Simulator CDU](guides-and-videos/videos-device-specific/cockpit-simulator-cdu.md)
     * [Honeycomb](guides-and-videos/videos-device-specific/honeycomb.md)
     * [Joystick (Generic HID)](guides-and-videos/videos-device-specific/joystick-generic-hid.md)
     * [Midi](guides-and-videos/videos-device-specific/midi.md)
