@@ -12,7 +12,7 @@ Example involves using the GPS ETA or ETE and getting conversion to a clean Hour
 ```
 // Format and Timespan
 
-Format(Timespan ([SIMCONNECT:GPS ETE]*1000), 'hh:mm:ss') 
+Format(TimeSpan([SIMCONNECT:GPS ETE]*1000),'hh\\:mm\\:ss')
 ```
 
 
