@@ -20,10 +20,10 @@
 * [First Start](getting-started/first-run-the-configuration-wizard/README.md)
   * [Configuration Wizard](getting-started/first-run-the-configuration-wizard/configuration-wizard.md)
 * [Common Tasks and Issues](getting-started/common-tasks-and-issues/README.md)
-  * [MSFS Specific Topics](getting-started/common-tasks-and-issues/msfs-specific-topics.md)
   * [Move SPAD.neXt to new Computer](getting-started/common-tasks-and-issues/move-spad.next-to-new-computer.md)
   * [Saitek/Logitech MP/RP blinking](getting-started/common-tasks-and-issues/saitek-logitech-mp-rp-blinking.md)
-  * [X-Plane error: Discover port blocked](getting-started/common-tasks-and-issues/x-plane-error-discover-port-blocked.md)
+  * [MSFS Specific Topics](getting-started/common-tasks-and-issues/msfs-specific-topics.md)
+  * [X-Plane specific Topics](getting-started/common-tasks-and-issues/x-plane-specific-topics.md)
 
 ## User Interface
 
