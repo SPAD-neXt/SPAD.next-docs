@@ -40,3 +40,6 @@ To change your update channel, head to Settings->Application->Expert in SPAD.neX
 Make sure the Speedbrake and Flaps are calibrated following the Thrustmaster Guide:\
 [https://ts.thrustmaster.com/download/accessories/manuals/TCA\_Quadrant/TCA\_Quadrant-Throttle-addons\_Calibration.pdf](https://ts.thrustmaster.com/download/accessories/manuals/TCA\_Quadrant/TCA\_Quadrant-Throttle-addons\_Calibration.pdf)
 
+
+
+###
