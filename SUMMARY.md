@@ -132,6 +132,10 @@
 
 * [Untitled](faq/untitled.md)
 
+## Changes
+
+* [0.9.13.39](changes/0.9.13.39.md)
+
 ***
 
 * [Glossar](glossar.md)
