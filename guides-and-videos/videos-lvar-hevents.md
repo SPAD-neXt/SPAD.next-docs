@@ -9,15 +9,19 @@ The H:Event is the new JS/HTML Gauge Events found in MSFS which also replaced ma
 If you are interested in understanding all of the different data types the SDK docs are valuable source of info.  [https://docs.flightsimulator.com/html/index.htm#t=Additional\_Information%2FReverse\_Polish\_Notation.htm%23Types](https://docs.flightsimulator.com/html/index.htm#t=Additional\_Information%2FReverse\_Polish\_Notation.htm%23Types)\
 
 
+How To Install or Update the L:VAR Bridge.
+
 {% embed url="https://youtu.be/DVwDXM4g_S4" %}
 You will need this for Complex Planes and LVAR/HTML/JS Access
 {% endembed %}
 
-
+One of the early examples of working with L:VARs and Add On Aircraft
 
 {% embed url="https://youtu.be/hSO2RkXNOvI" %}
 Getting Started with L:Vars using the CRJ
 {% endembed %}
+
+Client Events.  How to Add custom events that are not currently in the SPAD.neXt Event List.
 
 {% embed url="https://youtu.be/Tw53OCbGvQg" %}
 Add H:Events or K:Events Manually
@@ -25,17 +29,25 @@ Add H:Events or K:Events Manually
 
 
 
+L:VAR control to work around some conflicts of WT GNS and TDS GTN integrations.
+
 {% embed url="https://youtu.be/cTnzSreUoSs" %}
 Disable WT GNS LVARS to Run TDS External Mode
 {% endembed %}
+
+Working with Another Add On Airplane example.  The MS ATR and L:VARs to take control of the entire plane!
 
 {% embed url="https://youtu.be/6jvi3-dWNQs" %}
 Find The Control L:VARs via the Data Monitor
 {% endembed %}
 
+Dev Mode in MSFS can help you discover the Events/Vars used by each plane.  If the plane is encrypted and the XML locked out.. just use Dev Mode!
+
 {% embed url="https://youtu.be/w9Wgk9cp05E" %}
 XML or Dev Mode - Find H:Events
 {% endembed %}
+
+L:VAR example to create a button to "rebuild" the Engine on the SWS Kodiak!
 
 {% embed url="https://youtu.be/Gwb3Bqpg2Tg" %}
 Kodiak Engine Reset - LVars and Events
