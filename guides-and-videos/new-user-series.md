@@ -18,8 +18,8 @@ Delete in MSFS FIRST!!!
 
 Advanced Planes are going to Need the L:Var and H:Event Bridge...  So this is how to add it so you can access it :)
 
-{% embed url="https://youtu.be/UHeECsbE6Ew" %}
-You will need this for Complex Planes and HTML/JS Access
+{% embed url="https://youtu.be/DVwDXM4g_S4" %}
+You will need this for Complex Planes and LVAR/HTML/JS Access
 {% endembed %}
 
 The 2nd installment in the New User... what next segments. Profiles.... Let's make sure our Profile settings are correct and then get into what Profiles are and what the Profile Tab interface does for us!
