@@ -87,7 +87,6 @@
 
 * [Gauges and Extensions](extending-and-apis/gauges-and-extensions.md)
 * [C# Scripting Interface](extending-and-apis/scripting-interface.md)
-* [LUA scripting interface](extending-and-apis/lua-scripting-interface.md)
 * [Device Interface](extending-and-apis/serial-connection/README.md)
   * [Device Communication Flow](extending-and-apis/serial-connection/device-communication-flow/README.md)
     * [Device INIT-Phase](extending-and-apis/serial-connection/device-communication-flow/device-init-phase.md)
