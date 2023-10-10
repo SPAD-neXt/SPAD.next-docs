@@ -42,10 +42,16 @@ With Version 0.9.12.x and greater we now have a new implementation to the Button
 v0.9.12.x+ Button Modes Explained
 {% endembed %}
 
-4th Installment is about Axis Assignments.  What is the difference between Standard and Custom Axis along with how to use the features in the Custom Axis..
+4th Installment - Axis Assignments.  What is the difference between Standard and Custom Axis along with how to use the features in the Custom Axis.. For Version 0.9.12 and previous .. See Next Video for Axis Capability in version 0.9.13
 
 {% embed url="https://youtu.be/9u--vZpV1iA" %}
 Standard and Custom Axis...  When to use which?
+{% endembed %}
+
+Axis in Version 0.9.13.39 and Newer!!  Big Changes to the Axis UI and Capabilities.  The assignments are more aligned with Buttons and Switches!  Big Feature enhancement with the Addition of the ability to Map Conditions to Axis!!  Easy to create a FWD and REV thrust now on the same Axis!
+
+{% embed url="https://youtu.be/uonqTuOlPLk" %}
+Axis UI has Improved!! v0.9.13.39+ must see!
 {% endembed %}
 
 Connecting the Logitech/Saitek Panels in SPAD.neXt usually means that there is some software to remove and some power management to deal with.  Follow these steps before we move on to pulling in configurations for devices.
