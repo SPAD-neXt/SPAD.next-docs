@@ -8,7 +8,7 @@
 - SAM - Scenery Animation Manager (stairportsceneries.plugin.aos)
 ```
 
-This xplane-plugin will cause the SPAD plugin to crash and then crash X-Plane. Since that plugin is outdated and known to be incompatible to xp12 and is no longer maintained for a long time already, you will need to remove it in order to use the new SPAD plugin.
+This xplane-plugin can cause the SPAD plugin to crash and then crash X-Plane. Since that plugin is outdated and known to be incompatible to xp12 and is no longer maintained for a long time already, you will need to remove it in order to use the new SPAD plugin.
 
 
 

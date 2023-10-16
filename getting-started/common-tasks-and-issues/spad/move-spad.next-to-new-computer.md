@@ -12,8 +12,7 @@ On new Computer
 * [ ] Install SPAD.neXt and the LVAR Bridge
 * [ ] Start SPAD.neXt , head to Settiings->Registration and activate your license
 * [ ] Check your Documents Settings. IF your Documents are located on OneDrive it is highly recommended not to store any SPAD.neXt configuration there. \
-  To move your SPAD.neXt data outside the OneDrive, create a Folder on a hard-drive, the in SPAD.neXt at \
-  Settings->Directories change the location of the Documents to it. \
-  **Important** After changing the directory be sure to navigate away from the directories settings for it to be saved (Known issue as of 0.9.12)
+  To move your SPAD.neXt data outside the OneDrive, create a Folder on a hard-drive, the in SPAD.neXt at Settings->Directories change the location of the Documents to it. \
+
 * [ ] Restore previously saved backup of Documents\SPAD.neXt to either Documents or the new location choosen above
 

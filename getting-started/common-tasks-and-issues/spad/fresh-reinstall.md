@@ -6,7 +6,7 @@ description: Completely reset SPAD.neXt installation
 
 To reinstall SPAD.neXt completeöy fresh proceed as follows:
 
-1. Make a backup copy of "Documents/SPAD.neXt"
+1. Make a backup copy of "Documents/SPAD.neXt" (It contains your profiles)
 2. Uninstall SPAD.neXt
 3. Delete the Folder %APPDATA%\SPAD.neXt
 4. Delete the Folder %LOCALAPPDATA%\SPAD.neXt

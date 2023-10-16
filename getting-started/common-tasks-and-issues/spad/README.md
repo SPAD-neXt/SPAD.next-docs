@@ -25,3 +25,21 @@ There are 3 update channels available for SPAD.neXt
 * Alpha: The current development version of SPAD.neXt. This update channel is invite only for early adopters. To apply for participation, open a ticket from within SPAD.neXt. Development focus of current Alpha version can be reviewed in the SPAD.neXt-Discord in the apropiate #release-faq thread
 
 To change your update channel, head to Settings->Application->Expert in SPAD.neXt. All update channels available to you will be selectable.
+
+### Windows Defender claiming "Trojan:Script/Wacatac.B!ml" Infection
+
+All releases of SPAD.neXt are virus scanned against the 3 most common scan-engines, and all executables are digitally signed. However sometimes Windows Defender will complain when trying to run e.g. a Plugin-Installer and claim it being infected with "Trojan:Script/Wacatac.B!ml". \
+This is a known Problem of how Windows Defender handles compressed files sometimes and usually is a false-positive. \
+First countercheck that the digital signature of the file is intact:
+
+* Right click the file and select "Properties"
+* Select the tab "digital signature" and confirm it states "signature is valid"
+
+If the signature is intact, you need to update you Windows Defender virus database and clear the detectioncache:
+
+1. Open command prompt as administrator and change directory to c:\Program Files\Windows Defender
+2. Run “MpCmdRun.exe -removedefinitions -dynamicsignatures”
+3. Run "MpCmdRun.exe -SignatureUpdate"
+
+If the signature is **not** intact. Deletee the file immediately and report to support@spadnext.com\
+If in doubt, you can always submit the file to Microsoft for analysis.
