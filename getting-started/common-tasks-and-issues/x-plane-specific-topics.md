@@ -8,7 +8,11 @@
 - SAM - Scenery Animation Manager (stairportsceneries.plugin.aos)
 ```
 
-This xplane-plugin can cause the SPAD plugin to crash and then crash X-Plane. Since that plugin is outdated and known to be incompatible to xp12 and is no longer maintained for a long time already, you will need to remove it in order to use the new SPAD plugin.
+This xplane-plugin can cause the SPAD plugin to crash and then crash X-Plane. Since that plugin is outdated and known to be incompatible to xp12 and is no longer maintained for a long time already, it is recommended to uninstall it
+
+### X-Plane crashes with custom datarefs.txt
+
+If X-Plane crashes after the aircraft is loaded and you have a custom datarefs.txt in place, check the X-Plane logfile for the last "AddDataref"-Entry from SPAD. This is normally the dataref that causes a problem, and most likely you will see a deprecated warning. Removing that dataref (and all datarefs in the same group) from your datarefs.txt should resolve this issue.
 
 
 

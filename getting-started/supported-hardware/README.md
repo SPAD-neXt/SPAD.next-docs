@@ -16,6 +16,8 @@ Directly supported with custom UI:
   * 737 EFIS Left/Right (\*)
 * CoreFlightTech
   * Custom firmware required.
+* CPFlight
+  * MCP / Radio (USB and Ethernet Version)
 * Elgato
   * Stream Deck Mini – 6 Buttons (\*)
   * Stream Deck – 15 Buttons (\*)
@@ -25,20 +27,8 @@ Directly supported with custom UI:
 * Generic USB Joystick Devices
   * All USB-HID Joysticks – If Windows Says it’s a Joystick SPAD.neXt will Discover it and use the Generic Joystick UI!
 * GoFlight
-  * GF-46
-  * GF-166
-  * GF-EFIS
-  * GF-LGT
-  * GF-LGT II
-  * GF-MCP
-  * GF-MCP Pro
-  * GF-MESM
-  * GF-P8
-  * GF-RP48
-  * GF-SECM
-  * GF-T8
-  * GF-TQ
-  * GF-WCP
+  * GF-46 GF-166 GF-EFIS GF-LGT GF-LGT-II GF-MCP GF-MCP Pro GF-MESM
+  * GF-P8 GF-RP48 GF-SECM GF-T8 GF-TQ GF-WCP
 * Honeycomb
   * Alpha
   * Bravo

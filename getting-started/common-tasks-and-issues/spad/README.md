@@ -41,5 +41,5 @@ If the signature is intact, you need to update you Windows Defender virus databa
 2. Run “MpCmdRun.exe -removedefinitions -dynamicsignatures”
 3. Run "MpCmdRun.exe -SignatureUpdate"
 
-If the signature is **not** intact. Deletee the file immediately and report to support@spadnext.com\
+If the signature is **not** intact. Delete the file immediately and report to support@spadnext.com\
 If in doubt, you can always submit the file to Microsoft for analysis.
