@@ -24,9 +24,10 @@
     * [Online Services](getting-started/common-tasks-and-issues/spad/online-services.md)
     * [Fresh reinstall](getting-started/common-tasks-and-issues/spad/fresh-reinstall.md)
     * [Move SPAD.neXt to new Computer](getting-started/common-tasks-and-issues/spad/move-spad.next-to-new-computer.md)
-  * [Saitek/Logitech MP/RP blinking](getting-started/common-tasks-and-issues/saitek-logitech-mp-rp-blinking.md)
   * [MSFS Specific Topics](getting-started/common-tasks-and-issues/msfs-specific-topics.md)
   * [X-Plane specific Topics](getting-started/common-tasks-and-issues/x-plane-specific-topics.md)
+  * [Saitek/Logitech MP/RP blinking](getting-started/common-tasks-and-issues/saitek-logitech-mp-rp-blinking.md)
+  * [USB Powermanagement](getting-started/common-tasks-and-issues/usb-powermanagement.md)
 
 ## User Interface
 
