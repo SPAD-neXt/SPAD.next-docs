@@ -75,3 +75,9 @@ There was a video update early in the Alpha phase but near the end of testing th
 {% embed url="https://youtu.be/DWH-8P8Kz3o" %}
 Honeycomb Bravo v0.9.12 Explained! New Config and New Layout!
 {% endembed %}
+
+Guide to the Bravo configured with the MS ATR 42/72-600.  Includes the Download Snippet of the Configuration and the walk through of all of the controls.  Note you must follow the steps to Calibrate and configure the ATR EFB.  Look in the Chapters section.
+
+{% embed url="https://youtu.be/BAHuDq1vHQw" %}
+HC Bravo and the MS ATR 600
+{% endembed %}
