@@ -45,3 +45,8 @@ v1.0.4 of the HJet is here!! Which Means the Autopilot Bindings have all be rewo
 HJet v1.0.4 New MultiPanel Bindings
 {% endembed %}
 
+Make a Nav and Com Keypad Inteface with a Stream Deck!  This implementation is similar to that of the GTC Com and Nav Pages!
+
+{% embed url="https://youtu.be/aBGDgA96Nkw" %}
+Stream Deck Kepad Entry using Local Variables
+{% endembed %}
