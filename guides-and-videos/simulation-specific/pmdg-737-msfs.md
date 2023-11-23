@@ -4,32 +4,7 @@ description: Videos Focused on the PMDG 737 for MSFS
 
 # PMDG 737 (MSFS)
 
-### Enable SDK in PMDG aircraft
-
-1. The PMDG 737 in MSFS **must** have been loaded beyond "ready to fly" at least once and exited again.
-2. Exit MSFS
-3. In Windows File Browser open \
-   Store/Gamepass Version \
-   `%LOCALAPPDATA%\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalState\packages\pmdg-aircraft-737\work` \
-   Steam Version \
-   `%APPDATA%\Microsoft Flight Simulator\Packages\pmdg-aircraft-737\work` \
-   For the 737-600 the folder is "pmdg-aircraft-736"
-4. Add to end of 737\_Options.ini\
-   `[SDK]` \
-   `EnableDataBroadcast=1` \
-   \
-   If you have a CDU device also add \
-   \
-   `EnableCDUBroadcast.0=1` \
-   `EnableCDUBroadcast.1=1`\
-   \
-   to the SDK section\
-   **Make sure there is a newline/empty line after the section you added!**\
-
-5. start MSFS and load 737 ,start flight
-6. start SPAD.neXt
-7. Check in SPAD.neXt that Settings->Status shows the PMDG Provider as connected
-8. Always 3 green!
+PMDG SDK must be enabled for each PMDG aircraft in MSFS. See [here](../../getting-started/untitled/simulation-specifc-steps/msfs-enable-pmdg-data-access.md) for detais.
 
 Please remember PMDG Simulation Events work **exactly** like the cockpit. \
 Use the "PMDG Special Actions" to do with the event what you would do in cockpit with the mouse! Events from the Category **PMDG 737 NGXu** must be used.
