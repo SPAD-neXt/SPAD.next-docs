@@ -79,3 +79,12 @@ Pause the AAU2 WT 787 at Top of Descent
 Big Changes with Axis GUI and Capabilities!!  Much Desired Ability to bind Conditions with Axis is now here!!  v0.9.13.39 is released and we can finally directly manipulate Axis mappings without the need for scripts!
 
 {% embed url="https://youtu.be/uonqTuOlPLk" %}
+Apply Conditions To Axis Now.  Example Toggle Thrust Reverse Mode
+{% endembed %}
+
+How to use an Axis to control a Switch.  Using Custom Axis with Range Definitions we can apply Axis Value Ranges that will Trigger Sending Sim Events with Fixed Parameters.  The Example we use is the PMDG Fuel Cut Off Switches controlled by the Thrustmaster Boeing Yoke lower "throttle" axis.
+
+{% embed url="https://youtu.be/qqGaVncNerQ" %}
+Control the Fuel Cutoff Switches with the Boeing Yoke Lower Throttles
+{% endembed %}
+

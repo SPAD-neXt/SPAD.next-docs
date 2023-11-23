@@ -72,3 +72,9 @@ In this Video we delve into the Thrustmaster TCA Airbus 320 TQ with Add ONs and 
 PMDG 737 TCA TQ + Addons
 {% endembed %}
 
+How to use an Axis to control a Switch. Using Custom Axis with Range Definitions we can apply Axis Value Ranges that will Trigger Sending Sim Events with Fixed Parameters. The Example we use is the PMDG Fuel Cut Off Switches controlled by the Thrustmaster Boeing Yoke lower "throttle" axis.
+
+{% embed url="https://youtu.be/qqGaVncNerQ" %}
+Control the Fuel Cutoff Switches with the Boeing Yoke Lower Throttles
+{% endembed %}
+
