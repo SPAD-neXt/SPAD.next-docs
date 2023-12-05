@@ -89,6 +89,11 @@
 
 * [Untitled](event-programming/untitled.md)
 
+***
+
+* [Hardware Specific](hardware-specific/README.md)
+  * [Skalarki](hardware-specific/skalarki.md)
+
 ## Extending and API's
 
 * [Gauges and Extensions](extending-and-apis/gauges-and-extensions.md)
