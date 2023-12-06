@@ -7,7 +7,7 @@ Generally all inputs and outputs of all devices can be identified by
 `SKALARKI_<device>_<type>_<sublocation>_<name>`
 
 \<type> will either be **I**nput (button/switch) **E**ncoder **D**isplay **L**ed\
-For the name, the naming provided by Skalrki is used, even if it might be a bit misleading sometimes.
+For the name, the naming provided by Skalarki is used, even if it might be a bit misleading sometimes.
 
 Throughout this guide several online snippets will be referenced. Those will work with the FlyByWire (FBW) A320 and are actively maintained.
 
@@ -23,7 +23,7 @@ All devices will povide variables for some settings:
 
 
 
-### Skalakri Global
+### Skalarki Global
 
 <figure><img src="../.gitbook/assets/grafik.png" alt=""><figcaption><p>Skalarki Control Panel</p></figcaption></figure>
 
