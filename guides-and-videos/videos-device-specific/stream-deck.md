@@ -40,3 +40,8 @@ Create Custom Made Keypads for controlling Sim Variables via Stream Deck.  In th
 Stream Deck Kepad Entry using Local Variables
 {% endembed %}
 
+Change Pages on Any Stream Deck from Any Other Device!  Assign Multiple Page Changes on any connected Stream Deck or Page Enabled Devices from a single Button!!
+
+{% embed url="https://youtu.be/8SGk_wkUl-4" %}
+Change Pages on a Stream Deck from Another Stream Deck or any Controller!
+{% endembed %}
