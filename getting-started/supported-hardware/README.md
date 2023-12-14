@@ -4,8 +4,6 @@ Directly supported with custom UI:
 
 (\*) SPAD.neXt Complete Edition required.
 
-
-
 * Arduino
   * SPAD.neXt Serial Protocol v1
   * SPAD.neXt Serial Protocol v2
@@ -17,7 +15,7 @@ Directly supported with custom UI:
 * CoreFlightTech
   * Custom firmware required.
 * CPFlight
-  * MCP / Radio (USB and Ethernet Version)
+  * MCP / Radio (USB and Ethernet Version)  \[WIP]
 * Elgato
   * Stream Deck Mini – 6 Buttons (\*)
   * Stream Deck – 15 Buttons (\*)
@@ -28,29 +26,23 @@ Directly supported with custom UI:
   * All USB-HID Joysticks – If Windows Says it’s a Joystick SPAD.neXt will Discover it and use the Generic Joystick UI!
 * GoFlight
   * GF-46 GF-166 GF-EFIS GF-LGT GF-LGT-II GF-MCP GF-MCP Pro GF-MESM
-  * GF-P8 GF-RP48 GF-SECM GF-T8 GF-TQ GF-WCP
+  * GF-P8 GF-RP48 GF-SECM GF-T8 GF-TQ GF-WCP GF-45
+  * GF-ATC \[WIP]
 * Honeycomb
-  * Alpha
-  * Bravo
-  * Charlie
+  * Alpha Bravo Charlie
 * Midi Devices (In & Out)
   * General/Standard Midi (Discovery On First Use)
   * Behringer X-Touch (Factory Default expected)
+* miniCockit
+  * FCU
 * OpenCockpits
-  * MCP v3
-  * EFIS
+  * MCP v3 , EFIS
+* Phidgets
+  * All Devices \[WIP]
 * RealSimGear (Firmware >= 3.0.24 required)
-  * CIRRUS-SW1
-  * G1000MFD15
-  * G1000XFD / G1000XFD1 / G1000XFD2
-  * GCU47X / GCU479
-  * GFC500 / GFC700
-  * GMA-Addon
-  * GMA350
-  * GNS430
-  * GNS530
-  * GTN650
-  * GTN750
+  * CIRRUS-SW1 G1000MFD15 G1000XFD / G1000XFD1 / G1000XFD2
+  * GCU47X / GCU479 GFC500 / GFC700 GMA-Addon GMA350 GNS430
+  * GNS530 GTN650 GTN750
 * Saitek / Logitech (Note 1 )
   * Backlight Information Panel (BIP)
   * Cessna TPM
@@ -62,9 +54,7 @@ Directly supported with custom UI:
   * Pro Flight Radio Panel
   * Pro Flight Switch Panel
   * Pro Flight Yoke
-  * X.52
-  * X.52 Pro
-  * X55/X56 (Standard Joystick UI)
+  * X.52/Pro X55/X56 (Standard Joystick UI)
 * Shakeprint Simulations
   * Class Echo Desktop
   * Class Echo Mobile
@@ -88,7 +78,7 @@ Directly supported with custom UI:
 * VRInsight
   * Airbus MCP Combo II
   * Boeing MCP Combo II
-  * FMER
+  * FMER \[WIP]
   * GPS
   * Overhead 737 (\*)
   * Overhead A320 (\*)
