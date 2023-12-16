@@ -40,7 +40,7 @@
 
 * [Guides and Videos](guides-and-videos/README.md)
   * [New User Series](guides-and-videos/new-user-series.md)
-  * [L:Vars and H:Events](guides-and-videos/videos-lvar-hevents.md)
+  * [L:Vars / H:Events and B:Events](guides-and-videos/videos-lvar-hevents.md)
   * [Features & Functions](guides-and-videos/features-and-functions.md)
   * [Device Specific](guides-and-videos/videos-device-specific/README.md)
     * [Arduino / SPAD Serial](guides-and-videos/videos-device-specific/arduino-spad-serial.md)

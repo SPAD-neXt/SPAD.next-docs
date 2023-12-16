@@ -1,4 +1,11 @@
-# L:Vars and H:Events
+---
+description: >-
+  This Section is focused on L:VARs, H and B Events ...  These are the more
+  customized items per plane and delve deeper into the programing of custom
+  events and finding them.
+---
+
+# L:Vars / H:Events and B:Events
 
 L:VARs and H:Events are additional Variables and Sim Control events that are not part of the "Standard" events in Sim connect.  This requires an Additional Bridge be installed. \
 \
@@ -52,3 +59,10 @@ L:VAR example to create a button to "rebuild" the Engine on the SWS Kodiak!
 {% embed url="https://youtu.be/Gwb3Bqpg2Tg" %}
 Kodiak Engine Reset - LVars and Events
 {% endembed %}
+
+B:Events are finally Accessible (sure we are limited to \_SET for now due to MSFS limitations..) and this video is the first covering of this new feature!
+
+{% embed url="https://youtu.be/QKlOUs-xtns" %}
+B:Events Now Available -- How To Find and Use Them!
+{% endembed %}
+
