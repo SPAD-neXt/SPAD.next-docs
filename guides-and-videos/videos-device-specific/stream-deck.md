@@ -46,7 +46,7 @@ Change Pages on Any Stream Deck from Any Other Device!  Assign Multiple Page Cha
 Change Pages on a Stream Deck from Another Stream Deck or any Controller!
 {% endembed %}
 
-Time to Jump Into the Stream Deck Plus and it's features.  This video includes downloading a Base Page Snippet to understand how to manipulate the displays and interactions.  This is one versitile product!
+Time to Jump Into the Stream Deck Plus and it's features.  This video includes downloading a Base Page Snippet to understand how to manipulate the displays and interactions.  This is one versatile product!
 
 {% embed url="https://youtu.be/uR6HkBPaxIE" %}
 Stream Deck Plus Features Explained
