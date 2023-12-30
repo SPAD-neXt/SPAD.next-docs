@@ -85,7 +85,7 @@ HC Bravo and the MS ATR 600
 Dash 7 Bravo Configuration.  This includes setting up Custom Condition Lever Axis with Multiple Ranges and all Starter Switches required for successful Starts.  Decision was made to go with 2 Axis For Throttles and 4 for the Prop/Condition Levers.  AP and Annunciators fully functional.\
 
 
-{% embed url="https://youtu.be/vSx7XcS2e5c" %}
-DASH 7 Bravo Configuration
+{% embed url="https://youtu.be/vSx7XcS2e5c?si=G3UAk13hVlHs5s5f" %}
+Dash 7 Bravo Config Including Snippet
 {% endembed %}
 
