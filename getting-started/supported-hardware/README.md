@@ -40,9 +40,19 @@ Directly supported with custom UI:
 * Phidgets
   * All Devices \[WIP]
 * RealSimGear (Firmware >= 3.0.24 required)
-  * CIRRUS-SW1 G1000MFD15 G1000XFD / G1000XFD1 / G1000XFD2
-  * GCU47X / GCU479 GFC500 / GFC700 GMA-Addon GMA350 GNS430
-  * GNS530 GTN650 GTN750
+  * CIRRUS-SW1&#x20;
+  * G1000MFD15&#x20;
+  * G1000XFD / G1000XFD1 / G1000XFD2
+  * GMA-Addon&#x20;
+  * GCU47X
+  * GCU479
+  * GFC500
+  * GFC700
+  * GMA350
+  * GNS430
+  * GNS530
+  * GTN650
+  * GTN750
 * Saitek / Logitech (Note 1 )
   * Backlight Information Panel (BIP)
   * Cessna TPM
