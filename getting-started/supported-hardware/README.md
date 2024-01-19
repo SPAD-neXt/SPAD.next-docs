@@ -33,8 +33,8 @@ Directly supported with custom UI:
 * Midi Devices (In & Out)
   * General/Standard Midi (Discovery On First Use)
   * Behringer X-Touch (Factory Default expected)
-* miniCockit
-  * FCU
+* miniCOCKPIT
+  * miniFCU
 * OpenCockpits
   * MCP v3 , EFIS
 * Phidgets
