@@ -1,10 +1,12 @@
 ---
-description: All Videos are courtesy of Les O'Reilly
+description: >-
+  Videos targeted at "new users" with updates to Features that can apply to even
+  seasoned SPAD.neXt Users!
 ---
 
 # New User Series
 
-All Videos are curtesy of [Les O'Reilly](https://www.youtube.com/channel/UCL5U40EKkvjXF5PA24\_IyKA)
+
 
 Install SPAD.neXt and Take a Tour of the User Interface to get Familiarized.
 
