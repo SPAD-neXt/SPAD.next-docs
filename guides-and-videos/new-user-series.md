@@ -110,3 +110,10 @@ Custom Axis are powerful and understanding the control parameters and how to use
 Custom Axis Control Parameters Explained
 {% endembed %}
 
+Programming LEDs! Extensive power and capability for lighting and Flashing LEDs was always available. With this though meant "simple" LED assignment required a little more complexity like having to assign at least TWO change types for even a basic ON / OFF pairing.
+
+With v0.9.15 the NEW LED system (also now common accross most devices!) offers a few options on how to Link the LEDs! The New system is really cool and offers quicker mapping and direct copy paste between devices!!
+
+{% embed url="https://youtu.be/mQNH0KxwV-E" %}
+New User #13 - Program LEDs on Any Device!
+{% endembed %}
