@@ -98,7 +98,8 @@
 
 ## Extending and API's
 
-* [Gauges and Extensions](extending-and-apis/gauges-and-extensions.md)
+* [Gauges and Extensions](extending-and-apis/gauges-and-extensions/README.md)
+  * [SPAD Gauges: GaugeSettings](extending-and-apis/gauges-and-extensions/spad-gauges-gaugesettings.md)
 * [C# Scripting Interface](extending-and-apis/scripting-interface.md)
 * [Device Interface](extending-and-apis/serial-connection/README.md)
   * [Device Communication Flow](extending-and-apis/serial-connection/device-communication-flow/README.md)
