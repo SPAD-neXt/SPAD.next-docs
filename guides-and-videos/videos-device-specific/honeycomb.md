@@ -82,6 +82,12 @@ Guide to the Bravo configured with the MS ATR 42/72-600.  Includes the Download 
 HC Bravo and the MS ATR 600
 {% endembed %}
 
+Big Changes with Axis GUI and Capabilities!!  Much Desired Ability to bind Conditions with Axis is now here!!  v0.9.13.39 is released and we can finally directly manipulate Axis mappings without the need for scripts!
+
+{% embed url="https://youtu.be/uonqTuOlPLk?si=jMRdNIcqiZiCckro" %}
+Conditional Axis - Toggle Between FWD Thrust and REV Thrust
+{% endembed %}
+
 Dash 7 Bravo Configuration.  This includes setting up Custom Condition Lever Axis with Multiple Ranges and all Starter Switches required for successful Starts.  Decision was made to go with 2 Axis For Throttles and 4 for the Prop/Condition Levers.  AP and Annunciators fully functional.\
 
 
