@@ -53,3 +53,8 @@ How to use an Axis to control a Switch. Using Custom Axis with Range Definitions
 Control the Fuel Cutoff Switches with the Boeing Yoke Lower Throttles
 {% endembed %}
 
+Big Changes with Axis GUI and Capabilities!!  Much Desired Ability to bind Conditions with Axis is now here!!  v0.9.13.39 is released and we can finally directly manipulate Axis mappings without the need for scripts!
+
+{% embed url="https://youtu.be/uonqTuOlPLk?si=jMRdNIcqiZiCckro" %}
+Conditional Axis - Toggle Between FWD Thrust and REV Thrust
+{% endembed %}
