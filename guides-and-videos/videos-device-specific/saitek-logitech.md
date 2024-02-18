@@ -82,3 +82,8 @@ This Video focuses on using a Local Variable that we Create to Allow us to assig
 Local Variable and Conditions = Multiple Display Options!
 {% endembed %}
 
+The MultiPanel in verison 0.9.15+ has been upgraded to the Button and LED event systems.  Users will find warning messages on older configurations for the Buttons.  This video explains how to quickly edit your configurations and update to more efficient LED settings.  Virtual Power is also affected by this so make sure you updates those -- tip on using a specific circuit in MSFS to better link it to avionics bus instead of a switch.
+
+{% embed url="https://youtu.be/XyGr2xHeC-w" %}
+Fix MultiPanel Warnings and Obsolete Events! v0.9.15+
+{% endembed %}
