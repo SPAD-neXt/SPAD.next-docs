@@ -85,6 +85,7 @@
   * [Functions](features/expressions/functions.md)
   * [Examples](features/expressions/examples.md)
 * [Tuner Acceleration](features/tuner-acceleration.md)
+* [Event Execution Order](features/event-execution-order.md)
 
 ## Event programming
 
