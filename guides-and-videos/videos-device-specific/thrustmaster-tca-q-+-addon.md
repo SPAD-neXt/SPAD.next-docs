@@ -8,10 +8,6 @@ Setup the TCA TQ and use Multiple Axis with the A320
 Setting up the TCA TQ plus Add On to work with the AS CRJ
 {% endembed %}
 
-{% embed url="https://youtu.be/5Uxabg8F97M" %}
-Get the TCA TQ Dialed in For the TBM 930!
-{% endembed %}
-
 {% embed url="https://youtu.be/oEv4SVJwkKo" %}
 TCA TQ with Addon - FlyByWire A32NX
 {% endembed %}

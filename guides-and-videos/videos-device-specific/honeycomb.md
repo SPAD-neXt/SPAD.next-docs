@@ -24,10 +24,6 @@ Alpha and Bravo Configs for the Single Engine Setups!!!
 Alpha and Bravo Config for the WT CJ4 v0.12.7
 {% endembed %}
 
-{% embed url="https://youtu.be/ChblK6RPAqQ" %}
-TBM 930 Config for the Bravo.  Full Control over the h Throttle with 2 Axis..
-{% endembed %}
-
 {% embed url="https://youtu.be/E2DD97qel7Y" %}
 Alpha and Bravo Config for the Aerosoft CRJ 550/700/900/1000
 {% endembed %}
