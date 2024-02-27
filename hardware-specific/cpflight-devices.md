@@ -5,7 +5,8 @@ Support for CPFLight devices has been implemented "as it is". Any limitations by
 Supported Devices (RS232/USB Versions only currently):\
 \* MCP\
 \* EFIS (chained)\
-\* COM-Panel (chained)
+\* COM-Panel (chained)\
+\* ATC-Panel (chained)
 
 ## Configuration
 
@@ -26,7 +27,7 @@ Due to the firmware handling encoders internally, it might  be that the value di
 
 ### A/T Led
 
-The LED is controlled by the firmware and not controllable from SPAD.neXt
+The LED is controlled by the firmware and not controllable from SPAD.neXt, however you can control the magnetic lock (pro version) or make the led blink using the CPF\_MCP\_ATDICONNECT Variable.
 
 ## COM-Panel
 
@@ -38,6 +39,11 @@ Use VALUE\_SET event with EVENT:VALUE parameter to react on Xfer-button
 ## EFIS
 
 If both CS and FO Efis are present , global buttons (FPV/MTRS/STD/RST) will only be executed on whichever device announces itself first
+
+## ATC Panel
+
+* The Encoders do not send any events. When turning the encoders the  VALUE\_SET event on the display will be raised. Use EVENT:VALUE in the action to get access to the new Transponder Value.
+* The ATC Fail LED is not documented and not controllable yet
 
 ## Variables
 
