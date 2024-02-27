@@ -15,7 +15,7 @@ Directly supported with custom UI:
 * CoreFlightTech
   * Custom firmware required.
 * CPFlight
-  * MCP / Radio (USB and Ethernet Version)  \[WIP]
+  * MCP / Radio / Efis / ATC (USB Version only)  \[WIP]
 * Elgato
   * Stream Deck Mini – 6 Buttons (\*)
   * Stream Deck – 15 Buttons (\*)
@@ -30,11 +30,14 @@ Directly supported with custom UI:
   * GF-ATC \[WIP]
 * Honeycomb
   * Alpha Bravo Charlie
+* Loupedeck
+  * Live / Ct / Live S (\*)
 * Midi Devices (In & Out)
   * General/Standard Midi (Discovery On First Use)
   * Behringer X-Touch (Factory Default expected)
 * miniCOCKPIT
-  * miniFCU
+  * miniFCU (stock and custom firmware)
+* Octavi IFR1
 * OpenCockpits
   * MCP v3 , EFIS
 * Phidgets
