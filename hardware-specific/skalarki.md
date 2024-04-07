@@ -25,7 +25,7 @@ All devices will povide variables for some settings:
 
 ### Skalarki Global
 
-<figure><img src="../.gitbook/assets/grafik.png" alt=""><figcaption><p>Skalarki Control Panel</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/grafik (2).png" alt=""><figcaption><p>Skalarki Control Panel</p></figcaption></figure>
 
 Since there are a lot of diffrent devices, it is quite some work, to get the basic power configuration for all of them up and running. This is a repeating boring task, and can lead to heavy work if something needs to be changed.
 

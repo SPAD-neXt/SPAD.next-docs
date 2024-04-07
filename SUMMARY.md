@@ -96,6 +96,7 @@
 * [Hardware Specific](hardware-specific/README.md)
   * [Skalarki](hardware-specific/skalarki.md)
   * [CPFlight Devices](hardware-specific/cpflight-devices.md)
+  * [Loupedeck Image Devices](hardware-specific/loupedeck-image-devices.md)
 
 ## Extending and API's
 
