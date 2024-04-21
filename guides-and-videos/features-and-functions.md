@@ -88,3 +88,9 @@ How to use an Axis to control a Switch.  Using Custom Axis with Range Definition
 Control the Fuel Cutoff Switches with the Boeing Yoke Lower Throttles
 {% endembed %}
 
+How to Best use the Button Held Mode along with a Button Pressed Mode to implement Repeat Events.  Adding a copy of the Button Pressed Event, Changing to HELD mode and Editing to get the best result for triggering repeat Events when the Button is Held.
+
+{% embed url="https://youtu.be/8Gfz7Kcqvi8" %}
+How To Repeat Events with Button HELD Mode! - Still use a Press though :smile:
+{% endembed %}
+
