@@ -67,6 +67,7 @@
     * [FFX Vision Jet (MSFS)](guides-and-videos/simulation-specific/ffx-vision-jet-msfs.md)
     * [FSW C414AW (MSFS)](guides-and-videos/simulation-specific/fsw-c414aw-msfs.md)
     * [PMDG 737 (MSFS)](guides-and-videos/simulation-specific/pmdg-737-msfs.md)
+    * [PMDG 777 (MSFS)](guides-and-videos/simulation-specific/pmdg-777-msfs.md)
     * [SWS Kodiak (MSFS)](guides-and-videos/simulation-specific/sws-kodiak-msfs.md)
     * [WT CJ4 (MSFS)](guides-and-videos/simulation-specific/working-title-cj4-msfs.md)
     * [WT G1000 NXi (MSFS)](guides-and-videos/simulation-specific/wt-g1000-nxi-msfs.md)

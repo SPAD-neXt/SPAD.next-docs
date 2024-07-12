@@ -36,3 +36,9 @@ Throttle FADEC Detents via Multiple Custom Axis
 ATR - 600 Full TCA TQ with Addons
 {% endembed %}
 
+For the First Device Tutorial Regarding the PMDG 777 I decided to use an Airbus Setup :).  The TCA Airbus Captains Pack! This is just what happens to be at my desk vs in the main simulator.
+
+{% embed url="https://youtu.be/fdPZXpWN_zk" %}
+Thrustmaster TCA Airbus Captain Pack and the PMDG 777
+{% endembed %}
+
