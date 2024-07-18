@@ -103,7 +103,10 @@
 
 * [Gauges and Extensions](extending-and-apis/gauges-and-extensions/README.md)
   * [SPAD Gauges: GaugeSettings](extending-and-apis/gauges-and-extensions/spad-gauges-gaugesettings.md)
-* [C# Scripting Interface](extending-and-apis/scripting-interface.md)
+* [C# Scripting Interface](extending-and-apis/scripting-interface/README.md)
+  * [C# Scripting: ScriptStub](extending-and-apis/scripting-interface/c-scripting-scriptstub.md)
+  * [C# Scripting: Provide Values](extending-and-apis/scripting-interface/c-scripting-provide-values.md)
+  * [C# Scripting: PreCompile](extending-and-apis/scripting-interface/c-scripting-precompile.md)
 * [Device Interface](extending-and-apis/serial-connection/README.md)
   * [Device Communication Flow](extending-and-apis/serial-connection/device-communication-flow/README.md)
     * [Device INIT-Phase](extending-and-apis/serial-connection/device-communication-flow/device-init-phase.md)

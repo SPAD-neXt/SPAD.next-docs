@@ -12,6 +12,7 @@ Directly supported with custom UI:
   * 737 CDU Left/Right (\*)
   * 737 MCP (\*)
   * 737 EFIS Left/Right (\*)
+  * A320 FCU/EFIS (\*) \[WIP]
 * CoreFlightTech
   * Custom firmware required.
 * CPFlight
@@ -22,6 +23,7 @@ Directly supported with custom UI:
   * Stream Deck MK.2 – 15 Buttons (\*)
   * Stream Deck XL – 32 Buttons (\*)
   * Stream Deck Plus – 8 Buttons + 4 Encoders (\*)
+  * Stream Deck Neo
 * Generic USB Joystick Devices
   * All USB-HID Joysticks – If Windows Says it’s a Joystick SPAD.neXt will Discover it and use the Generic Joystick UI!
 * GoFlight
@@ -29,7 +31,7 @@ Directly supported with custom UI:
   * GF-P8 GF-RP48 GF-SECM GF-T8 GF-TQ GF-WCP GF-45
   * GF-ATC \[WIP]
 * Honeycomb
-  * Alpha Bravo Charlie
+  * Alpha, Bravo, Charlie
 * Loupedeck
   * Live / Ct / Live S (\*)
 * Midi Devices (In & Out)
@@ -56,6 +58,7 @@ Directly supported with custom UI:
   * GNS530
   * GTN650
   * GTN750
+  * SW1 \[WIP]
 * Saitek / Logitech (Note 1 )
   * Backlight Information Panel (BIP)
   * Cessna TPM
@@ -73,6 +76,8 @@ Directly supported with custom UI:
   * Class Echo Mobile
   * Shakeprint Knob
 * SimInnovations Knobster
+* SimOn Solution
+  * Overhead 737 (\*) \[WIP]
 * Skalarki
   * HOMELine: All devices (\*)
   * PROLine: All devices (\*)
@@ -83,11 +88,10 @@ Directly supported with custom UI:
   * TCA Boeing Yoke
   * TM TPR / T-Flight / Warthog etc. (Standard Joystick UI)
 * Ultimarc
-  * PACLed64
+  * PACLed / PACLed64
   * PACDrive
 * Virtual Avionics
-  * EFIS (Partial)
-  * MCP
+  * EFIS (Partial) , MCP
 * VRInsight
   * Airbus MCP Combo II
   * Boeing MCP Combo II

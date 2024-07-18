@@ -11,7 +11,7 @@
   * FSX (Sevice Pack 2 or Acceleration Pack required)
   * FSX Steam Edition
   * Flight Sim World (FSW)
-  * Prepar3D v2.3 / v3 / v4 / v5 / v6
+  * Prepar3D v2.3 and later
   * X-Plane 10/11/12
 * Supported directly other Software:
   * SCS Euro Truck Simulator 2 / Amercian Truck Simulator
@@ -20,7 +20,6 @@
 * Supported Simulation-Connection Methods:
   * Microsoft's ESP SimConnect interface (FSX/FSW/P3D/MSFS)
   * Pete Dowson's FSUIPC, available from [http://www.schiratti.com/dowson.html](http://www.schiratti.com/dowson.html) (freeware is sufficient),
-  * FSconnect ([http://www.dirks-software.ca/](http://www.dirks-software.ca/)) for WILCO aircraft (FSX only).
 * For some simulations a specific plugin needs to be installed. (See according sections)
 
 Important:
