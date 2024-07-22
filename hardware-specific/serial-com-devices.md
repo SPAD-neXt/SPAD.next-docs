@@ -14,14 +14,21 @@ If you notice grabage being sent/received then lower the speed. For an USB2Seria
 
 ### Enable DTR
 
-Data Terminal Ready - It tell the device that something is connected to it's serial port.\
-This should be ON in most of the cases. \
-Exception: If the device is a CH340 , this has to be set to OFF, because the DTR signal will make the device reset.
+Data Terminal Ready - It telsl the device that something is connected to it's serial port.\
+This should be ON in most of the cases.&#x20;
+
+{% hint style="warning" %}
+Exception: If the device is CH340 based, this has to be set to OFF, because the DTR signal will make the device reset.
+{% endhint %}
 
 ### Enable RTS/CTS
 
 RequestToSend/ClearToSend Signaling\
 A hardware handshake protocol to ensure no data is lost in transmission because of a buffer overrun on the device. In most of the cases this should be set to ON. If you device does not seem to send/receive any data, set it to OFF
+
+{% hint style="warning" %}
+For CH340 based devices this has to be turned off, unless it's configured in the device's firmware.
+{% endhint %}
 
 ### Device wakeup time
 
@@ -29,8 +36,6 @@ Time in ms before spad will try to send anything to the device after opening the
 For a real USB2Serial chipset this is not needed (set to 0). \
 However e.g. the CH340 fake serial chip has an odd bootloader which will go into device-programming mode if anything is received on the port while device is booting up and in result the device will not respond to any data sent to it.\
 If that happens, set this wakeup time. You might need to experiment with the settings but 2000ms is a good starting point. Devices with a lot of stuff in it (e.g. displays) might need a longer wakeup time (e.g. 3500ms).\
-
-
 
 
 ## Common Issues
