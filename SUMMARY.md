@@ -17,6 +17,7 @@
   * [Simulation Specifc Steps](getting-started/untitled/simulation-specifc-steps/README.md)
     * [SimConnect Configuration](getting-started/untitled/simulation-specifc-steps/simconnect-configuration.md)
     * [MSFS: Enable PMDG data access](getting-started/untitled/simulation-specifc-steps/msfs-enable-pmdg-data-access.md)
+    * [X-Plane Configuration](getting-started/untitled/simulation-specifc-steps/x-plane-configuration.md)
 * [First Start](getting-started/first-run-the-configuration-wizard/README.md)
   * [Configuration Wizard](getting-started/first-run-the-configuration-wizard/configuration-wizard.md)
 * [Common Tasks and Issues](getting-started/common-tasks-and-issues/README.md)
