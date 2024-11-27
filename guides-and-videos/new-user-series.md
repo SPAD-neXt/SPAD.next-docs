@@ -20,6 +20,15 @@ Binding Buttons and Axis in SPAD.neXt does not replace the sim bindings.  Make s
 Delete in MSFS FIRST!!!
 {% endembed %}
 
+Before we start configuring our Hardware in SPAD.neXt we need to remove the Bindings from MSFS 2024 on the devices we plan to use.  If we leave behind assignments in MSFS 2024 then those events will still fire!  So let's Clean it up quickly!\
+
+
+{% embed url="https://youtu.be/uLgNs5RwM3g" %}
+New User 1.2 - Remove Bindings in MSFS 2024 First!
+{% endembed %}
+
+
+
 Advanced Planes are going to Need the L:Var and H:Event Bridge.  Incase you forgot to install it originally with Episode 1 .. OR .. because SPAD.neXt has updated and the Bridge needs updating.
 
 {% embed url="https://youtu.be/DVwDXM4g_S4" %}
