@@ -16,14 +16,14 @@ Directly supported with custom UI:
 * CoreFlightTech
   * Custom firmware required.
 * CPFlight
-  * MCP / Radio / Efis / ATC (USB Version only)  \[WIP]
+  * MCP / Radio / Efis / ATC   \[WIP]
 * Elgato
   * Stream Deck Mini – 6 Buttons (\*)
   * Stream Deck – 15 Buttons (\*)
   * Stream Deck MK.2 – 15 Buttons (\*)
   * Stream Deck XL – 32 Buttons (\*)
   * Stream Deck Plus – 8 Buttons + 4 Encoders (\*)
-  * Stream Deck Neo
+  * Stream Deck Neo (\*)
 * Generic USB Joystick Devices
   * All USB-HID Joysticks – If Windows Says it’s a Joystick SPAD.neXt will Discover it and use the Generic Joystick UI!
 * GoFlight
@@ -34,6 +34,7 @@ Directly supported with custom UI:
   * Alpha, Bravo, Charlie
 * Loupedeck
   * Live / Ct / Live S (\*)
+  * Razer Streamdeck (\*)
 * Midi Devices (In & Out)
   * General/Standard Midi (Discovery On First Use)
   * Behringer X-Touch (Factory Default expected)
@@ -58,7 +59,8 @@ Directly supported with custom UI:
   * GNS530
   * GTN650
   * GTN750
-  * SW1 \[WIP]
+  * SW1&#x20;
+  * Cirrus Vision Jet Cockpit
 * Saitek / Logitech (Note 1 )
   * Backlight Information Panel (BIP)
   * Cessna TPM
@@ -76,8 +78,6 @@ Directly supported with custom UI:
   * Class Echo Mobile
   * Shakeprint Knob
 * SimInnovations Knobster
-* SimOn Solution
-  * Overhead 737 (\*) \[WIP]
 * Skalarki
   * HOMELine: All devices (\*)
   * PROLine: All devices (\*)
@@ -100,6 +100,8 @@ Directly supported with custom UI:
   * Overhead 737 (\*)
   * Overhead A320 (\*)
   * ProPt
+* WinWing
+  * Airbus FCU + EFIS L/R
 
 &#x20;
 
