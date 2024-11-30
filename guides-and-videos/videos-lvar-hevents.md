@@ -13,13 +13,13 @@ In both Prepar3d and MSFS L:VARs are required so we can work with the Extended c
 \
 The H:Event is the new JS/HTML Gauge Events found in MSFS which also replaced many of the older simconnect events like the GPS controls commands.  MODs like the  Working Title CJ4 and the Fly By Wire A320 have also required the separation of the Standard Autopilot and Data to allow them to implement their controls.  This meant modifying the commands and Data.  We are able via the Bridge to also send these Commands into the sim.  Additional names in use for this will be WASM Bridge or WASM Module.\
 \
-If you are interested in understanding all of the different data types the SDK docs are valuable source of info.  [https://docs.flightsimulator.com/html/index.htm#t=Additional\_Information%2FReverse\_Polish\_Notation.htm%23Types](https://docs.flightsimulator.com/html/index.htm#t=Additional\_Information%2FReverse\_Polish\_Notation.htm%23Types)\
+If you are interested in understanding all of the different data types the SDK docs are valuable source of info.  [https://docs.flightsimulator.com/html/index.htm#t=Additional\_Information%2FReverse\_Polish\_Notation.htm%23Types](https://docs.flightsimulator.com/html/index.htm#t=Additional_Information%2FReverse_Polish_Notation.htm%23Types)\
 
 
-How To Install or Update the L:VAR Bridge.
+MSFS 2020 and MSFS 2024 Require the L:VAR Bridge to function properly. This is also the H:Event Gateway as those have to be done via the WASM Module as well. In FSX/P3D it is not "required" unless you are using advanced planes.. which well makes it required. Also same Wizard area for installing the XPlane Plugin. Bonus: How to Relocate your community folder!
 
-{% embed url="https://youtu.be/DVwDXM4g_S4" %}
-You will need this for Complex Planes and LVAR/HTML/JS Access
+{% embed url="https://youtu.be/56Q7yKfIjkE" %}
+Install the L:VAR Bridge and Move 2024 Community Folder
 {% endembed %}
 
 One of the early examples of working with L:VARs and Add On Aircraft

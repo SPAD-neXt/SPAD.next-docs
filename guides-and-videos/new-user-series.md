@@ -6,8 +6,6 @@ description: >-
 
 # New User Series
 
-
-
 Install SPAD.neXt and Take a Tour of the User Interface to get Familiarized.
 
 {% embed url="https://youtu.be/f7j7N0hGlmI" %}
@@ -29,10 +27,11 @@ New User 1.2 - Remove Bindings in MSFS 2024 First!
 
 
 
-Advanced Planes are going to Need the L:Var and H:Event Bridge.  Incase you forgot to install it originally with Episode 1 .. OR .. because SPAD.neXt has updated and the Bridge needs updating.
+MSFS 2020 and MSFS 2024 Require the L:VAR Bridge to function properly.  This is also the H:Event Gateway as those have to be done via the WASM Module as well.  In FSX/P3D it is not "required" unless you are using advanced planes.. which well makes it required.  Also same Wizard area for installing the XPlane Plugin.\
+Bonus: How to Relocate your community folder!
 
-{% embed url="https://youtu.be/DVwDXM4g_S4" %}
-You will need this for Complex Planes and LVAR/HTML/JS Access
+{% embed url="https://youtu.be/56Q7yKfIjkE" %}
+Install the L:VAR Bridge and Move 2024 Community Folder
 {% endembed %}
 
 The 2nd installment in the New User series. Profiles.... Let's make sure our Profile settings are correct and then get into what Profiles are and what the Profile Tab interface does for us!
