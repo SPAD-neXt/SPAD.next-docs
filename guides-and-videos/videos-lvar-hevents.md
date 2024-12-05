@@ -66,3 +66,8 @@ B:Events are finally Accessible (sure we are limited to \_SET for now due to MSF
 B:Events Now Available -- How To Find and Use Them!
 {% endembed %}
 
+In MSFS 2024 we can utilize the Behaviors tab inside of Dev Mode to quickly identify the events and variables that are being used with the Virtual Cockpit Interactions.  This video will show you how to interpret and verify in Dev Mode then assign that to a button or switch in SPAD.neXt.
+
+{% embed url="https://youtu.be/jh4K63rvQzI" %}
+MSFS 2024 - Use Dev Mode and Quickly Find Events and Variables
+{% endembed %}
