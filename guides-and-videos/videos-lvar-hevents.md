@@ -71,3 +71,12 @@ In MSFS 2024 we can utilize the Behaviors tab inside of Dev Mode to quickly iden
 {% embed url="https://youtu.be/jh4K63rvQzI" %}
 MSFS 2024 - Use Dev Mode and Quickly Find Events and Variables
 {% endembed %}
+
+B:Events have many "custom" extensions.  There are some common extensions like like \_ SET / INC / DEC / ON / OFF / TOGGLE that can easily be added with a Right Click now!! Even Better is that we can easily Add any custom extension and get all of the control we need for these interfaces.\
+\
+It is Finally Possible to say we can control it all now!! well I hope :) I am sure something will come up and break it again though.  Use Dev mode - Identify the Event and then Add it in SPAD.
+
+{% embed url="https://youtu.be/gjFP8K6RH2Y" %}
+MSFS 2024 : Quickly Add Custom B:Events Into SPAD.neXt&#x20;
+{% endembed %}
+
