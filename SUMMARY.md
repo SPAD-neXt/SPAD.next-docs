@@ -100,6 +100,7 @@
   * [CPFlight Devices](hardware-specific/cpflight-devices.md)
   * [Loupedeck Image Devices](hardware-specific/loupedeck-image-devices.md)
   * [Serial (COM) Devices](hardware-specific/serial-com-devices.md)
+  * [Midi Devices](hardware-specific/midi-devices.md)
 
 ## Extending and API's
 
