@@ -6,7 +6,7 @@ description: Devices stop reacting / Displays stay blank after a while
 
 Windows is putting the devices to sleep... So after you start spad and it runs and sees the devices... eventually they go to sleep when there is no interaction with them for a while...&#x20;
 
-
+Please also see this article about the common requirements for connecting USB devices to flight sim computers: [USB HUB Requirements](../supported-hardware/common-issues/usb-hub-requirements.md)
 
 {% hint style="warning" %}
 [Windows updates likes to turn power management back on.](#user-content-fn-1)[^1]
