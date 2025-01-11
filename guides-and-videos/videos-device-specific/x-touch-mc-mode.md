@@ -10,3 +10,9 @@ The SPAD.neXt GUI for the X-Touch Mini is ALL NEW!! Version 0.9.20 + brings dire
 X-Touch MC Mode Setup - All New UI Interface!
 {% endembed %}
 
+This Video covers the Page System when in MC Mode for the X-Touch Mini. How to Add, Duplicate, Re-Order and Navigate the paging system. We also cover Assigning Page Navigation Events and LEDs to track which Page the X-Touch is currently On.
+
+{% embed url="https://youtu.be/L_b1iEkMWmg" %}
+X-Touch MC Mode Page Management
+{% endembed %}
+
