@@ -34,3 +34,8 @@ XTouch Setup for G1000 NXi
 MS ATR 600 X-Touch Autopilot Configuration
 {% endembed %}
 
+The SPAD.neXt GUI for the X-Touch Mini is ALL NEW!!  Version 0.9.20 + brings direct MC or Mackie Control Mode Integration!  We are no longer having to deal with any kind of device side LED or page workarounds!  MC mode enables the creation of Unlimited Pages with direct LED control.  We can now set this up just like other devices with Full Direct LED and Paging control!!
+
+{% embed url="https://youtu.be/wVT4YOjPKlM" %}
+X-Touch MC Mode Setup - All New UI Interface!
+{% endembed %}
