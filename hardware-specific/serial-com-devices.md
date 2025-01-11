@@ -4,7 +4,7 @@ SPAD.neXt supports a wide range if serial (COM) devices, however there are many 
 
 Some of those chipset require a special treatment (notably the fake CH340 chipset), which you can configure in the serial device setup.
 
-<figure><img src="../.gitbook/assets/grafik.png" alt=""><figcaption><p>Serial Device Configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/grafik (1).png" alt=""><figcaption><p>Serial Device Configuration</p></figcaption></figure>
 
 Select the appropiate Port and Protocol. For some protocols (e.g. VRInsight) no options will be available.
 
