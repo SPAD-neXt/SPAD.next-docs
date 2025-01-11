@@ -49,7 +49,7 @@
     * [Cockpit Simulator CDU](guides-and-videos/videos-device-specific/cockpit-simulator-cdu.md)
     * [Honeycomb](guides-and-videos/videos-device-specific/honeycomb.md)
     * [Joystick (Generic HID)](guides-and-videos/videos-device-specific/joystick-generic-hid.md)
-    * [Midi](guides-and-videos/videos-device-specific/midi.md)
+    * [X-Touch Midi Mode](guides-and-videos/videos-device-specific/x-touch-midi-mode.md)
     * [miniCockpit](guides-and-videos/videos-device-specific/minicockpit.md)
     * [RealSimGear](guides-and-videos/videos-device-specific/realsimgear.md)
     * [Saitek/Logitech](guides-and-videos/videos-device-specific/saitek-logitech.md)

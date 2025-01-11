@@ -51,7 +51,7 @@ The authorkey is case-sensitive!
 ### ALLOWLOCAL
 
 The ALLOWLOCAL option controls where SPAD.neXt will search for device configuration files/images etc. before checking the database.\
-_Documents_ refers to the Documents-Directory from SPAD.neXt configuration. Default: "Documents/SPAD.neXt"-Folder of Windows user
+&#xNAN;_&#x44;ocuments_ refers to the Documents-Directory from SPAD.neXt configuration. Default: "Documents/SPAD.neXt"-Folder of Windows user
 
 SPAD.neXt will search for files/images in the following order \
 
