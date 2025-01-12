@@ -155,9 +155,11 @@
 ## FAQ
 
 * [Untitled](faq/untitled.md)
+* [MSFS: Lost profile aircraft assigments](faq/msfs-lost-profile-aircraft-assigments.md)
 
 ## Changes
 
+* [0.9.21](changes/0.9.21.md)
 * [0.9.14.0](changes/0.9.14.0.md)
 * [0.9.13.39](changes/0.9.13.39.md)
 
