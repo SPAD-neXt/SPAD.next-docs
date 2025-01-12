@@ -12,5 +12,3 @@ SPAD.neXt had the reputation of being a bit hard to master initially. However, t
 
 Additional sources of information about SPAD.neXt are:
 
-* Discord: [https://discord.gg/kZqsKgW74G](https://discord.gg/kZqsKgW74G)
-
