@@ -16,7 +16,7 @@ Switching did **not** work if:
 * the Layer A led is on and the MC mode led above it is off
 * Button presses are not recognized by SPAD.neXt
 
-First try to unplug the X-Touch and replug it. Then restart SPAD.neXt and see if the device now switched automatically. If it did you are fine now, but keep in mind that you might unplug and replug the device occasionally becasue of that Windows 11 24H2 bug.
+First try to unplug the X-Touch and replug it. Then restart SPAD.neXt and see if the device now switched automatically. If it did you are fine now, but keep in mind that you will need unplug and replug the device occasionally becasue of that Windows 11 24H2 bug. (As of Jan 12th 2025 a fix for that is in preview at Microsoft and should be rolled out on next Patchday)
 
 If that did not fix it, the X-Touch Mini need to be switched into Mackie-Mode manually:
 
