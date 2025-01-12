@@ -2,6 +2,8 @@
 
 SPAD.neXt supports all Skalarki Ltd. devices, however you will need to have Skalarki's ProfilerIO running.
 
+Current supported ProfilerIO version: 5.1.907.1000
+
 Generally all inputs and outputs of all devices can be identified by
 
 `SKALARKI_<device>_<type>_<sublocation>_<name>`
@@ -38,3 +40,4 @@ As a reference refer to snippet #7635 which contains the programming for the FBW
 | LOCAL:SKALARKI\_GLOBAL\_AIRCRAFT\_DC\_POWER | Holds if the aircraft currently has any DC Bus powered | Use as condition for functions  that only work if there is DC power    |
 | LOCAL:SKALARKI\_GLOBAL\_AIRCRAFT\_AC\_POWER | Hold if the aircraft currently has any AC Bus powered  | Use as condition for functions that only work if there is AC power     |
 | LOCAL:SKALARKI\_GLOBAL\_AIRCRAFT\_POWER     | Holds if any of the AC/DC Bus is currently powered     | Use as condition for functions that work if there is any kind of power |
+

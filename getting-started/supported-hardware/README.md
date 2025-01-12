@@ -10,13 +10,15 @@ Directly supported with custom UI:
   * USB-HID Joystick Library (Standard Joystick UI)
 * Cockpit-Simulator / Cockpitmaster
   * 737 CDU Left/Right (\*)
-  * 737 MCP (\*)
+  * 737 MCP (\*), MCP-LITE (\*)
   * 737 EFIS Left/Right (\*)
   * A320 FCU/EFIS (\*) \[WIP]
+  * v2 CDU (\*)
+    * 320A MCDU,  737X, 737M, 747X, 777X CDU&#x20;
 * CoreFlightTech
   * Custom firmware required.
 * CPFlight
-  * MCP / Radio / Efis / ATC   \[WIP]
+  * MCP / Radio / Efis / ATC&#x20;
 * Elgato
   * Stream Deck Mini – 6 Buttons (\*)
   * Stream Deck – 15 Buttons (\*)
@@ -37,7 +39,7 @@ Directly supported with custom UI:
   * Razer Streamdeck (\*)
 * Midi Devices (In & Out)
   * General/Standard Midi (Discovery On First Use)
-  * Behringer X-Touch (Factory Default expected)
+  * Behringer X-Touch (Mackie Mode)
 * miniCOCKPIT
   * miniFCU (stock and custom firmware)
 * Octavi IFR1
@@ -45,6 +47,8 @@ Directly supported with custom UI:
   * MCP v3 , EFIS
 * Phidgets
   * All Devices \[WIP]
+* PU Air Korea
+  * CDU v2
 * RealSimGear (Firmware >= 3.0.24 required)
   * CIRRUS-SW1&#x20;
   * G1000MFD15&#x20;
@@ -87,6 +91,7 @@ Directly supported with custom UI:
   * TCA Boeing Quadrant
   * TCA Boeing Yoke
   * TM TPR / T-Flight / Warthog etc. (Standard Joystick UI)
+* Turtlebeach Velocity One Yoke
 * Ultimarc
   * PACLed / PACLed64
   * PACDrive

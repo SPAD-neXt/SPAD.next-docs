@@ -6,6 +6,7 @@
 * .Net Framework 4.8 or later (pre-installed under Windows 10 ff.)
 * Supported Flight Simulators:
   * Microsoft Flight Simulator 2020 (MSFS)
+  * Microsoft Flight Simulator 2024 (MSFS)
   * FS9 (FSUIPC only)
   * FS2000 (FSUIPC only)
   * FSX (Sevice Pack 2 or Acceleration Pack required)

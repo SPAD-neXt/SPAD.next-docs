@@ -11,7 +11,6 @@
     * [Saitek FIP: Driver & Function Check](getting-started/supported-hardware/saitek-fip/saitek-fip-function-check.md)
   * [Common Issues](getting-started/supported-hardware/common-issues/README.md)
     * [Check Hardware](getting-started/supported-hardware/common-issues/check-hardware.md)
-    * [VRInsight Overhead](getting-started/supported-hardware/common-issues/vrinsight-overhead.md)
     * [USB HUB Requirements](getting-started/supported-hardware/common-issues/usb-hub-requirements.md)
 * [Installation](getting-started/untitled/README.md)
   * [Simulation Specifc Steps](getting-started/untitled/simulation-specifc-steps/README.md)
@@ -103,6 +102,7 @@
   * [Serial (COM) Devices](hardware-specific/serial-com-devices.md)
   * [Midi Devices](hardware-specific/midi-devices/README.md)
     * [X-Touch Mini](hardware-specific/midi-devices/x-touch-mini.md)
+  * [VRInsight Overhead](hardware-specific/vrinsight-overhead.md)
 
 ## Extending and API's
 
