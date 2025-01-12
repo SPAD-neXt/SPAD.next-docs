@@ -74,10 +74,6 @@
     * [WT G1000 NXi (MSFS)](guides-and-videos/simulation-specific/wt-g1000-nxi-msfs.md)
     * [PMDG 777 (P3D)](guides-and-videos/simulation-specific/videos-pmdg-777-p3d.md)
 
-## General concepts
-
-* [Untitled](general-concepts/untitled.md)
-
 ## Features
 
 * [Expressions](features/expressions/README.md)
@@ -89,10 +85,6 @@
 * [Tuner Acceleration](features/tuner-acceleration.md)
 * [Event Execution Order](features/event-execution-order.md)
 
-## Event programming
-
-* [Untitled](event-programming/untitled.md)
-
 ***
 
 * [Hardware Specific](hardware-specific/README.md)
@@ -102,7 +94,7 @@
   * [Serial (COM) Devices](hardware-specific/serial-com-devices.md)
   * [Midi Devices](hardware-specific/midi-devices/README.md)
     * [X-Touch Mini](hardware-specific/midi-devices/x-touch-mini.md)
-  * [VRInsight Overhead](hardware-specific/vrinsight-overhead.md)
+  * [VRInsight Overhead](getting-started/supported-hardware/common-issues/vrinsight-overhead.md)
 
 ## Extending and API's
 
