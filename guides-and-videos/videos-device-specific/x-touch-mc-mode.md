@@ -16,3 +16,8 @@ This Video covers the Page System when in MC Mode for the X-Touch Mini. How to A
 X-Touch MC Mode Page Management
 {% endembed %}
 
+This Video will cover working with the Buttons of an X-Touch Mini in MC (Mackie Control Mode).  This includes using Dev Mode to Find the Button Event you are trying to emulate.  Performing that Assignment and then Working with LEDs to tie them to Data Values (Sim Vars).
+
+{% embed url="https://youtu.be/GbqwF1dz0xk" %}
+X-Touch MC Mode Buttons and LEDs
+{% endembed %}
