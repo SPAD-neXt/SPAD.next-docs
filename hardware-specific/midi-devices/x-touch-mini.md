@@ -7,7 +7,9 @@ description: New Mackie Mode
 Since release 0.9.21.1 SPAD.neXt uses the Mackie-Mode for the X-Touch Mini which gives full control over led's and buttons. \
 For a guide how to use this new feature see [the video section.](../../guides-and-videos/videos-device-specific/x-touch-mc-mode.md)
 
-SPAD.neXt will attempt to switch the X-Touch Mini into Mackie-Mode automatically, however this might fail. Specially if you are in W11 24H2 Update, which has a known issue with Midi/audio devices.
+{% hint style="warning" %}
+**SPAD.neXt will attempt to switch the X-Touch Mini into Mackie-Mode automatically, however this might fail. Specially if you are in W11 24H2 Update, which has a known issue with Midi/audio devices.**
+{% endhint %}
 
 Switching did **not** work if:
 
