@@ -4,6 +4,10 @@ description: Configuration of Midi Devices
 
 # X-Touch Midi Mode
 
+{% hint style="danger" %}
+Starting with version 0.9.21 SPAD.neXt no longer supports the X-Touch mini midi mode. Please see the MC Mode section.
+{% endhint %}
+
 Setting up a Midi Device using the X-Touch Mini.  Covers application configuration and UI to Hardware explanation.  Example walkthrough for configuration Events to Encoder, Buttons and the LEDs to conditional events.
 
 ![](<../../.gitbook/assets/image (2).png>)
