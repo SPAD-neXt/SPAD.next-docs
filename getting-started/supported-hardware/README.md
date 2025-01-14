@@ -2,7 +2,9 @@
 
 Directly supported with custom UI:
 
-(\*) SPAD.neXt Complete Edition required.
+{% hint style="warning" %}
+All hardware marked with (\*) requires the SPAD.neXt complete edition
+{% endhint %}
 
 * Arduino
   * SPAD.neXt Serial Protocol v1
@@ -27,7 +29,7 @@ Directly supported with custom UI:
   * Stream Deck Plus – 8 Buttons + 4 Encoders (\*)
   * Stream Deck Neo (\*)
 * Generic USB Joystick Devices
-  * All USB-HID Joysticks – If Windows Says it’s a Joystick SPAD.neXt will Discover it and use the Generic Joystick UI!
+  * All USB-HID Joysticks – If Windows says it’s a joystick SPAD.neXt will discover it and use the Generic Joystick UI!
 * GoFlight
   * GF-46 GF-166 GF-EFIS GF-LGT GF-LGT-II GF-MCP GF-MCP Pro GF-MESM
   * GF-P8 GF-RP48 GF-SECM GF-T8 GF-TQ GF-WCP GF-45
