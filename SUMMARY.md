@@ -143,7 +143,7 @@
 
 ## FAQ
 
-* [Untitled](faq/untitled.md)
+* [General FAQ](faq/untitled.md)
 * [MSFS: Lost profile aircraft assigments](faq/msfs-lost-profile-aircraft-assigments.md)
 
 ## Changes
