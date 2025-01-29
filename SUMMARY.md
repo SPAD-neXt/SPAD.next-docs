@@ -29,6 +29,7 @@
 ## Guides and Videos
 
 * [New User Series](guides-and-videos/new-user-series.md)
+* [MSFS SimConnect](guides-and-videos/msfs-simconnect.md)
 * [L:Vars / H:Events and B:Events](guides-and-videos/videos-lvar-hevents.md)
 * [Features & Functions](guides-and-videos/features-and-functions.md)
 * [Device Specific](guides-and-videos/videos-device-specific/README.md)
