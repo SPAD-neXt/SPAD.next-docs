@@ -74,7 +74,16 @@ The Image-Tag supports the following extensions for dynamically changing images:
 * Attribute "Dynamic"
 * Sub-tag "Value"
 
-See: Example for dynamic images
+Example:
+
+```xml
+<Element id="RevBar">
+        <Position X="164" Y="144" />
+        <Image Name="null1.png" Dynamic="rpm_{VALUE}.png" ImageSizes="472,135,472,135">
+           <Value Minimum="1" Maximum="32">(A:RPM) ABS 250 / %</Value>
+       </Image>
+</Element>
+```
 
 #### Dynamic Labels
 
