@@ -1,5 +1,5 @@
 # Stream Deck
-
+q
 Original Stream Deck Implementation.  If you are running version 0.9.13 or newer then you should skip down to the v0.9.13 video with the new implementation.
 
 {% embed url="https://youtu.be/cegPkLjUvXE" %}
