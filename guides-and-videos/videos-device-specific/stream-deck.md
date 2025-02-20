@@ -60,3 +60,8 @@ Quick Video covering the new "Right Click Functions Menu" to help speed up the e
 Stream Deck Right Click Function Menu
 {% endembed %}
 
+Video Covering how to use the New Auto Layer Mode and Increase efficiency in Button Gauge Designs. Bonus regarding leveraging Layers with other switches which have Transparency and reduce the need for the same switch over and over generated with backgrounds and text.
+
+{% embed url="https://youtu.be/0X9Vys6A-Dk" %}
+Stream Deck Layer Mode - Auto Off Feature
+{% endembed %}
