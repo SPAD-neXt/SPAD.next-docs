@@ -109,6 +109,8 @@ All hardware marked with (\*) requires the SPAD.neXt complete edition
   * ProPt
 * WinWing
   * Airbus FCU + EFIS L/R
+  * &#x20;Airbus MCDU \[WIP}(\*)
+  * Boeing PFP \[WIP}(\*)
 
 &#x20;
 
