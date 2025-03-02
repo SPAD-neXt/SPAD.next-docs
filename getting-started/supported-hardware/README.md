@@ -50,7 +50,7 @@ All hardware marked with (\*) requires the SPAD.neXt complete edition
 * Phidgets
   * All Devices \[WIP]
 * PU Air Korea
-  * CDU v2
+  * CDU v2 (\*)
 * RealSimGear (Firmware >= 3.0.24 required)
   * CIRRUS-SW1&#x20;
   * G1000MFD15&#x20;
