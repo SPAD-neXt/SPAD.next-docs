@@ -78,7 +78,8 @@ All hardware marked with (\*) requires the SPAD.neXt complete edition
   * Pro Flight Radio Panel
   * Pro Flight Switch Panel
   * Pro Flight Yoke
-  * X.52/Pro X55/X56 (Standard Joystick UI)
+  * X.52/Pro&#x20;
+  * X55/X56 (Standard Joystick UI)
 * Shakeprint Simulations
   * Class Echo Desktop
   * Class Echo Mobile
