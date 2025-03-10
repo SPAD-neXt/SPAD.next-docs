@@ -21,3 +21,10 @@ This Video will cover working with the Buttons of an X-Touch Mini in MC (Mackie 
 {% embed url="https://youtu.be/GbqwF1dz0xk" %}
 X-Touch MC Mode Buttons and LEDs
 {% endembed %}
+
+This XTouch Video Covers the Encoders and examples using the new Trim and Fan Modes for the Encoder Ring LEDS&#x20;
+
+{% embed url="https://youtu.be/TTJ9dQ0GND8" %}
+X-Touch Encoders and Ring LEDs
+{% endembed %}
+
