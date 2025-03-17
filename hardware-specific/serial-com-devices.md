@@ -42,7 +42,7 @@ If that happens, set this wakeup time. You might need to experiment with the set
 
 ### Access to ComPort denied
 
-If you get "Access to ComX is denied" error when starting SPAD.neXt after a fresh computer reboot with a serial device, this is most likely because you have Skype runnung. Serial devices are recognized as audiodevices and locked by skype for unknown reason. \
+If you get "Access to ComX is denied" error when starting SPAD.neXt after a fresh computer reboot with a serial device, this is most likely because you have Skype or the Arduino IDE running. Serial devices are recognized as audiodevices and locked by skype for unknown reason. \
 (Same can appliy to other software locking up the port)
 
 **Solution**: Unplug serial usb and replug it, this will release the lock on it.
