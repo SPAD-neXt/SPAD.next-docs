@@ -2,6 +2,14 @@
 
 
 
+{% hint style="danger" %}
+Loupedeck Software 6.0.3 **required**&#x20;
+
+No later version of Loupedeck Software is supported
+
+The Loupedeck Software 6.0.3 Installer can be found [here](https://support.loupedeck.com/hubfs/Knowledge%20Base/LD%20Software%20Downloads/6.0.3/LoupedeckInstaller_6.0.3.21384.exe)
+{% endhint %}
+
 * Exit SPAD.neXt
 * Install SPAD Loupedeck plugin. You will find it in the GamePlugins-folder of SPAD.neXt installation folder
 * Restart Loupedeck app
@@ -15,5 +23,5 @@
 *   if everything fails, open a ticket and attach
 
     ```
-    %LOCALAPPDATA%\Loupedeck\Logs\plugin_logs\SPAD.log
+    %LOCALAPPDATA%\Logi\LogiPluginService\Logs\plugin_logs\SPAD.log
     ```
