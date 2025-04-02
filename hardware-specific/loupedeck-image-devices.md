@@ -10,6 +10,12 @@ No later version of Loupedeck Software is supported
 The Loupedeck Software 6.0.3 Installer can be found [here](https://support.loupedeck.com/hubfs/Knowledge%20Base/LD%20Software%20Downloads/6.0.3/LoupedeckInstaller_6.0.3.21384.exe)
 {% endhint %}
 
+{% hint style="danger" %}
+Logitech Options+ must not be installed
+{% endhint %}
+
+
+
 * Exit SPAD.neXt
 * Install SPAD Loupedeck plugin. You will find it in the GamePlugins-folder of SPAD.neXt installation folder
 * Restart Loupedeck app
