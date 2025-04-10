@@ -81,6 +81,14 @@
 * [Tuner Acceleration](features/tuner-acceleration.md)
 * [Event Execution Order](features/event-execution-order.md)
 
+## Simulations
+
+* [MSFS 2024](simulations/msfs-2024.md)
+* [MSFS 2020](simulations/msfs-2020.md)
+* [X-Plane](simulations/x-plane.md)
+* [P3d and FSX](simulations/p3d-and-fsx.md)
+* [Other](simulations/other.md)
+
 ## Hardware specific
 
 * [USB HUB Requirements](hardware-specific/usb-hub-requirements.md)
