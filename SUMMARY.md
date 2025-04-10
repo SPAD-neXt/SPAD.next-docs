@@ -86,6 +86,7 @@
 * [MSFS 2024](simulations/msfs-2024.md)
 * [MSFS 2020](simulations/msfs-2020.md)
 * [X-Plane](simulations/x-plane/README.md)
+  * [Pre-Requisites](simulations/x-plane/pre-requisites.md)
   * [Dataref Tool](simulations/x-plane/dataref-tool.md)
   * [Helping Spad Help You](simulations/x-plane/helping-spad-help-you.md)
 * [P3d and FSX](simulations/p3d-and-fsx.md)
