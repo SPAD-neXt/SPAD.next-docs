@@ -1,4 +1,4 @@
-# 🧠 Dataref vs. Command: Know Your Copilots
+# Dataref vs. Command: Know Your Copilots
 
 Okay, aviator—before we start wiring buttons to things like flaps, lights, ejector seats (hey, no judgment), we need to understand the two main languages X-Plane speaks: **Datarefs** and **Commands**.
 
