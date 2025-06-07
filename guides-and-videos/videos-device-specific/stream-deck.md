@@ -65,3 +65,16 @@ Video Covering how to use the New Auto Layer Mode and Increase efficiency in But
 {% embed url="https://youtu.be/0X9Vys6A-Dk" %}
 Stream Deck Layer Mode - Auto Off Feature
 {% endembed %}
+
+Stream Deck Image Animations
+
+In this video we show how to use Data to dynamically Animate Images. We use Transparent Images to layer over Text and a Variable to drive it.
+
+Expressions in SPAD.neXt are extremely powerful and the Rescale Function is used to easily remap the L:Var to the Rotation value required!
+
+Learn more about available Functions here:\
+https://docs.spadnext.com/features/expressions/functions
+
+{% embed url="https://youtu.be/zhMh1gHiIn8" %}
+Animate Images - Button Gauges - Rescale Expression Example
+{% endembed %}
