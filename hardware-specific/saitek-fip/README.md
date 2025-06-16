@@ -17,3 +17,8 @@ However, this will draw the full 500mA per deviceport from the hub. Therefor it 
 
 SPAD.neXt supplies the standard saitek gauges that come with the FIP. For more sophisticated gauges it's recommend to have a look at [fipgauges.com](https://fipgauges.com) or [Fsx times](https://fsxtimes.wordpress.com/category/gauges/)\
 Also there are some user created gauges available inside SPAD.neXt
+
+### Error Rendering on Device
+
+This is indicates the device is not getting enough usb power to keep up rendering.\
+See [HUB requirements ](../usb-hub-requirements.md)and the best practice above
