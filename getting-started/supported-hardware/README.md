@@ -44,6 +44,7 @@ All hardware marked with (\*) requires the SPAD.neXt complete edition
 * Stream Deck XL – 32 Buttons (\*)
 * Stream Deck Plus – 8 Buttons + 4 Encoders (\*)
 * Stream Deck Neo (\*)
+* Stream Deck Bulk (\*)
 
 ## Generic USB Joystick/HID  Devices&#x20;
 
@@ -73,7 +74,7 @@ All hardware marked with (\*) requires the SPAD.neXt complete edition
 
 ## miniCOCKPIT
 
-* miniFCU (stock and custom firmware)
+* miniFCU / EFIS (stock and custom firmware)
 
 ## Octavi&#x20;
 
@@ -177,7 +178,8 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 ## WinWing
 
 * Airbus FCU + EFIS L/R
-* Airbus MCDU \[WIP}(\*)
-* Boeing PFP \[WIP}(\*)
+* Airbus MCDU (\*)
+* Boeing PFP (\*)
+* Boeing PAP w/o MAG
 
 &#x20;

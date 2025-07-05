@@ -9,3 +9,10 @@
    It's like a car... it can only drive full power so long, and then it will slow down because everything is overheating and loosing effectivness
 5. If you connect a **unpowered** hub to your computer (shame on you!) it will be able to drive **exactly** one device. Not more.
 6. Also connecting 5 fip to **one** usb 2.0 hub will most likely faila s well, due to usb 2.0 bandwidth limitations. All devices connected to the hub **share** the bandwidth.
+
+
+
+{% hint style="danger" %}
+Make sure [USB Powermanagement](../getting-started/common-tasks-and-issues/usb-powermanagement.md) is turned of for all used USB Devices and the HUB/Root-Ports they are connected to.\
+Also make sure USB Sleep mode is disabled in the Windows Energy Profile
+{% endhint %}

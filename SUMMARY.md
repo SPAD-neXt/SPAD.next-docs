@@ -98,6 +98,7 @@
 ## Hardware specific
 
 * [USB HUB Requirements](hardware-specific/usb-hub-requirements.md)
+* [CDU Devices](hardware-specific/cdu-devices.md)
 * [CPFlight Devices](hardware-specific/cpflight-devices.md)
 * [Saitek FIP (Flight Instrument Panel)](hardware-specific/saitek-fip/README.md)
   * [Saitek FIP: Driver & Function Check](hardware-specific/saitek-fip/saitek-fip-function-check.md)
