@@ -51,6 +51,7 @@
   * [VRinsight](guides-and-videos/videos-device-specific/videos-vrinsight.md)
   * [X-Touch MC Mode](guides-and-videos/videos-device-specific/x-touch-mc-mode.md)
   * [X-Touch Midi Mode](guides-and-videos/videos-device-specific/midi.md)
+  * [WinWing](guides-and-videos/videos-device-specific/winwing.md)
 * [Simulation Specific](guides-and-videos/simulation-specific/README.md)
   * [ATR 600 (MSFS)](guides-and-videos/simulation-specific/atr-600-msfs.md)
   * [AS CRJ 550/700/900/1000 (MSFS)](guides-and-videos/simulation-specific/as-crj-550-700-msfs.md)
