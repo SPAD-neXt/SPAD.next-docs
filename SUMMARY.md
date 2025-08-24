@@ -56,6 +56,7 @@
   * [ATR 600 (MSFS)](guides-and-videos/simulation-specific/atr-600-msfs.md)
   * [AS CRJ 550/700/900/1000 (MSFS)](guides-and-videos/simulation-specific/as-crj-550-700-msfs.md)
   * [FBW A32NX (MSFS)](guides-and-videos/simulation-specific/fbw-a32nx-msfs.md)
+  * [FFX Citation X (MSFS 2024)](guides-and-videos/simulation-specific/ffx-citation-x-msfs-2024.md)
   * [FFX/MG HJet (MSFS)](guides-and-videos/simulation-specific/ffx-mg-hjet-msfs.md)
   * [FFX Vision Jet (MSFS)](guides-and-videos/simulation-specific/ffx-vision-jet-msfs.md)
   * [FSW C414AW (MSFS)](guides-and-videos/simulation-specific/fsw-c414aw-msfs.md)
