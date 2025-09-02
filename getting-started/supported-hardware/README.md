@@ -179,7 +179,7 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 
 * Airbus FCU + EFIS L/R
 * Airbus MCDU (\*)
-* Boeing PFP (\*)
-* Boeing PAP w/o MAG
+* Boeing PFP 3N / 4 / 7 (\*)
+* Boeing PAP 3 / PAP 3 MAG
 
 &#x20;
