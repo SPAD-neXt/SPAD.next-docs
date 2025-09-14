@@ -2,7 +2,7 @@
 
 SPAD.neXt supports all Skalarki Ltd. devices, however you will need to have Skalarki's ProfilerIO running.
 
-Current supported ProfilerIO version: 5.1.907.1000
+Current supported ProfilerIO version: 5.1.911.1000
 
 Generally all inputs and outputs of all devices can be identified by
 

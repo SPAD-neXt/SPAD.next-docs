@@ -83,6 +83,9 @@
   * [Examples](features/expressions/examples.md)
 * [Tuner Acceleration](features/tuner-acceleration.md)
 * [Event Execution Order](features/event-execution-order.md)
+* [Virtual Devices](features/virtual-devices/README.md)
+  * [vFIP](features/virtual-devices/vfip.md)
+  * [vDeck](features/virtual-devices/vdeck.md)
 
 ## Simulations
 

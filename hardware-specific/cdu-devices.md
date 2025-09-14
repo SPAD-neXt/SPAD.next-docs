@@ -2,11 +2,11 @@
 
 SPAD.neXt supports a wide range of hardware CDU devices, to display aircraft CDU/FMC on it. Since there is no standard defined every aircraft has to be implemented manually.
 
-## Currently Support Aircraft
+## Currently supported aircraft
 
 ### MSFS/MSFS24
 
-* PMDG - All aircraft. SDK must be enabled
+* PMDG - All aircraft. [SDK must be enabled](../getting-started/untitled/simulation-specifc-steps/msfs-enable-pmdg-data-access.md)
 * Fenix - All Aircarft
 * FsLabs
 * MaddogX
@@ -24,14 +24,33 @@ SPAD.neXt supports a wide range of hardware CDU devices, to display aircraft CDU
 
 * all aircraft that use the X-Plane standard cdu datarefs
 * ToLiss aircraft
-* ZiBo mod
-* Rotate MD-11 / MD-80
+* ZiBO mod
+* Rotate MD-11
+* Rotate MD-80
+  * The MD-80 has a 30 characters wide display, while CDU devices only have 24 character per line.\
+    Online the first 12 and last 12 characters will be schon on the device.
 * CL650
-* FF 767 / 757 / 777v2
+* FF 767 / 757
+* FF 777v2
 
 
 
 ## CDU Devices with HDMI Interface
 
-To drive CDU devices with a HDMI connector through SPAD.neXt to get access to all extended features without needing to popout a window in the simulator, SPAD.neXt provides a RemoteCDUDisplay-Tool which will popout a customizable window. The tool can be found in the SPAD.neXt installation directory in the subfolder Tools/cdu. It can be run on a remote computer if necessary
+To drive CDU devices with a HDMI connector through SPAD.neXt to get access to all extended features without needing to popout a window in the simulator, SPAD.neXt provides a RemoteCDUDisplay-Tool which will popout a customizable window.
+
+You can use snippet #13161 / #13165 for a reference implementation
+
+&#x20;The tool can be found in the SPAD.neXt installation directory in the subfolder Tools/cdu. It can be run on a remote computer if necessary
+
+* to run display upon load of a profile create a `profile loaded` event and run the external command "\<spad\_install\_dir>/tools/cdu/RemoteCDUDisplay.exe" or add it to a batch-file
+* To run the display on a remote computer copy tools/cdu to target computer, and start "RemoteCDUDisplay.exe -h=ipOfSPAD -p=28001"
+
+## WinWing CDU Devices
+
+{% hint style="danger" %}
+WinWing CDU Devices must be configured in SimAppPro as CAPTAIN, you can select to show the FO-Side insde SPAD.neXt then.
+{% endhint %}
+
+Updating the CDU Font is currently not supported. Update the font using SimAppPro
 
