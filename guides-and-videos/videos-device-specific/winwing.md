@@ -13,3 +13,11 @@ How to Add WinWing MCDU and CDU Devices to SPAD.neXt.  This video will also expl
 The FFX C750 CitationX is able via the Community Mod to deliver the CDU / FMC Data for display on the SPAD supported CDU devices.  This video focuses on the WW MCDU however ANY support CDU/MCDU will work in the same way.
 
 {% embed url="https://youtu.be/CnXtIN-aIGc" %}
+
+
+
+Add the WinWing FCU and EFIS Devices to SPAD.neXt.\
+We can quickly Add the hardware and then Download Published Device Snippets which get us going with our profiles!
+
+{% embed url="https://youtu.be/wsfjr2aq0M0" %}
+
