@@ -21,3 +21,6 @@ We can quickly Add the hardware and then Download Published Device Snippets whic
 
 {% embed url="https://youtu.be/wsfjr2aq0M0" %}
 
+Maximize your PAP3 MCP usage!  Using SPAD.neXt we can control the Autopilot systems of any airplane!  Let's use the FFX Citation X as an example and fire up MSFS 2024 to get it working!
+
+{% embed url="https://youtu.be/COh2dEzkHX4" %}
