@@ -166,6 +166,10 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 * EFIS (Partial) &#x20;
 * MCP
 
+## Virtual-Fly
+
+* Compass
+
 ## VRInsight
 
 * Airbus MCP Combo II
@@ -175,7 +179,7 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 * Overhead A320 (\*)
 * ProPt
 
-## WinFlex
+## WingFlex
 
 * A320 FCU Cube
 
