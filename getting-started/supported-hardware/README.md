@@ -21,7 +21,7 @@ All hardware marked with (\*) requires the SPAD.neXt complete edition
 * 737 CDU Left/Right (\*)
 * 737 MCP (\*), MCP-LITE (\*)
 * 737 EFIS Left/Right (\*)
-* A320 FCU/EFIS (\*) \[WIP]
+* A320 FCU/EFIS (\*)&#x20;
 * v2 CDU (\*)
   * 320A MCDU,  737X, 737M, 747X, 777X CDU&#x20;
 
@@ -175,11 +175,16 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 * Overhead A320 (\*)
 * ProPt
 
+## WinFlex
+
+* A320 FCU Cube
+
 ## WinWing
 
 * Airbus FCU + EFIS L/R
 * Airbus MCDU (\*)
 * Boeing PFP 3N / 4 / 7 (\*)
 * Boeing PAP 3 / PAP 3 MAG
+* Boeing PDC 3N/3M
 
 &#x20;
