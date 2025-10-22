@@ -168,7 +168,7 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 
 ## Virtual-Fly
 
-* Compass
+* Compass \[beta]
 
 ## VRInsight
 
@@ -181,7 +181,7 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 
 ## WingFlex
 
-* A320 FCU Cube
+* A320 FCU Cube \[beta]
 
 ## WinWing
 

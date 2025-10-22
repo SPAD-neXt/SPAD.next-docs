@@ -13,7 +13,7 @@ SPAD.neXt supports a wide range of hardware CDU devices, to display aircraft CDU
 * TFDI MD11/B717
 * iFLY
 * FlyByWire - SimBridge must be running
-* CT WT21 Mod - V0.7 / 0.8
+* [CT WT21 Mod](https://github.com/dementedmonkey/cj4-mcdu) - V0.7 / 0.8&#x20;
 
 ### FSX/P3D
 
