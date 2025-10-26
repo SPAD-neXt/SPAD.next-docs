@@ -18,6 +18,10 @@ All hardware marked with (\*) requires the SPAD.neXt complete edition
 
 ## Cockpit-Simulator / Cockpitmaster
 
+{% hint style="info" %}
+For Daisy-Chaining Cockpit-Simulator devices, the MCP/FCU must be the device connected via USB to make sure SPAD.neXt can correctly remap devices
+{% endhint %}
+
 * 737 CDU Left/Right (\*)
 * 737 MCP (\*), MCP-LITE (\*)
 * 737 EFIS Left/Right (\*)
@@ -114,7 +118,9 @@ All hardware marked with (\*) requires the SPAD.neXt complete edition
 
 ## Saitek / Logitech
 
+{% hint style="info" %}
 Saitek has been acquired by Logitech and all devices will be renamed. This documentation uses the old common names for the devices.
+{% endhint %}
 
 * Backlight Information Panel (BIP)
 * Cessna TPM
@@ -161,7 +167,9 @@ Saitek has been acquired by Logitech and all devices will be renamed. This docum
 
 ## Virtual Avionics
 
+{% hint style="info" %}
 Since Virtual Avionics gone out of business support for the devices is "as it is" and is no longer maintained.
+{% endhint %}
 
 * EFIS (Partial) &#x20;
 * MCP
