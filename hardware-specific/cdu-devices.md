@@ -7,13 +7,15 @@ SPAD.neXt supports a wide range of hardware CDU devices, to display aircraft CDU
 ### MSFS/MSFS24
 
 * PMDG - All aircraft. [SDK must be enabled](../getting-started/untitled/simulation-specifc-steps/msfs-enable-pmdg-data-access.md)
+* Aerosoft CRJ
 * Fenix - All Aircarft
 * FsLabs
 * MaddogX
 * TFDI MD11/B717
 * iFLY
 * FlyByWire - SimBridge must be running
-* [CT WT21 Mod](https://github.com/dementedmonkey/cj4-mcdu) - V0.7 / 0.8&#x20;
+* [CT WT21 Mod](https://github.com/dementedmonkey/cj4-mcdu) - V0.7 / 0.8 (Default CJ4, C90, 737 MAX)
+* [FFX P180 / FFX C750 Citation X](https://www.dropbox.com/scl/fi/ho9w7by5umnf7xywev5ru/lim-ffx-cdu-1.0.12.zip?rlkey=g5pr1ndb3vr4t2ni2euifa3ye\&dl=0)
 
 ### FSX/P3D
 
