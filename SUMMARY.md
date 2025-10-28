@@ -45,6 +45,7 @@
   * [Script Panel](guides-and-videos/videos-device-specific/script-panel.md)
   * [Stream Deck](guides-and-videos/videos-device-specific/stream-deck.md)
   * [Thrustmaster TCA](guides-and-videos/videos-device-specific/thrustmaster-tca-q-+-addon.md)
+  * [vDECK](guides-and-videos/videos-device-specific/vdeck.md)
   * [vFIP](guides-and-videos/videos-device-specific/vfip.md)
   * [Virtual Avionics](guides-and-videos/videos-device-specific/virtual-avionics.md)
   * [vJoy](guides-and-videos/videos-device-specific/vjoy.md)
