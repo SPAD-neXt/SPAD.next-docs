@@ -14,3 +14,8 @@ Use vJoy to bridge the gap to the Condition Levers after SU7 adding them in.
 vJoy Axis - Re Map the Throttle in MSFS
 {% endembed %}
 
+Use a vJoy to download any Device Snippet ! Using vJoy as a "clipboard" we can download a Device snippet to the vJoy then copy events to a different device type!
+
+Example in this video we will Download a Bravo Setup to load onto a TCA Boeing Throttle!!
+
+{% embed url="https://youtu.be/oHp8IPEFu1I" %}

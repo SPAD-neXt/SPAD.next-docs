@@ -42,3 +42,8 @@ For the First Device Tutorial Regarding the PMDG 777 I decided to use an Airbus 
 Thrustmaster TCA Airbus Captain Pack and the PMDG 777
 {% endembed %}
 
+Use a vJoy to download any Device Snippet ! Using vJoy as a "clipboard" we can download a Device snippet to the vJoy then copy events to a different device type!
+
+Example in this video we will Download a Bravo Setup to load onto a TCA Boeing Throttle!!
+
+https://youtu.be/oHp8IPEFu1I
