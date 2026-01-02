@@ -33,6 +33,7 @@
 * [MSFS SimConnect](guides-and-videos/msfs-simconnect.md)
 * [L:Vars / H:Events and B:Events](guides-and-videos/videos-lvar-hevents.md)
 * [Features & Functions](guides-and-videos/features-and-functions.md)
+* [Conditions / Expressions](guides-and-videos/conditions-expressions.md)
 * [Device Specific](guides-and-videos/videos-device-specific/README.md)
   * [Arduino / SPAD Serial](guides-and-videos/videos-device-specific/arduino-spad-serial.md)
   * [Authentikit](guides-and-videos/videos-device-specific/authentikit.md)
