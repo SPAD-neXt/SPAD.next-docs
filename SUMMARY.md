@@ -114,7 +114,7 @@
   * [X-Touch Mini](hardware-specific/midi-devices/x-touch-mini.md)
 * [Serial (COM) Devices](hardware-specific/serial-com-devices.md)
 * [Skalarki](hardware-specific/skalarki.md)
-* [VRInsight Overhead](getting-started/supported-hardware/common-issues/vrinsight-overhead.md)
+* [VRInsight Devices](getting-started/supported-hardware/common-issues/vrinsight-overhead.md)
 
 ## Extending and API's
 
