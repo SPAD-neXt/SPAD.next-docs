@@ -34,6 +34,5 @@ Syntax: `1,GOTOPAGE,<number>,<isrel>;`
 a rollover to first/last page will be done automatically
 {% endhint %}
 
-\
-
+<br>
 

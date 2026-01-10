@@ -6,41 +6,41 @@ Getting Started
 
 Contents
 
-[1. What is SPAD.neXt and will I need it? 3](broken-reference)
+[1. What is SPAD.neXt and will I need it? 3](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787033)
 
-[2. Requirements and features 5](broken-reference)
+[2. Requirements and features 5](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787034)
 
-[3. Where to get it and full vs. free vs. trial version 7](broken-reference)
+[3. Where to get it and full vs. free vs. trial version 7](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787035)
 
-[4. Installation 8](broken-reference)
+[4. Installation 8](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787036)
 
-[5. First Start: The Configuration Wizard 12](broken-reference)
+[5. First Start: The Configuration Wizard 12](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787037)
 
-[6. A quick glance through the main interface 19](broken-reference)
+[6. A quick glance through the main interface 19](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787038)
 
-[7. Registration / Trial Key 21](broken-reference)
+[7. Registration / Trial Key 21](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787039)
 
-[8. Profile selection, aircraft binding and takeoff 23](broken-reference)
+[8. Profile selection, aircraft binding and takeoff 23](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787040)
 
-[9. Panels, Controls and FIPs 29](broken-reference)
+[9. Panels, Controls and FIPs 29](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787041)
 
-[10. Go flying! 34](broken-reference)
+[10. Go flying! 34](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787042)
 
-[11. Simulator integration 36](broken-reference)
+[11. Simulator integration 36](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787043)
 
-[12. General Configuration Settings 38](broken-reference)
+[12. General Configuration Settings 38](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787044)
 
-[13. Working with profiles 42](broken-reference)
+[13. Working with profiles 42](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787045)
 
-[14. Once more on panels, controls, and fips - how to assign a button yourself 44](broken-reference)
+[14. Once more on panels, controls, and fips - how to assign a button yourself 44](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787046)
 
-[15. Gauges, gauges, gauges 50](broken-reference)
+[15. Gauges, gauges, gauges 50](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787047)
 
-[16. SimConnect and networked configurations 53](broken-reference)
+[16. SimConnect and networked configurations 53](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787048)
 
-[17. Where can I get further help? 58](broken-reference)
+[17. Where can I get further help? 58](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787049)
 
-[18. Author and Version 59](broken-reference)
+[18. Author and Version 59](/broken/pages/-MNPoJ1Drevm7t7sPcCt#_Toc465787050)
 
 ## What is SPAD.neXt and will I need it?
 
@@ -718,7 +718,7 @@ If there are any SimConnect versions available you are done (in case there are s
 
 If this is not the case you have to install SimConnect. FSX:SE and Prepar3D have SimConnect installed by default, while you have to install it yourself for FSX (boxed). A detailed guide can be found under
 
-[http://fsdeveloper.com/wiki/index.php?title=SDK\_Installation\_(FSX)](http://fsdeveloper.com/wiki/index.php?title=SDK\_Installation\_\(FSX\))
+[http://fsdeveloper.com/wiki/index.php?title=SDK\_Installation\_(FSX)](http://fsdeveloper.com/wiki/index.php?title=SDK_Installation_\(FSX\))
 
 Next, you have to configure SimConnect. Look for a file "SimConnect.xml" under the simulator's configuration directory, either, for FSX,
 
@@ -780,7 +780,7 @@ For the Port setting start with 4506, however, this may require some experimenti
 
 Excellent descriptions on how to configure SimConnect can be found in the following manuals:
 
-Plan-G: [http://www.tasoftware.co.uk/plan-g/files/Plan\_G%20Manual.pdf](http://www.tasoftware.co.uk/plan-g/files/Plan\_G%20Manual.pdf)
+Plan-G: [http://www.tasoftware.co.uk/plan-g/files/Plan\_G%20Manual.pdf](http://www.tasoftware.co.uk/plan-g/files/Plan_G%20Manual.pdf)
 
 SimLauncherX: [http://www.avsim.com/topic/453567-simlauncherx-the-freeware-tool-everyone-has-been-waiting-for/](http://www.avsim.com/topic/453567-simlauncherx-the-freeware-tool-everyone-has-been-waiting-for/) (Manual installed with the Software)
 
@@ -818,7 +818,7 @@ Keep in mind LVAR support requires the registered version.
 
 Fig. 52 You have to install the SPAD.neXt bridge manually on the Server
 
-The procedure is simple and described in the [link](https://www.fsgs.com/wiki/lvar\_support\_installation) given in Fig. 40. Essentially, you have to copy the file "_SPDBridge.dll"_ from the Client to the Server, e.g. to "Simulator maindirectory\Modules", plus add a corresponding dll.xml entry pointing to it.
+The procedure is simple and described in the [link](https://www.fsgs.com/wiki/lvar_support_installation) given in Fig. 40. Essentially, you have to copy the file "_SPDBridge.dll"_ from the Client to the Server, e.g. to "Simulator maindirectory\Modules", plus add a corresponding dll.xml entry pointing to it.
 
 After these steps, you can complete the Configuration Wizard as in Section 5.
 

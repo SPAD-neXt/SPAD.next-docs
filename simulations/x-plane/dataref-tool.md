@@ -38,8 +38,7 @@ Click on the plugin, and a search window should pop up. From here, you can start
 
 **🧩 Bonus Tip:**\
 Assign 1 button within X-plane to write the the drt\_last\_run\_commandrefs.txt &\
-drt\_last\_run\_datarefs.txt files this will save you a lot of time. This will overwrite the existing files whilst in the simulator & Instead of rebooting the sim you can make your edits and reboot Spad.Next.\
-
+drt\_last\_run\_datarefs.txt files this will save you a lot of time. This will overwrite the existing files whilst in the simulator & Instead of rebooting the sim you can make your edits and reboot Spad.Next.<br>
 
 <figure><img src="../../.gitbook/assets/Button Assignment.png" alt=""><figcaption><p>Assigning A Button</p></figcaption></figure>
 

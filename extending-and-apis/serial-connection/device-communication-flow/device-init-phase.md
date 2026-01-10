@@ -5,8 +5,7 @@ When starting SPAD.neXt will send an INIT Request to the device and expects a re
 Request from SPAD.neXt:\
 `0,INIT,<SerialVersion>,<AppVersion>,<AuthToken>`
 
-`Parameters`\
-
+`Parameters`<br>
 
 | \<SerialVersion> | <p>Version of the serial protocol supported <br>2 means SPAD.neXt  supports version 1 and version 2<br>The current version is 2</p>                                                                                                                                    |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,8 +52,7 @@ The authorkey is case-sensitive!
 The ALLOWLOCAL option controls where SPAD.neXt will search for device configuration files/images etc. before checking the database.\
 &#xNAN;_&#x44;ocuments_ refers to the Documents-Directory from SPAD.neXt configuration. Default: "Documents/SPAD.neXt"-Folder of Windows user
 
-SPAD.neXt will search for files/images in the following order \
-
+SPAD.neXt will search for files/images in the following order <br>
 
 Value = 0 (default)
 

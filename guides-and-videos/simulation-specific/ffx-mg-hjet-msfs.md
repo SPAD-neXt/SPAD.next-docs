@@ -38,8 +38,7 @@ Using an X-Touch Midi Controller to Configure the Overhead Lights Control
 X-Touch Mini Slider/Fader Configuration - Overhead Lights
 {% endembed %}
 
-v1.0.4 of the HJet is here!! Which Means the Autopilot Bindings have all be reworked to use the standard Variables and Events!!...  Well Let's get back at doing the HJet again..\
-
+v1.0.4 of the HJet is here!! Which Means the Autopilot Bindings have all be reworked to use the standard Variables and Events!!...  Well Let's get back at doing the HJet again..<br>
 
 {% embed url="https://youtu.be/6Yg_409J_Kk" %}
 HJet v1.0.4 New MultiPanel Bindings

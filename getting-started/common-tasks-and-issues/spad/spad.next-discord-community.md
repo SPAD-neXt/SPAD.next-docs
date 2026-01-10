@@ -6,7 +6,7 @@ description: The SPAD.neXt Discord Communty
 
 Since there is no longer a forum for asking general question or getting a helping hand, there is a SPAD.neXt community discord for this purpose.
 
-After the [Video-Guides](broken-reference) , the discord is the first stop ressource for any questions or problems.
+After the [Video-Guides](/broken/pages/aYClQrytxtoIoRs8EpSv) , the discord is the first stop ressource for any questions or problems.
 
 {% hint style="info" %}
 Please note: The SPAD:neXt discord community is not a service run or maintained by SPAD.neXt. It's a seperate (free) product, which is used as tool.

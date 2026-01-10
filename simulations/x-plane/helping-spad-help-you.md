@@ -7,8 +7,7 @@ description: That Command File
 Good news, Captain! SPAD.neXt is pretty clever when it comes to finding datarefs inside X-Plane. It can sniff them out on its own, so we don’t need to mess with the drt\_last\_run\_datarefs.txt file anymore. That one can stay in the hangar.\
 But when it comes to commands, SPAD.neXt still needs a little hand-holding—think of it like your co-pilot before coffee. \
 \
-drt\_last\_run\_commandrefs.txt\
-
+drt\_last\_run\_commandrefs.txt<br>
 
 In order for SPAD.neXt to actually recognize and use the commands from that file, we need to give it a proper callsign. That means renaming it to:\
 **commands.txt**

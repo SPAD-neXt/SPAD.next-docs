@@ -84,8 +84,7 @@ Big Changes with Axis GUI and Capabilities!!  Much Desired Ability to bind Condi
 Conditional Axis - Toggle Between FWD Thrust and REV Thrust
 {% endembed %}
 
-Dash 7 Bravo Configuration.  This includes setting up Custom Condition Lever Axis with Multiple Ranges and all Starter Switches required for successful Starts.  Decision was made to go with 2 Axis For Throttles and 4 for the Prop/Condition Levers.  AP and Annunciators fully functional.\
-
+Dash 7 Bravo Configuration.  This includes setting up Custom Condition Lever Axis with Multiple Ranges and all Starter Switches required for successful Starts.  Decision was made to go with 2 Axis For Throttles and 4 for the Prop/Condition Levers.  AP and Annunciators fully functional.<br>
 
 {% embed url="https://youtu.be/vSx7XcS2e5c?si=G3UAk13hVlHs5s5f" %}
 Dash 7 Bravo Config Including Snippet

@@ -23,8 +23,7 @@ If that did not fix it, the X-Touch Mini need to be switched into Mackie-Mode ma
 * Exit SPAD.neXt
 * Download (if not already present) [https://mediadl.musictribe.com/download/software/behringer/X-TOUCH/X-TOUCH-EDITORv1.21.zip](https://mediadl.musictribe.com/download/software/behringer/X-TOUCH/X-TOUCH-EDITORv1.21.zip)
 * Unzip container and start the x-touch.exe
-*   An ui like this should appear\
-
+*   An ui like this should appear<br>
 
     <figure><img src="../../.gitbook/assets/grafik.png" alt=""><figcaption><p>X-Touch Editor</p></figcaption></figure>
 * Click on the MC Button
@@ -35,4 +34,4 @@ If that did not fix it, the X-Touch Mini need to be switched into Mackie-Mode ma
 
 
 
-\
+<br>

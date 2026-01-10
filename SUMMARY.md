@@ -100,7 +100,7 @@
   * [Dataref vs. Command: Know Your Copilots](simulations/x-plane/dataref-vs.-command-know-your-copilots.md)
   * [Basic Flight Controls – Axis Setup](simulations/x-plane/basic-flight-controls-axis-setup.md)
 * [P3d and FSX](simulations/p3d-and-fsx.md)
-* [Other](simulations/other.md)
+* [Other Simulations](simulations/other-simulations.md)
 
 ## Hardware specific
 
@@ -171,6 +171,7 @@
 
 ## Changes
 
+* [0.9.24](changes/0.9.24.md)
 * [0.9.23](changes/0.9.23.md)
 * [0.9.21](changes/0.9.21.md)
 * [0.9.14.0](changes/0.9.14.0.md)

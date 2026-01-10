@@ -4,11 +4,11 @@ description: Hardware supported by SPAD.neXt
 
 # Supported hardware
 
-Directly supported with custom UI:
-
 {% hint style="warning" %}
 All hardware marked with (\*) requires the SPAD.neXt complete edition
 {% endhint %}
+
+Directly supported with custom UI:
 
 ## Arduino
 
@@ -73,12 +73,14 @@ For Daisy-Chaining Cockpit-Simulator devices, the MCP/FCU must be the device con
 
 ## Midi Devices (In & Out)
 
-* General/Standard Midi (Discovery On First Use)
+* General/Standard Midi (Key-Discovery On First Use)
 * Behringer X-Touch (Mackie Mode)
 
 ## miniCOCKPIT
 
-* miniFCU / EFIS (stock and custom firmware)
+* miniFCU
+* miniEFIS
+* miniOVHD
 
 ## Octavi&#x20;
 
@@ -158,11 +160,13 @@ Saitek has been acquired by Logitech and all devices will be renamed. This docum
 * TCA Boeing Yoke
 * TM TPR / T-Flight / Warthog etc. (Standard Joystick UI)
 
-## Turtlebeach Velocity One Yoke
+## Turtlebeach
+
+* Velocity One Yoke
 
 ## Ultimarc
 
-* PACLed / PACLed64
+* PACLed / PACLed64 / PACNano
 * PACDrive
 
 ## Virtual Avionics
@@ -176,7 +180,7 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 
 ## Virtual-Fly
 
-* Compass \[beta]
+* Compass
 
 ## VRInsight
 
@@ -185,11 +189,12 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 * GPS
 * Overhead 737 (\*)
 * Overhead A320 (\*)
+* CDU 3 (SPAD.neXt driven display complete edition only)
 * ProPt
 
 ## WingFlex
 
-* A320 FCU Cube \[beta]
+* A320 FCU Cube&#x20;
 
 ## WinWing
 
@@ -198,5 +203,8 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 * Boeing PFP 3N / 4 / 7 (\*)
 * Boeing PAP 3 / PAP 3 MAG
 * Boeing PDC 3N/3M
+* PAC-32&#x20;
+* AGP
+* ECAM
 
 &#x20;

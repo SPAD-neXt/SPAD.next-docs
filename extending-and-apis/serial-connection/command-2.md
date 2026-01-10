@@ -32,4 +32,4 @@ When the profile is switched in SPAD.neXt the following events will be sent to t
 3. PAGE (completed = 1)
 4. PROFILECHANGED
 
-(2 and 3 only if device supported pages)\
+(2 and 3 only if device supported pages)<br>

@@ -19,8 +19,7 @@ If X-Plane crashes after the aircraft is loaded and you have a custom datarefs.t
 ### X-Plane error: Discover port blocked
 
 Most likely you have something running like e.g. Hyper-V which reserved the ports that are used by X-Plane for external communication. You will need to tell it not to reserve those ports.\
-You can check with this commands:\
-
+You can check with this commands:<br>
 
 ```
 netsh int ipv4 show excludedportrange protocol=tcp

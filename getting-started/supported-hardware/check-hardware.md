@@ -14,6 +14,10 @@ For devices, that show up in Windows USB Gamecontrollers:
 * [ ] Press all buttons / switches in questing, and observe if the B-values on the webpage will change.
 * [ ] Values do **not** change: It's a hardware issue. Maybe USB cable not connected firmly
 
+For Saitek Multipanel/Radiopanel/Switchpanel:
+
+* [ ] You can download the old Saitek Testapplication [here](https://spadnext.com/download/SaitekDeviceTesters.zip)
+
 For other devices:
 
 * [ ] Close any FligthSim and open SPAD.neXt

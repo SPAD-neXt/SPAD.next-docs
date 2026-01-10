@@ -11,8 +11,7 @@ RPN Expressions have to be ESP RPN conform!
 SPAD.neXt is generally Saitek/Logitech compatible, but it has **NOT** implemented Saitek Bugs:
 
 Saitek gauges require a Non-Space-Character before a closing brace "}" e.g. in if{ statements:\
-`if{ someexpression`` `<mark style="color:red;">**`%`**</mark>`} els{ someotherexpression`` `<mark style="color:red;">**`%`**</mark>`}`\
-
+`if{ someexpression`` `<mark style="color:red;">**`%`**</mark>`} els{ someotherexpression`` `<mark style="color:red;">**`%`**</mark>`}`<br>
 
 SPAD.neXt does **not** support this. You will need to alter the gauge accordingly and remove the <mark style="color:red;">**%**</mark>
 
@@ -42,21 +41,18 @@ PMDG (P3D):\
 `(SCS:scs/truck/fuel)`\
 \
 `X-Plane:`\
-`(XPLANE:sim/cockpit2/annunciators/afterburner)`\
-
+`(XPLANE:sim/cockpit2/annunciators/afterburner)`<br>
 
 #### Local Variables access
 
 **LOCAL**:VARNAME\
-Local var , will not be saved, will be initialized to 0 if it does not exist already\
-
+Local var , will not be saved, will be initialized to 0 if it does not exist already<br>
 
 **DEVICE**:VARNAME\
 Local var, Value will be _DEVICE-specific_, and will be initialized to the saved value again when the gauge is loaded onto that device. (Same varibale has diffrent value son different FIP devices)
 
 P**ROFILE**:VARNAME \
-Local var , Value will be saved to the _PROFILE_ , and will be initialized to the saved value again when the profile is loaded\
-
+Local var , Value will be saved to the _PROFILE_ , and will be initialized to the saved value again when the profile is loaded<br>
 
 #### Additional Time-Variables
 

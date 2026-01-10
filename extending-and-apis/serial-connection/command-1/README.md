@@ -33,8 +33,7 @@ e.g.  DEVICE:`A8AA15C5-7BB6-4AC6-A558-A88CAFB78729/buttons/button1`
 
 ### Getting and setting
 
-SPAD.neXt will send data updates to the device and expect data using the given CHANNELID channel using the 5-Channel: 5,`<CHANNELID>,<value>;` \
-
+SPAD.neXt will send data updates to the device and expect data using the given CHANNELID channel using the 5-Channel: 5,`<CHANNELID>,<value>;` <br>
 
 ### Examples
 
@@ -60,8 +59,7 @@ LOCAL variables will not be saved and default to 0&#x20;
 
 ## Subscribe to a data&#x20;
 
-the subcommand `SUBSCRIBE` with subscribe the device to a data value from SPAD.neXt or the simulation\
-
+the subcommand `SUBSCRIBE` with subscribe the device to a data value from SPAD.neXt or the simulation<br>
 
 `1,SUBSCRIBE,<index>,<path>[,<unit>[,<epsilon>]];`
 
@@ -93,8 +91,7 @@ Syntax: `1,UNSUBSCRIBE,<index>;`
 
 ## Emulate an event on a diffrent device
 
-The subcommand `EMULATE` will emulate an event from another device. (E.g. a dial turned on radio panel)\
-
+The subcommand `EMULATE` will emulate an event from another device. (E.g. a dial turned on radio panel)<br>
 
 `1,EMULATE,<TARGET_DEVICE>,<TARGET_SWITCH>,<TARGET_EVENT>;`
 

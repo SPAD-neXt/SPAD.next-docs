@@ -4,8 +4,7 @@ description: Videos Focused on the PMDG 777 for MSFS
 
 # PMDG 777 (MSFS)
 
-First thing that needs to be done is enabling the SDK.  This will need to be done for every variant and sometimes even after a PMDG upgrade if it resets the files.  \
-
+First thing that needs to be done is enabling the SDK.  This will need to be done for every variant and sometimes even after a PMDG upgrade if it resets the files.  <br>
 
 {% embed url="https://youtu.be/uVU4PzbfpcY" %}
 PMDG Needs the SDK Enabled!!  Do This First for all 777 Variants!

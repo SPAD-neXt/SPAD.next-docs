@@ -4,8 +4,7 @@
 Steps provided for the PMDG 737, for all other PMDG aircraft same steps epply for the aircrafr specific ini-file
 {% endhint %}
 
-To access MSFS PMDG Data from SPAD.neXt the following steps have to be completed:\
-
+To access MSFS PMDG Data from SPAD.neXt the following steps have to be completed:<br>
 
 1. In MSFS the PMDG 737 must have been loaded beyond "ready to fly" at least once and exited again.
 2. Exit MSFS
@@ -24,8 +23,7 @@ To access MSFS PMDG Data from SPAD.neXt the following steps have to be completed
 `[SDK]` \
 `EnableDataBroadcast=1` \
 `EnableCDUBroadcast.0=1` \
-`EnableCDUBroadcast.1=1`\
-
+`EnableCDUBroadcast.1=1`<br>
 
 {% hint style="info" %}
 The EnableCDUBroadcast entries are only needed if you have a CDU Device or want to access CDU Data within SPAD.neXt

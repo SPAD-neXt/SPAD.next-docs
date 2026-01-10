@@ -18,8 +18,7 @@ Reply: `0,PONG,<TICKET>;`
 
 ## &#x20;END
 
-When SPAD.neXt exits it will send an `0,END;` command to the device, so the device knows SPAD.neXt is exiting. \
-
+When SPAD.neXt exits it will send an `0,END;` command to the device, so the device knows SPAD.neXt is exiting. <br>
 
 {% hint style="danger" %}
 There is no guarantee that this command is sent, and SPAD.neXt will not wait for a reply and close the comunication immediately
