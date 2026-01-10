@@ -2,6 +2,8 @@
 
 SPAD.neXt supports a wide range of hardware CDU devices, to display aircraft CDU/FMC on it. Since there is no standard defined every aircraft has to be implemented manually.
 
+You can use snippet #13161 / #13165 for a reference implementation of CDU's
+
 ## Currently supported aircraft
 
 ### MSFS/MSFS24
@@ -16,6 +18,7 @@ SPAD.neXt supports a wide range of hardware CDU devices, to display aircraft CDU
 * FlyByWire - SimBridge must be running
 * [CT WT21 Mod](https://github.com/dementedmonkey/cj4-mcdu) - V0.7 / 0.8 (Default CJ4, C90, 737 MAX)
 * [FFX P180 / FFX C750 Citation X](https://www.dropbox.com/scl/fi/ho9w7by5umnf7xywev5ru/lim-ffx-cdu-1.0.12.zip?rlkey=g5pr1ndb3vr4t2ni2euifa3ye\&dl=0)
+* Inibuilds A340 (MSFS24)
 
 ### FSX/P3D
 
@@ -30,7 +33,7 @@ SPAD.neXt supports a wide range of hardware CDU devices, to display aircraft CDU
 * Rotate MD-11
 * Rotate MD-80
   * The MD-80 has a 30 characters wide display, while CDU devices only have 24 character per line.\
-    Online the first 12 and last 12 characters will be schon on the device.
+    Only the first 12 and last 12 characters will be schon on the device.
 * CL650
 * FF 767 / 757
 * FF 777v2
@@ -46,7 +49,7 @@ You can use snippet #13161 / #13165 for a reference implementation
 &#x20;The tool can be found in the SPAD.neXt installation directory in the subfolder Tools/cdu. It can be run on a remote computer if necessary
 
 * to run display upon load of a profile create a `profile loaded` event and run the external command "\<spad\_install\_dir>/tools/cdu/RemoteCDUDisplay.exe" or add it to a batch-file
-* To run the display on a remote computer copy tools/cdu to target computer, and start "RemoteCDUDisplay.exe -h=ipOfSPAD -p=28001"
+* To run the display on a remote computer copy tools/cdu to target computer, and start "RemoteCDUDisplay.exe -h=ipOfSPAD -p=28001 -t=`targetid`". To get the targetid open the cdu tool once using SPAD.neXt.
 
 ## WinWing CDU Devices
 
