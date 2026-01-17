@@ -46,4 +46,4 @@ Use a vJoy to download any Device Snippet ! Using vJoy as a "clipboard" we can d
 
 Example in this video we will Download a Bravo Setup to load onto a TCA Boeing Throttle!!
 
-https://youtu.be/oHp8IPEFu1I
+{% embed url="https://youtu.be/oHp8IPEFu1I" %}
