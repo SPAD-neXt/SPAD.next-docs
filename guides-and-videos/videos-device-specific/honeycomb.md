@@ -10,19 +10,7 @@ Configuration of the Alpha for a "Single Engine" MSFS C172
 
 
 
-{% embed url="https://youtu.be/GBaOCHAn-7I" %}
-Bravo First Setup Config.  Twin Prop GA in the Baron! Bonus Alpha Snippet!
-{% endembed %}
 
-{% embed url="https://youtu.be/e77q0FPmqko" %}
-Alpha and Bravo Configs for the Single Engine Setups!!!
-{% endembed %}
-
-
-
-{% embed url="https://youtu.be/g_Sq-3Zahu0" %}
-Alpha and Bravo Config for the WT CJ4 v0.12.7
-{% endembed %}
 
 {% embed url="https://youtu.be/E2DD97qel7Y" %}
 Alpha and Bravo Config for the Aerosoft CRJ 550/700/900/1000
@@ -60,10 +48,6 @@ FFX/MG HJet Honeycomb Alpha Configuration
 Re-Configure the Alpha Yoke to use the Default Configs!
 {% endembed %}
 
-{% embed url="https://youtu.be/VPUX4vBaBDc" %}
-vJoy Axis - Re Map the Bravo Throttle in MSFS
-{% endembed %}
-
 This Video is a General Update to How the Bravo Layout and UI is handled in the Release version of SPAD.neXt v0.9.12!
 
 There was a video update early in the Alpha phase but near the end of testing the final layout including sub tabs was introduced.
@@ -90,3 +74,8 @@ Dash 7 Bravo Configuration.  This includes setting up Custom Condition Lever Axi
 Dash 7 Bravo Config Including Snippet
 {% endembed %}
 
+How to Bind the TBM 930 Throttle in SPAD.neXt to have Control and Animation Working!!!
+
+vJoy method is no longer needed. We can use B Events and K Events to tie it all together!!
+
+{% embed url="https://youtu.be/4a9ZQ3aXV6I" %}
