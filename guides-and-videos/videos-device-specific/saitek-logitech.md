@@ -6,18 +6,6 @@ Looking to get started with Saitek / Logitech Panels?  Well first thing to do is
 First Steps to take in getting your Saitek/Logitech Panels into SPAD.neXt
 {% endembed %}
 
-{% embed url="https://youtu.be/JaxB5IhRiqY" %}
-Configuring the Switch Panel for C208 or any Carenado
-{% endembed %}
-
-{% embed url="https://youtu.be/PtEQ3EWFjw0/" %}
-Multi Panel Config with the AS CRJ... Same method for any L:VAR Plane
-{% endembed %}
-
-{% embed url="https://youtu.be/v55nG44P0Ys" %}
-Radio Panel and Bonus Script Panel for the CRJ... Do a Little more than the basics :)
-{% endembed %}
-
 {% embed url="https://youtu.be/7UuBUaflemI" %}
 Working Title CJ4 Configuration Download and Assignments walk through
 {% endembed %}
