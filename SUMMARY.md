@@ -15,6 +15,7 @@
     * [X-Plane Configuration](getting-started/untitled/simulation-specifc-steps/x-plane-configuration.md)
 * [First Start](getting-started/first-run-the-configuration-wizard/README.md)
   * [Configuration Wizard](getting-started/first-run-the-configuration-wizard/configuration-wizard.md)
+* [SPAD.neXt discord community](getting-started/common-tasks-and-issues/spad/spad.next-discord-community.md)
 * [Common Tasks and Issues](getting-started/common-tasks-and-issues/README.md)
   * [SPAD](getting-started/common-tasks-and-issues/spad/README.md)
     * [Online Services](getting-started/common-tasks-and-issues/spad/online-services.md)

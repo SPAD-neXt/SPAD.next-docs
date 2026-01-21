@@ -6,7 +6,7 @@ description: Accelerate tuner clockwise/counter-clockwise changes
 
 Turning a tuner clockwise or counterclockwise can be modified so SPAD.neXt will accelerate changes in the sim (Turning the tuner faster)
 
-![Enable Tuner Clockwise/Counter-Clockwise Acceleration](<../.gitbook/assets/grafik (1) (1) (1) (1).png>)
+![Enable Tuner Clockwise/Counter-Clockwise Acceleration](<../.gitbook/assets/grafik (1) (1) (1) (1) (1).png>)
 
 Timeout: Time in milliseconds without any tuner-turn to reset the acceleration mutiplier&#x20;
 

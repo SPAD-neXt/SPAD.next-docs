@@ -12,9 +12,9 @@ Please also see this article about the common requirements for connecting USB de
 [Windows updates likes to turn power management back on.](#user-content-fn-1)[^1]
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/grafik (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/grafik (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/grafik (2) (1).png" alt=""><figcaption><p>f you have Checked off the Do not notify me ever... you can re-enable it here</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/grafik (2) (1) (1).png" alt=""><figcaption><p>f you have Checked off the Do not notify me ever... you can re-enable it here</p></figcaption></figure>
 
 You Need to disable the power management at all levels!
 

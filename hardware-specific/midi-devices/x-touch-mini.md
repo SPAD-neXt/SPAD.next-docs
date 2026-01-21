@@ -25,7 +25,7 @@ If that did not fix it, the X-Touch Mini need to be switched into Mackie-Mode ma
 * Unzip container and start the x-touch.exe
 *   An ui like this should appear<br>
 
-    <figure><img src="../../.gitbook/assets/grafik.png" alt=""><figcaption><p>X-Touch Editor</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/grafik (2).png" alt=""><figcaption><p>X-Touch Editor</p></figcaption></figure>
 * Click on the MC Button
 * The Layer led should go off and the MC MODE led above it should go on.
 * Close the x-touch editor
