@@ -1,7 +1,5 @@
 # Loupedeck Image Devices
 
-
-
 {% hint style="danger" %}
 Loupedeck Software 6.0.3 **required**&#x20;
 
@@ -12,6 +10,8 @@ The Loupedeck Software 6.0.3 Installer can be found [here](https://support.loupe
 
 {% hint style="danger" %}
 Logitech Options+ must not be installed
+
+Loupedeck support is a complete edition feature
 {% endhint %}
 
 
@@ -31,3 +31,5 @@ Logitech Options+ must not be installed
     ```
     %LOCALAPPDATA%\Logi\LogiPluginService\Logs\plugin_logs\SPAD.log
     ```
+
+The source code of the SPAD.neXt Loupedeck plugin is open source and can be found on the [SPAD.neXt Github](https://github.com/orgs/SPAD-neXt/repositories)

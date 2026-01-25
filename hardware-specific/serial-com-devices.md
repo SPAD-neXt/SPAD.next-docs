@@ -35,13 +35,13 @@ For CH340 based devices this has to be turned off, unless it's configured in the
 Time in ms before spad will try to send anything to the device after opening the port.\
 For a real USB2Serial chipset this is not needed (set to 0).\
 However e.g. the CH340 fake serial chip has an odd bootloader which will go into device-programming mode if anything is received on the port while device is booting up and in result the device will not respond to any data sent to it.\
-If that happens, set this wakeup time. You might need to experiment with the settings but 2000ms is a good starting point. Devices with a lot of stuff in it (e.g. displays) might need a longer wakeup time (e.g. 3500ms).\\
+If that happens, set this wakeup time. You might need to experiment with the settings but 2000ms is a good starting point. Devices with a lot of stuff in it (e.g. displays) might need a longer wakeup time (e.g. 3500ms).
 
 ## Common Issues
 
 ### Access to ComPort denied
 
-If you get "Access to ComX is denied" error when starting SPAD.neXt after a fresh computer reboot with a serial device, this is most likely because you have Skype or the Arduino IDE running. Serial devices are recognized as audiodevices and locked by skype for unknown reason.\
+If you get "Access to ComX is denied" error when starting SPAD.neXt after a fresh computer reboot with a serial device, this is most likely because you have Skype/Teams or the Arduino IDE running. Serial devices are sometimes recognized as audiodevices and locked by skype/teams for unknown reason.\
 (Same can appliy to other software locking up the port)
 
 **Solution**: Unplug serial usb and replug it, this will release the lock on it.

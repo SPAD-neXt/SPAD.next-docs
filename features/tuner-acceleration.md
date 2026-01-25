@@ -26,7 +26,7 @@ if your turn the tuner clockwise like 5 clicks within 500ms with an increment va
 4\. click: 3 ( Threshold met: (clicks - threshold) _multiplier = (4-3)_ 3)\
 5\. click: 6 ( Threshold met: (clicks - threshold) _multiplier = (5-3)_ 3)
 
-Increasing timeout => Acceleration will be active for a longer time (you can tunr the tuner slower) Decrease timeout => You will need to turn the tuner really fast, but be aware wacky saitek hardware eats a lot of the (counter-)clockwise clicks even that you can feel it.
+Increasing timeout => Acceleration will be active for a longer time (you can turn the tuner slower) Decrease timeout => You will need to turn the tuner really fast, but be aware wacky saitek hardware eats a lot of the (counter-)clockwise clicks even that you can feel it.
 
 Increase threshold: Acceleration will start later \
-Decreate threshold: Acceleration will start earlier, but might make it harder to achieve one/two-click changes
+Decrease threshold: Acceleration will start earlier, but might make it harder to achieve one/two-click changes

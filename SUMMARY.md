@@ -79,11 +79,11 @@
 ## Features
 
 * [Expressions](features/expressions/README.md)
-  * [Values](features/expressions/values.md)
-  * [Referencing Simulation Data](features/expressions/referencing-simulation-data.md)
-  * [Operators](features/expressions/operators.md)
-  * [Functions](features/expressions/functions.md)
-  * [Examples](features/expressions/examples.md)
+  * [Expressions: Values](features/expressions/values.md)
+  * [Expressions: Referencing Simulation Data](features/expressions/referencing-simulation-data.md)
+  * [Expressions: Operators](features/expressions/operators.md)
+  * [Expressions: Functions](features/expressions/functions.md)
+  * [Expressions: Examples](features/expressions/examples.md)
 * [Tuner Acceleration](features/tuner-acceleration.md)
 * [Event Execution Order](features/event-execution-order.md)
 * [Virtual Devices](features/virtual-devices/README.md)
@@ -92,8 +92,10 @@
 
 ## Simulations
 
-* [MSFS 2024](simulations/msfs-2024.md)
-* [MSFS 2020](simulations/msfs-2020.md)
+* [MSFS 2024](simulations/msfs-2024/README.md)
+  * [MSFS2024 PMDG Data Access](simulations/msfs-2024/msfs2024-pmdg-data-access.md)
+* [MSFS 2020](simulations/msfs-2020/README.md)
+  * [MSFS2020 PMDG Data Access](simulations/msfs-2020/msfs2020-pmdg-data-access.md)
 * [X-Plane](simulations/x-plane/README.md)
   * [Pre-Requisites](simulations/x-plane/pre-requisites.md)
   * [Dataref Tool](simulations/x-plane/dataref-tool.md)

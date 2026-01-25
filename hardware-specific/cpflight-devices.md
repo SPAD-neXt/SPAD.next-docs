@@ -51,4 +51,3 @@ Some Variables are provided to control behaviour of the devices:
 
 <table><thead><tr><th width="283">Name</th><th>Purpose</th></tr></thead><tbody><tr><td>CPF_MCP_BACKLIGHT</td><td>Controll the backlight of all devices</td></tr><tr><td>CPF_MCP_ATDISCONNECT</td><td>Disconnect the A/T magnetic lock (MCP pro) or blink the A/T Led</td></tr><tr><td>CPF_COMx_SPACING</td><td>Switch between 8 (=0) and 25 (=1) kHz spacing. Defaults to 8khz if device supports it.</td></tr></tbody></table>
 
-##

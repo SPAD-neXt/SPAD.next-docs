@@ -10,7 +10,7 @@ All hardware marked with (\*) requires the SPAD.neXt complete edition
 
 Directly supported with custom UI:
 
-## Arduino
+## Arduino / Custom devices
 
 * SPAD.neXt Serial Protocol v1
 * SPAD.neXt Serial Protocol v2
@@ -19,7 +19,8 @@ Directly supported with custom UI:
 ## Cockpit-Simulator / Cockpitmaster
 
 {% hint style="info" %}
-For Daisy-Chaining Cockpit-Simulator devices, the MCP/FCU must be the device connected via USB to make sure SPAD.neXt can correctly remap devices
+For Daisy-Chaining Cockpit-Simulator devices, the MCP/FCU must be the device connected via USB to make sure SPAD.neXt can correctly remap devices.\
+The 24V power connection is required for daisy chaining
 {% endhint %}
 
 * 737 CDU Left/Right (\*)
@@ -52,13 +53,13 @@ For Daisy-Chaining Cockpit-Simulator devices, the MCP/FCU must be the device con
 
 ## Generic USB Joystick/HID  Devices&#x20;
 
-* All USB-HID Joysticks – If Windows says it’s a joystick SPAD.neXt will discover it and use the Generic Joystick UI!
+* All USB-HID Joysticks – If you can see a device in the Windows USB-Gamedevices, SPAD.neXt will discover it and use a generic joystick UI
 
 ## GoFlight
 
 * GF-46 GF-166 GF-EFIS GF-LGT GF-LGT-II GF-MCP GF-MCP Pro GF-MESM
 * GF-P8 GF-RP48 GF-SECM GF-T8 GF-TQ GF-WCP GF-45
-* GF-ATC \[WIP]
+* GF-ATC
 
 ## Honeycomb
 
@@ -68,12 +69,19 @@ For Daisy-Chaining Cockpit-Simulator devices, the MCP/FCU must be the device con
 
 ## Loupedeck
 
+{% hint style="warning" %}
+Loupedeck Software 6.0.3 **required**&#x20;
+
+No later version of Loupedeck Software is supported.
+{% endhint %}
+
 * Live / Ct / Live S (\*)
 * Razer Streamdeck (\*)
 
 ## Midi Devices (In & Out)
 
-* General/Standard Midi (Key-Discovery On First Use)
+* General/Standard Midi&#x20;
+  * Device Inputs will be discovered when it being used the first time
 * Behringer X-Touch (Mackie Mode)
 
 ## miniCOCKPIT
@@ -181,6 +189,7 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 ## Virtual-Fly
 
 * Compass
+* Switch Trims Panel
 
 ## VRInsight
 
@@ -196,7 +205,11 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 
 * A320 FCU Cube&#x20;
 
-## WinWing
+## WinCTRL / WinWing
+
+{% hint style="info" %}
+WinWing has been rebranded to WinCTRL recently
+{% endhint %}
 
 * Airbus FCU + EFIS L/R
 * Airbus MCDU (\*)

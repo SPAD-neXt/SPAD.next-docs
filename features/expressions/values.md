@@ -1,8 +1,8 @@
-# Values
+# Expressions: Values
 
 ## Values
 
-A value is a terminal token representing a concrete element. This can be:
+A value is a token representing a concrete element. This can be:
 
 * an integer
 * a floating point number
@@ -53,7 +53,7 @@ They are evaluated as Double
 Must be enclosed between sharps.
 
 ```
-#2008/01/31# // Note it's us format!
+#2008/01/31# // Note it's US format!
 ```
 
 The are evaluated as **DateTime**. Expression always use invariant culture (en-us)
@@ -80,7 +80,7 @@ To enter special characters (e.g. a degree symbol) you can either hold the Alt-K
 
 ### Function
 
-A function is made of a name followed by braces, containing optionally any value as arguments.
+A function is made of a name followed by braces `()` , containing optionally any value as arguments.
 
 ```
   Abs(1), doSomehting(1, 'dummy')
@@ -89,6 +89,8 @@ A function is made of a name followed by braces, containing optionally any value
 Please read the [functions](functions.md) page for details.
 
 ### Simulation Data
+
+You can reference any data available by enclosing teh datareference in `[]`
 
 ```
   2 + [x]

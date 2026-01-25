@@ -1,4 +1,4 @@
-# Operators
+# Expressions: Operators
 
 Expressions can be combined using operators. Each operator as a precedence priority. Here is the list of those expression's priority.
 
@@ -9,7 +9,9 @@ These operators can do some logical comparison between other expressions:
 * or, ||
 * and, &&
 
-&#x20;The **and** operator has more priority than the **or**, thus in the example above, **false and true** is evaluated first.
+{% hint style="info" %}
+The **and** operator has more priority than the **or**, thus in the example above, **false and true** is evaluated first.
+{% endhint %}
 
 ### Relational
 
