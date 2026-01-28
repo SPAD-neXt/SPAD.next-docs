@@ -3,9 +3,9 @@
 {% hint style="danger" %}
 Loupedeck Software 6.0.3 **required**&#x20;
 
-No later version of Loupedeck Software is supported
+No later version of Loupedeck Software is supported, as Loupedeck broke dynamic image updates in all later versions.
 
-The Loupedeck Software 6.0.3 Installer can be found [here](https://support.loupedeck.com/hubfs/Knowledge%20Base/LD%20Software%20Downloads/6.0.3/LoupedeckInstaller_6.0.3.21384.exe)
+The Loupedeck Software 6.0.3 Installer can be found [here](https://www.spadnext.com/download/other/LoupedeckInstaller_6.0.3.21384.exe)
 {% endhint %}
 
 {% hint style="danger" %}
@@ -32,4 +32,4 @@ Loupedeck support is a complete edition feature
     %LOCALAPPDATA%\Logi\LogiPluginService\Logs\plugin_logs\SPAD.log
     ```
 
-The source code of the SPAD.neXt Loupedeck plugin is open source and can be found on the [SPAD.neXt Github](https://github.com/orgs/SPAD-neXt/repositories)
+The source code of the SPAD.neXt Loupedeck plugin is open source and can be found on the [SPAD.neXt Github](https://github.com/orgs/SPAD-neXt/repositories). Pullrequests are welcome if you update the code to a later Loupedeck version.
