@@ -15,6 +15,14 @@ Add a vDeck in Settings->Devices->Virtual Devices
 * It behaves exactly like a streamdeck
 * Click on the detach button to open it as a web device
 * For remote access open "http://`ipofSPAD`:28001/VDCK0001.html" in a browser
+* Note: `ipofSPAD` is the IP address the computer running spad is on.  This is not 127.0.0.1 that is the localhost ip address only accessible to applicaitons running locally on the machine
+  * ### How to Find PC IP - Command Prompt
+    1. Press **Windows key + R**
+    2. Type **`cmd`** and press **Enter**
+    3. In the black window, type `ipconfig` and press **Enter**
+    4. Look for:
+       * **IPv4 Address** → This is your computer’s local IP address\
+         (Example: `192.168.1.15`)
 
 ## Customization
 
