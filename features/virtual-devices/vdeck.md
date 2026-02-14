@@ -5,7 +5,7 @@ description: vDeck - virtual Streamdeck
 # vDeck
 
 {% hint style="danger" %}
-Note: SPAD.neXt uses the Windows built-in web-access methods to expose the vdeck to your network. To be able to access a virtual device from another computer in your network, you need to open the port 28001 in your firewall for your local network. (Not just SPAD.neXt.exe! The port must be open!)
+Note: SPAD.neXt uses the Windows built-in web-access methods to expose the vdeck to your network. To be able to access a virtual device from another computer in your network, you need to open TCP port 28001 in your firewall for your local network. (Not just SPAD.neXt.exe! The port must be open!)
 {% endhint %}
 
 (Work in Progress)
