@@ -66,6 +66,7 @@ The 24V power connection is required for daisy chaining
 * Alpha (generic Joystick UI)
 * Bravo
 * Charlie (generic Joystick UI)
+* Sierra (generic Joystick UI)
 
 ## Loupedeck
 
@@ -157,7 +158,7 @@ Saitek has been acquired by Logitech and all devices will be renamed. This docum
 
 ## Skalarki
 
-* HOMELine: All devices (\*)
+* HOMELine/Desktopline: All devices (\*)
 * PROLine: All devices (\*)
 
 ## Thrustmaster
@@ -199,7 +200,7 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 * Overhead 737 (\*)
 * Overhead A320 (\*)
 * CDU 3 (SPAD.neXt driven display complete edition only)
-* ProPt
+* ProPt, uProPt
 
 ## WingFlex
 

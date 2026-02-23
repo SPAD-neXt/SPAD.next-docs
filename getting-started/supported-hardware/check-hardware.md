@@ -18,6 +18,10 @@ For Saitek Multipanel/Radiopanel/Switchpanel:
 
 * [ ] You can download the old Saitek Testapplication [here](https://spadnext.com/download/SaitekDeviceTesters.zip)
 
+For Midi devices:
+
+* [ ] Check the functionallity [here](https://hardwaretester.com/midi)
+
 For other devices:
 
 * [ ] Close any FligthSim and open SPAD.neXt
