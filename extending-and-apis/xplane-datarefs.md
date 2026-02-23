@@ -1,6 +1,10 @@
 # X-Plane Datarefs & Commands
 
-Unfortunatelay there is no standard way in X-Plane for dev's to add data and commands to an aircraft, so every dev is doing it difrently, and there is no way for SPAD.neXt to query for those data, as it is in other sims, without knowing about it.
+{% hint style="info" %}
+Since version 0.9.24 SPAD.neXt will scan for datarefs and commands automatically for X-Plane 12, if X-Plane and SPAD.neXt are running on the same computer and it is not necessary anymore to create datarefs.txt/commands.txt files.
+{% endhint %}
+
+Unfortunately there is no standard way in X-Plane to add data and commands to an aircraft, so every aircraft developer is doing it differently, and there is no way for SPAD.neXt to query those for X-Plane versions < 12
 
 ## Scanning for Datarefs
 
@@ -11,15 +15,15 @@ Install it as a plugin.\
 Then start X-Plane, load the aircraft.\
 After exiting X-Plane there will be a X-Plane/preferences/output/drt\_last\_run\_datarefs.txt and one for commands which should list all the aircraft ones.\
 \
-The files have to be moved to the aircraft folder (see bleow) and be renamed.
+The files have to be moved to the aircraft folder (see below) and be renamed.
 
 ## Adding the datarefs and commands locally.&#x20;
 
-Those are only available for the lcoal installation
+Those are only available for the local installation
 
 ### Commands
 
-Create a file "commands.txt" in the directory of the ACF-File of the targeted aircraft. List all commands you wan to expose to SPAD.neXt in this file. The Format of the File is the same as teh standard X-Plane commands.txt you can find in "X-Plane 11\Resources\plugins"
+Create a file "commands.txt" in the directory of the ACF-File of the targeted aircraft. List all commands you wan to expose to SPAD.neXt in this file. The Format of the File is the same as the standard X-Plane commands.txt you can find in "X-Plane 11\Resources\plugins"
 
 Format:
 
@@ -50,10 +54,10 @@ unit = the unit that dataref is in. This is used as a hint for SPAD.neXt to offe
 
 Limits: \
 \* arrays are limited to 140 for performance reasons.\
-\* if a dataref is not yet known to X-Plane when the plane is loaded, the SPAD.neXt plugin will retry to find it regulary and announce it to SPAD.neXt
+\* if a dataref is not yet known to X-Plane when the plane is loaded, the SPAD.neXt plugin will retry to find it regularly and announce it to SPAD.neXt
 
 Both files will be read by the X-Plane plugin when the aircraft is loaded.
 
 ## Contributing Datarefs to SPAD.neXt
 
-You can publish the collected datrefs and commands to SPAD.neXt for global availbilty via the online services menu.
+You can publish the collected datrefs and commands to SPAD.neXt for global availability via the online services menu.

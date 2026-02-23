@@ -17,9 +17,6 @@
   * iRacing
   * Train Sim World
   * Run8
-* Supported Simulation-Connection Methods:
-  * Microsoft's ESP SimConnect interface (FSX/FSW/P3D/MSFS)
-  * Pete Dowson's FSUIPC, available from [http://www.schiratti.com/dowson.html](http://www.schiratti.com/dowson.html) (freeware is sufficient),
 * For some simulations a specific plugin needs to be installed.&#x20;
 
 Important:
@@ -27,6 +24,6 @@ Important:
 Due to Windows security restrictions, SPAD.neXt and the simulation must be run with the same credentials. So, if you run the simulation as administrator you will have to do so as well for SPAD.neXt.
 
 {% hint style="danger" %}
-For SPAD.neXt to operate correctly in background the Windows Game Mode must be disabled curently.
+For SPAD.neXt to operate correctly in background the Windows Game Mode must be disabled currently.
 {% endhint %}
 

@@ -7,9 +7,7 @@ Other API's available:
 Allows complete remote management and image rendering onto FIP devices just like the Saitek DirectOutput Interface, but without the limitations (queing of device updates) with up to 17 fps.\
 For specs please contact support@spadnext.com
 
-#### Custom Device
 
-see Device Interface: WebSocket Interface
 
 
 
