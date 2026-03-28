@@ -77,9 +77,13 @@ Updating the CDU Font is currently not supported. Update the font using SimAppPr
 ## Embedded Codes
 If you program your own CDU pages in SPAD.neXt you can use embedded codes to control the formatting.
 Defaults: Background is black , Big font
+
 Embedded codes start with ```{tag}``` and will aply to the following text until an ```{end}``` is found. 
+
 Embedded codes can be stacked.
+
 ```{tag}text{end}```
+
 ```{white}SPAD.{small}ne{end}{red}X{end}{small}t{end}{end}```
 SPAD.neXt
 
@@ -95,7 +99,12 @@ Colors:
  {black}
  {gray}
  {yellow}
- 
+
+Other:
+
  {rev} - switch background and foreground
+ 
  {small} - small font
+ 
  {inop} - inoperable entry
+ 
