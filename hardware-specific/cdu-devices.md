@@ -17,7 +17,7 @@ All CDU devices are a complete edition feature
 * FlyByWire - SimBridge must be running
 * FsLabs
 * iFLY 737
-* Inibuilds A340 (MSFS 2024 Only)
+* Inibuilds A300 / A340 (MSFS 2024 Only)
 * MaddogX
 * PMDG - All aircraft. [SDK must be enabled](../getting-started/untitled/simulation-specifc-steps/msfs-enable-pmdg-data-access.md)
 * TFDI MD11/B717
@@ -74,3 +74,28 @@ WinCTRL CDU Devices must be configured in SimAppPro as CAPTAIN, you can select t
 
 Updating the CDU Font is currently not supported. Update the font using SimAppPro
 
+## Embedded Codes
+If you program your own CDU pages in SPAD.neXt you can use embedded codes to control the formatting.
+Defaults: Background is black , Big font
+Embedded codes start with ```{tag}``` and will aply to the following text until an ```{end}``` is found. 
+Embedded codes can be stacked.
+```{tag}text{end}```
+```{white}SPAD.{small}ne{end}{red}X{end}{small}t{end}{end}```
+SPAD.neXt
+
+Colors:
+ {white}
+ {cyan}
+ {green}
+ {magenta}
+ {amber}
+ {red}
+ {blue}
+ {darkgreen}
+ {black}
+ {gray}
+ {yellow}
+ 
+ {rev} - switch background and foreground
+ {small} - small font
+ {inop} - inoperable entry
