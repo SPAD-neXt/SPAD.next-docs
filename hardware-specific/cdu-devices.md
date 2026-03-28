@@ -27,7 +27,7 @@ All CDU devices are a complete edition feature
       * Citation CJ4 - Working Title (This is the Default CJ4 since 2020 AAU1)
       * FFX P180 v2.0.3 (Read dementedmonkey mod instructions about additional package installation process) - Also Remove z-lim-ffx-cdu mods as no longer needed.
       * FFX C750 v1.3.9 - Also Remove z-lim-ffx-cdu mods as no longer needed.
-    * **MSFS 2020 Supported Aircraft**
+    * **MSFS 2020 Supported Aircraft:**
       * 737 Max 8 - Asobo (Default Sim Plane)
       * Citation CJ4 - Working Title (Default Sim Plane - WT21v2)
       * C90 King Air - MS/Carenado (Default Sim Plane - WT21v2)
