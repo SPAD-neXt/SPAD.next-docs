@@ -25,14 +25,14 @@ All CDU devices are a complete edition feature
   * [Download Link to DM Github](https://github.com/dementedmonkey/cj4-mcdu)
     * **MSFS 2020 Supported Aircraft**:
       * Citation CJ4 - Working Title (This is the Default CJ4 since 2020 AAU1)
-      * FFX P180 v2.0.3 (Read dementedmonkey mod instructions about additional package installation process) - Also Remove z-lim-ffx-cdu mods as no longer needed.
-      * FFX C750 v1.3.9 - Also Remove z-lim-ffx-cdu mods as no longer needed.
+      * FFX P180 v2.0.3 (Read dementedmonkey mod instructions about additional package installation process) - Remove any z-lim-ffx-cdu mods
+      * FFX C750 v1.3.9 - Remove any z-lim-ffx-cdu mods
     * **MSFS 2024 Supported Aircraft:**
       * 737 Max 8 - Asobo (Default Sim Plane)
       * Citation CJ4 - Working Title (Default Sim Plane - WT21v2)
       * C90 King Air - MS/Carenado (Default Sim Plane - WT21v2)
-      * FFX C750 v1.3.9 (Still using the v1 Avionics Fork)\
-        FFX P180  v2.1.9 (WT21v2) note - 2020 version of P180 no longer supported in 2024<br>
+      * FFX C750 v1.3.9 (Still using the v1 Avionics Fork) - Remove any z-lim-ffx-cdu mods
+      * FFX P180 v2.1.9 (WT21v2) - Remove any z-lim-ffx-cdu mods<br>
 
 ### FSX/P3D
 
