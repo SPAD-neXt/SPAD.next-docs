@@ -102,6 +102,7 @@
   * [Spad.neXt Gets its Type Rating](simulations/x-plane/helping-spad-help-you.md)
   * [Dataref vs. Command: Know Your Copilots](simulations/x-plane/dataref-vs.-command-know-your-copilots.md)
   * [Basic Flight Controls – Axis Setup](simulations/x-plane/basic-flight-controls-axis-setup.md)
+  * [Basic Flight Controls - Button Setup](simulations/x-plane/basic-flight-controls-button-setup.md)
 * [P3d and FSX](simulations/p3d-and-fsx.md)
 * [Other Simulations](simulations/other-simulations.md)
 
