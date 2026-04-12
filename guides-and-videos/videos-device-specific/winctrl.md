@@ -27,9 +27,6 @@ Maximize your PAP3 MCP usage!  Using SPAD.neXt we can control the Autopilot syst
 
 PMDG 737 introduces a new FANS2/B layout configuration.  In this video we will show you how to find the PMDG Switch Numbers and Turn them into Rotor Brake Events. &#x20;
 
-Just like other events (cabin door or the Headset Sound) that have not been added to the PMDG SDK with release we can use the Rotor Brake Events directly.  With PMDG — Send Events and Read Variables!!  We use the WinCTRL PAP7 as the example hardware but this will work with any supported CDU\
-[https://youtu.be/D3GEHB1VoM0](https://youtu.be/D3GEHB1VoM0)
+Just like other events (cabin door or the Headset Sound) that have not been added to the PMDG SDK with release we can use the Rotor Brake Events directly.  With PMDG — Send Events and Read Variables!!  We use the WinCTRL PAP7 as the example hardware but this will work with any supported CDU
 
-
-
-<br>
+{% embed url="https://youtu.be/D3GEHB1VoM0" %}
