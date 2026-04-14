@@ -87,17 +87,9 @@ Logitech Switch Panel - Download a SNIPPET for the C172 and then we walk through
 Setup the Logitech Switch Panel and Learn about the Event Monitor!
 {% endembed %}
 
-Working with the Data Monitor and how to use it monitor data changes from cockpit elements.  Additionally using it to change the data in the sim to see if that data will trigger events as well :)
+Updated for Version 0.9.24.23+.  How to use the Data Monitor Tool in SPAD.neXt to find and view Variables including L:VARs.  Video also leverages the MSFS Dev Mode Behavior tool to quickly identify Syntax and Variables to then Add to the Data Monitor.  Learn how to Update LVARs and Undock the monitor to make short work of your bindings.  Fenix A320 FCU/EFIS examples in the video.
 
-{% embed url="https://youtu.be/DgPO4D4pyCs" %}
-Use the Data Monitor to READ and WRITE Sim Variables
-{% endembed %}
-
-Version 0.9.12 and Newer Data Monitor Usage.  We use the HJet as a case study to locate a couple of LVARs via Sorting of Columns and Search.  Also covered is how you make a "toggle" button for LVARs!
-
-{% embed url="https://youtu.be/CqQZWA8NVIs" %}
-Data Monitor Update and HJet LVAR examples
-{% endembed %}
+{% embed url="https://youtu.be/c1EQBE3663A" %}
 
 
 
