@@ -41,7 +41,7 @@ What is a Profile?
 
 3rd Installment is all about understanding Buttons, Encoders, Rotary Position Switches, Toggle Switches and even Rotary Dial modes for Joysticks....  "Generic" Joysticks can apply different Modes and Event Types to the "HID Button".  SPAD.neXt supercharges the capabilities of what you can do with the assignments vs using default sim binding system.  We will use the Fenix and show how to find the Variables and map examples of each!
 
-[https://youtu.be/9ZjXxk6yWu0](https://youtu.be/9ZjXxk6yWu0)<br>
+{% embed url="https://youtu.be/9ZjXxk6yWu0" %}
 
 
 
