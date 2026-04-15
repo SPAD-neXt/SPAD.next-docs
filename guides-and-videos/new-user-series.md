@@ -39,17 +39,11 @@ The 2nd installment in the New User series. Profiles.... Let's make sure our Pro
 What is a Profile?
 {% endembed %}
 
-3rd Installment is all about understanding Button and Switch modes for Joysticks....  This is only for users still using v0.9.11 or OLDER!!  If you are running v0.9.12 or higher skip this for the next video.
+3rd Installment is all about understanding Buttons, Encoders, Rotary Position Switches, Toggle Switches and even Rotary Dial modes for Joysticks....  "Generic" Joysticks can apply different Modes and Event Types to the "HID Button".  SPAD.neXt supercharges the capabilities of what you can do with the assignments vs using default sim binding system.  We will use the Fenix and show how to find the Variables and map examples of each!
 
-{% embed url="https://youtu.be/m-XUUa9ZoMQ" %}
-Buttons / Switches and the Modes
-{% endembed %}
+[https://youtu.be/9ZjXxk6yWu0](https://youtu.be/9ZjXxk6yWu0)<br>
 
-With Version 0.9.12.x and greater we now have a new implementation to the Button Modes.  All Three Pushbutton / Simple Pushbutton and Switch can be accomplished with the "Pushbutton" Mode.  plus some new elements and tweaks like the "Change Trigger" to edit button trigger type will save more time!
 
-{% embed url="https://youtu.be/BzRh5a0EpRg" %}
-v0.9.12.x+ Button Modes Explained
-{% endembed %}
 
 4th Installment - Axis Assignments.  What is the difference between Standard and Custom Axis along with how to use the features in the Custom Axis.. For Version 0.9.12 and previous .. See Next Video for Axis Capability in version 0.9.13
 
