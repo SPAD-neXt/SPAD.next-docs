@@ -50,7 +50,7 @@ Make sure there is a newline/empty line after the last entry in the ini file and
   If it's not connected check the ini file, also make sure that you restarted MSFS at went beyond the  "ready to fly" screen after making any changes to the pmdg ini files.
 * [ ] Always 3 green!
 
-All SDK Data and events are referenced in SPAD.neXt in the  "PMDG 737 NGXu" (PMDGNG3) category nad is **read-only**. To make any changes use the PMDG Events.
+All SDK Data and events are referenced in SPAD.neXt in the  "PMDG 737 NGXu" (PMDGNG3) category and is **read-only**. To make any changes use the PMDG Events.
 
 {% hint style="danger" %}
 
