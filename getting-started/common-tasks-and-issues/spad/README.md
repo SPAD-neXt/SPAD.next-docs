@@ -49,3 +49,11 @@ If the signature is intact, you need to update you Windows Defender virus databa
 
 If the signature is **not** intact. Delete the file immediately and report to support@spadnext.com\
 If in doubt, you can always submit the file to Microsoft for analysis.
+
+## Bitdefender claiming Infection
+
+From time to time Bitdefender changes its detection startegies and might flag some required components of SPAD.neXt as infected and refuses to load them, which might result in SPAD.neXt crashing or malfunctioning.
+
+It will take some time until those components are whitelisted by Bitdefender again.
+
+Only known workaround, apart from submitting a ticket to Bitdefender and report a false-positive and wait for them to react, is to define a Bitdefender exclusion for SPAD.neXt installation directory.
