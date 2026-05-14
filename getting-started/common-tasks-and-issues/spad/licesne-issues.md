@@ -2,13 +2,15 @@
 
 ### Lost license information
 
-* For licences bought before 12.11.2016 via SimMarket , simply login into your simmarket account at [https://secure.simmarket.com](https://secure.simmarket.com/) . Your license information is listed there.
-* For licenses bought after 12.11.2016 via Avagate/2Checkout, you can login into you customer asccount at [https://secure.2co.com/myaccount/](https://secure.2co.com/myaccount/) to see you order history and license information.
+* For licenses bought **after 12.11.2016** via Avagate/2Checkout, you can login into you customer asccount at [https://secure.2co.com/myaccount/](https://secure.2co.com/myaccount/) to see you order history and license information.
+* For licences bought **before 12.11.2016** via SimMarket , simply login into your simmarket account at [https://secure.simmarket.com](https://secure.simmarket.com/) . Your license information is listed there.
 * **If you have linked your license on the SPAD.neXt community Discord, you can ask the bot about your license details using the "!licinfo" command.**\
   \
   If this does not help, open a ticket from within SPAD.neXt to request your license information and attach a proof of purchase for the license. (Important: Mark it as license issue!)\
   \
-  if you cannot start SPAD anymore, open a ticket via email (support at spadnext.com) from the email you used to purchase SPAD.neXt. If provide your ordernumber or a proof of purchase.
+  If you cannot start SPAD anymore, open a ticket via email (support at spadnext.com) from the email you used to purchase SPAD.neXt. Providing your ordernumber and a proof of purchase will speed up the process.
+
+  If you do not have access anymore to the email address you purchased SPAD.neXt from, a proof of purchase is mandatory to have it re-assigned.
 
 ### "There is a Problem with your license, please contact support"
 
