@@ -1,0 +1,22 @@
+# License Issues
+
+### Lost license information
+
+* For licenses bought **after 12.11.2016** via Avagate/2Checkout, you can log in to your customer account at [https://secure.2co.com/myaccount/](https://secure.2co.com/myaccount/) to see your order history and license information.
+* For licences bought **before 12.11.2016** via SimMarket , simply log in to your simmarket account at [https://secure.simmarket.com](https://secure.simmarket.com/) . Your license information is listed there.
+* **If you have linked your license on the SPAD.neXt community Discord, you can ask the bot about your license details using the "!licinfo" command.**\
+  \
+  If this does not help, open a ticket from within SPAD.neXt to request your license information and attach a proof of purchase for the license. (Important: Mark it as license issue!)\
+  \
+  If you cannot start SPAD anymore, open a ticket via email (support at spadnext.com) from the email you used to purchase SPAD.neXt. Providing your order number and a proof of purchase will speed up the process.
+
+  If you do not have access anymore to the email address you purchased SPAD.neXt from, a proof of purchase is mandatory to have it re-assigned.
+
+### "There is a Problem with your license, please contact support"
+
+If your SPAD.neXt installation all of the sudden complains about a license problem, this is normally caused by a Windows update changing vital information.
+
+* Delete the file %APPDATA%\SPAD.neXt\SPAD.neXt.lic
+* SPAD.neXt will start in trial mode and allows you to re-enter your license information
+* if it still complains contact support@spadnext.com
+

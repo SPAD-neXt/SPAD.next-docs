@@ -6,7 +6,7 @@ Some of those chipset require a special treatment (notably the fake CH340 chipse
 
 <figure><img src="../.gitbook/assets/grafik (1) (1).png" alt=""><figcaption><p>Serial Device Configuration</p></figcaption></figure>
 
-Select the appropiate Port and Protocol. For some protocols (e.g. VRInsight) no options will be available.
+Select the appropriate Port and Protocol. For some protocols (e.g. VRInsight) no options will be available.
 
 ### Speed
 

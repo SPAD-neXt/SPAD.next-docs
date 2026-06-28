@@ -4,7 +4,7 @@ description: Videos Focused on the PMDG 737 for MSFS
 
 # PMDG 737 (MSFS)
 
-PMDG SDK must be enabled for each PMDG aircraft in MSFS. See [here](../../getting-started/untitled/simulation-specifc-steps/msfs-enable-pmdg-data-access.md) for detais.
+PMDG SDK must be enabled for each PMDG aircraft in MSFS. See [here](../../getting-started/untitled/simulation-specific-steps/msfs-enable-pmdg-data-access.md) for details.
 
 Please remember PMDG Simulation Events work **exactly** like the cockpit. \
 Use the "PMDG Special Actions" to do with the event what you would do in cockpit with the mouse! Events from the Category **PMDG 737 NGXu** must be used.

@@ -9,10 +9,10 @@
 * [Supported hardware](getting-started/supported-hardware/README.md)
   * [Check Hardware](getting-started/supported-hardware/check-hardware.md)
 * [Installation](getting-started/untitled/README.md)
-  * [Simulation Specifc Steps](getting-started/untitled/simulation-specifc-steps/README.md)
-    * [SimConnect Configuration](getting-started/untitled/simulation-specifc-steps/simconnect-configuration.md)
-    * [MSFS: Enable PMDG data access](getting-started/untitled/simulation-specifc-steps/msfs-enable-pmdg-data-access.md)
-    * [X-Plane Configuration](getting-started/untitled/simulation-specifc-steps/x-plane-configuration.md)
+  * [Simulation Specific Steps](getting-started/untitled/simulation-specific-steps/README.md)
+    * [SimConnect Configuration](getting-started/untitled/simulation-specific-steps/simconnect-configuration.md)
+    * [MSFS: Enable PMDG data access](getting-started/untitled/simulation-specific-steps/msfs-enable-pmdg-data-access.md)
+    * [X-Plane Configuration](getting-started/untitled/simulation-specific-steps/x-plane-configuration.md)
 * [First Start](getting-started/first-run-the-configuration-wizard/README.md)
   * [Configuration Wizard](getting-started/first-run-the-configuration-wizard/configuration-wizard.md)
 * [SPAD.neXt discord community](getting-started/common-tasks-and-issues/spad/spad.next-discord-community.md)
@@ -21,12 +21,12 @@
     * [Online Services](getting-started/common-tasks-and-issues/spad/online-services.md)
     * [Fresh reinstall](getting-started/common-tasks-and-issues/spad/fresh-reinstall.md)
     * [Move SPAD.neXt to new Computer](getting-started/common-tasks-and-issues/spad/move-spad.next-to-new-computer.md)
-    * [License Issues](getting-started/common-tasks-and-issues/spad/licesne-issues.md)
+    * [License Issues](getting-started/common-tasks-and-issues/spad/license-issues.md)
     * [SPAD.neXt discord community](/broken/pages/jdmKH4J8AxdysF02mbcn)
   * [MSFS Specific Topics](getting-started/common-tasks-and-issues/msfs-specific-topics.md)
   * [X-Plane specific Topics](getting-started/common-tasks-and-issues/x-plane-specific-topics.md)
   * [Saitek/Logitech MP/RP blinking](getting-started/common-tasks-and-issues/saitek-logitech-mp-rp-blinking.md)
-  * [USB Powermanagement](getting-started/common-tasks-and-issues/usb-powermanagement.md)
+  * [USB Power Management](getting-started/common-tasks-and-issues/usb-power-management.md)
 
 ## Guides and Videos
 
@@ -171,7 +171,7 @@
 ## FAQ
 
 * [General FAQ](faq/untitled.md)
-* [MSFS: Lost profile aircraft assigments](faq/msfs-lost-profile-aircraft-assigments.md)
+* [MSFS: Lost profile aircraft assignments](faq/msfs-lost-profile-aircraft-assignments.md)
 
 ## Changes
 
@@ -183,7 +183,7 @@
 
 ***
 
-* [Glossar](glossar.md)
+* [Glossary](glossary.md)
 
 ## Old-Docs
 

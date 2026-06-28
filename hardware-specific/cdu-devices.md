@@ -19,7 +19,7 @@ All CDU devices are a complete edition feature
 * iFLY 737
 * Inibuilds A300 / A340 (MSFS 2024 Only)
 * MaddogX
-* PMDG - All aircraft. [SDK must be enabled](../getting-started/untitled/simulation-specifc-steps/msfs-enable-pmdg-data-access.md)
+* PMDG - All aircraft. [SDK must be enabled](../getting-started/untitled/simulation-specific-steps/msfs-enable-pmdg-data-access.md)
 * TFDI MD11/B717
 * z-dementedmonkey Mod (v0.10.0 March 2026) SPAD.neXt v0.9.24 required
   * [Download Link to DM Github](https://github.com/dementedmonkey/cj4-mcdu)

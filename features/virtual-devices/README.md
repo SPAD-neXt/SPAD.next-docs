@@ -4,7 +4,7 @@ SPAD.neXt offers some virtual devices, which can be opened in a web browser.\
 Those devices behave exactly like the physical devices, just that you have to "press" buttons using the mouse or touchpad.
 
 {% hint style="warning" %}
-Virtual Devices is an extended feature and seperately licensed. Either the complete edition of SPAD.neXt or the vFIP Addon is needed.
+Virtual Devices is an extended feature and separately licensed. Either the complete edition of SPAD.neXt or the vFIP Addon is needed.
 {% endhint %}
 
 [vFIP - virtual FIP](vfip.md)

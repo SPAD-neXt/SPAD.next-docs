@@ -90,7 +90,7 @@ Please read the [functions](functions.md) page for details.
 
 ### Simulation Data
 
-You can reference any data available by enclosing teh datareference in `[]`
+You can reference any data available by enclosing the datareference in `[]`
 
 ```
   2 + [x]

@@ -17,7 +17,7 @@ Syntax: 0,PROFILE,\<SourceType>,\<id>
 | 2 | \<ID> will contain one snippet-id of a device snippet to load from SPAD.neXt online database. Any existing device profile in currently loaded SPAD.neXt profile will be **overwritten**.    |
 | 3 | \<ID> will contain an url that will be downloaded. The url must return a valid SPAD.neXt device profile. If the url is not reachable or invalid, no default profile will be loaded/offered. |
 
-To provide more than one snippet-id for the user to choose from, seperate the id's by `#`\
+To provide more than one snippet-id for the user to choose from, separate the id's by `#`\
 `e.g. 123#456#12345`
 
 {% hint style="info" %}
