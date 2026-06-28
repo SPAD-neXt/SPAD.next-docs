@@ -22,5 +22,5 @@ Unique Identifier identifying the gauge. It should follow the GUID-Registryforma
 
 AuthorId
 
-Your AuthorId. You can get it by sendign the command `!deviceinfo` to teh SPAD.neXt Bot on the community discord.
+Your AuthorId. You can get it by sending the command `!deviceinfo` to the SPAD.neXt Bot on the community discord.
 

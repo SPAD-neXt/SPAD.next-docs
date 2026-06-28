@@ -1,7 +1,7 @@
-# MSFS: Lost profile aircraft assigments
+# MSFS: Lost profile aircraft assignments
 
 * exit SPAD.neXt
-* open windows file exlorer and navigate to %APPDATA%/SPAD.neXt/conf
+* open Windows File Explorer and navigate to %APPDATA%/SPAD.neXt/conf
 * delete AircraftAssignments\_MSFS.xml
 * copy AircraftAssignments\_FSX.xml to AircraftAssignments\_MSFS.xml
 * edit AircraftAssignments\_MSFS.xml in notepad

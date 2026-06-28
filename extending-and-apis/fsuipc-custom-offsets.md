@@ -26,8 +26,8 @@ ValueType + Size = One of
 * FLT32 = Float , size = 4
 * FLT64 = Double , size = 8
 
-Category = Main Category in Definition Brower (frist tree level)\
-SubCategory = Sub Category in Definition Brower (second tree level). If more levels needed, seperate by "##"\
+Category = Main Category in Definition Browser (first tree level)\
+SubCategory = Sub Category in Definition Browser (second tree level). If more levels needed, separate by "##"\
 Access = R -> Readony , RW -> Read/write , R will not be offered in e.g. Change Data value\
 Usage = Information shown in browser/mouseover. BBCode tags can be used here.\
 Key = FSUIPC Offset in HEXADECIMAL as long HI-DWord:LO-Dword , usually HI-DWord should be 0000. Must always be formatted 000:0000 . Special: if the Offset represent just a BIT in a Value the Key is 0000:0000:BITNUMBER , an offsetentry for the main offset with Selectable="false" must exist then.\

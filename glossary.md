@@ -1,4 +1,4 @@
-# Glossar
+# Glossary
 
 ## SimConnect
 

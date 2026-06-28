@@ -2,7 +2,7 @@
 description: Devices stop reacting / Displays stay blank after a while
 ---
 
-# USB Powermanagement
+# USB Power Management
 
 Windows is putting the devices to sleep... So after you start spad and it runs and sees the devices... eventually they go to sleep when there is no interaction with them for a while...&#x20;
 

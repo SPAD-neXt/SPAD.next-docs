@@ -13,6 +13,6 @@
 
 
 {% hint style="danger" %}
-Make sure [USB Powermanagement](../getting-started/common-tasks-and-issues/usb-powermanagement.md) is turned of for all used USB Devices and the HUB/Root-Ports they are connected to.\
+Make sure [USB Power Management](../getting-started/common-tasks-and-issues/usb-power-management.md) is turned off for all used USB Devices and the HUB/Root-Ports they are connected to.\
 Also make sure USB Sleep mode is disabled in the Windows Energy Profile
 {% endhint %}

@@ -13,7 +13,7 @@ Request and reply on both sides will follow this format:
 {% hint style="success" %}
 Thoughout the description of the device interface the following syntax will be used:
 
-, is the seperator for parameters
+, is the separator for parameters
 
 ; is the terminator of a command
 

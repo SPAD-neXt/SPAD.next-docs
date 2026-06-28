@@ -9,7 +9,7 @@ Since there is no longer a forum for asking general question or getting a helpin
 After the [Video-Guides](/broken/pages/aYClQrytxtoIoRs8EpSv) , the discord is the first stop ressource for any questions or problems.
 
 {% hint style="info" %}
-Please note: The SPAD:neXt discord community is not a service run or maintained by SPAD.neXt. It's a seperate (free) product, which is used as tool.
+Please note: The SPAD:neXt discord community is not a service run or maintained by SPAD.neXt. It's a separate (free) product, which is used as tool.
 {% endhint %}
 
 ## Joining the Discord Community
@@ -28,14 +28,14 @@ This is the channel where you can ask general questions and our community expert
 * Exit SPAD.neXt
 * open the SPAD.neXt Discord
 * On top of the users list (right side) you will see the "SPAD.neXt Bot" \
-  (If you do not see the users list open it up with the Memberlist icon right next to teh serach box upper right)\
+  (If you do not see the users list open it up with the Memberlist icon right next to the search box upper right)\
   ![](../../../.gitbook/assets/grafik.png)
 * Right-Click it and select "Message" to open a direct conversation with the bot![](<../../../.gitbook/assets/grafik (1).png>)
 * enter `!link YOURORDERID` as message to him (Replace YOURORDERID with your actual Order/LicenseID. This is **not** the activation code! It's a 8-12 digit number)
 * You will receive an email from the bot with the final command to link your license. This is to ensure a valid email is tied to the license in case we ever need to contact you. (No other data than your email and name is stored by SPAD.neXt)
 * Copy the command from the email (should be something like `!link YOURORDERID-XXXX`
 * Enter it in the direct conversation with the bot. The bot will tell you if it was successful
-* If sucessfull you should see all the registered-only channels in the SPAD.neXt discord now
+* If successful you should see all the registered-only channels in the SPAD.neXt discord now
 
 ## Why linking my license?
 

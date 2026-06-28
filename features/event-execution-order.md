@@ -26,4 +26,4 @@ b) Condition: VALUE less than 10
 Now, if VALUE is _5_ , all is fine, only b) will be executed, as only the condition `VALUE < 10` matches and the plate turns red
 
 Now, if VALUE is _0_ , you have a problem since first a) and then b) will be executed, as both conditions are true. This results in the plate turning red, where it should be off.\
-If you set “End Processing” on a) to ON , b) will no longer be executed if a) already matched. So in this testcase the plate will be turned off, as expected.
+If you set “End Processing” on a) to ON , b) will no longer be executed if a) already matched. So in this test case the plate will be turned off, as expected.

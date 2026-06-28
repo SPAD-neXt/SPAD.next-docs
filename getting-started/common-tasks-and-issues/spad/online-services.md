@@ -15,7 +15,7 @@ If your SPAD.neXt update subscription is expired, you can only access snippets a
 
 Most likely your update subcription has expired or you are using an outdated version of SPAD.neXt which is no longer supported.
 
-### "Online Services not available" when accssing Online Snippets
+### "Online Services not available" when accessing Online Snippets
 
 Please check the time synchronization on your computer. \
 Due to heavy attacks to our services we had to increase the security, and requests with an invalid/outdated timestamp will be rejected. \
