@@ -175,6 +175,7 @@
 
 ## Changes
 
+* [26.7.0](changes/26.7.0.md)
 * [0.9.24](changes/0.9.24.md)
 * [0.9.23](changes/0.9.23.md)
 * [0.9.21](changes/0.9.21.md)
