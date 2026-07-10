@@ -10,12 +10,13 @@ All hardware marked with (\*) requires the SPAD.neXt complete edition
 
 Directly supported with custom UI:
 
-## Arduino / Custom devices
+## Arduino / Serial / Custom devices
 
 * SPAD.neXt Serial Protocol v1
 * SPAD.neXt Serial Protocol v2
 * USB-HID Joystick Library (Standard Joystick UI)
-
+* Mobiflight devices that do not require a custom mfmc configuration
+  
 ## Cockpit-Simulator / Cockpitmaster
 
 {% hint style="info" %}
@@ -47,6 +48,7 @@ The 24V power connection is required for daisy chaining
 * Stream Deck – 15 Buttons (\*)
 * Stream Deck MK.2 – 15 Buttons (\*)
 * Stream Deck XL – 32 Buttons (\*)
+* Stream Deck XL Plus – 36 Buttons, 6 Encoders (\*)
 * Stream Deck Plus – 8 Buttons + 4 Encoders (\*)
 * Stream Deck Neo (\*)
 * Stream Deck Bulk (\*)
@@ -64,7 +66,7 @@ The 24V power connection is required for daisy chaining
 ## Honeycomb
 
 * Alpha (generic Joystick UI)
-* Bravo
+* Bravo/Bravo Lite
 * Charlie (generic Joystick UI)
 * Sierra (generic Joystick UI)
 
@@ -199,12 +201,14 @@ Since Virtual Avionics gone out of business support for the devices is "as it is
 * GPS
 * Overhead 737 (\*)
 * Overhead A320 (\*)
-* CDU 3 (SPAD.neXt driven display complete edition only)
+* CDU 2/3 (SPAD.neXt driven display complete edition only)
 * ProPt, uProPt
 
 ## WingFlex
 
 * A320 FCU Cube&#x20;
+* A320 RMP Cube
+* DAP-500
 
 ## WinCTRL / WinWing
 
@@ -220,5 +224,7 @@ WinWing has been rebranded to WinCTRL recently
 * PAC-32&#x20;
 * AGP
 * ECAM
+* TCAS
+* RMP
 
 &#x20;
