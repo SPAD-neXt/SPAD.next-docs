@@ -53,6 +53,7 @@
   * [vJoy](guides-and-videos/videos-device-specific/vjoy.md)
   * [VRinsight](guides-and-videos/videos-device-specific/videos-vrinsight.md)
   * [WinCTRL](guides-and-videos/videos-device-specific/winctrl.md)
+  * [WINGFLEX](guides-and-videos/videos-device-specific/wingflex.md)
   * [X-Touch MC Mode](guides-and-videos/videos-device-specific/x-touch-mc-mode.md)
   * [X-Touch Midi Mode](guides-and-videos/videos-device-specific/x-touch-midi.md)
 * [Simulation Specific](guides-and-videos/simulation-specific/README.md)
