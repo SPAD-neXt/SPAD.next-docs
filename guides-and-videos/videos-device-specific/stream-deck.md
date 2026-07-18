@@ -54,8 +54,6 @@ Stream Deck Plus Features Explained
 
 Quick Video covering the new "Right Click Functions Menu" to help speed up the editing and creation process of your Stream Deck or Loupedeck configs!
 
-
-
 {% embed url="https://youtu.be/8kAjbEjSZ1U" %}
 Stream Deck Right Click Function Menu
 {% endembed %}
@@ -72,9 +70,16 @@ In this video we show how to use Data to dynamically Animate Images. We use Tran
 
 Expressions in SPAD.neXt are extremely powerful and the Rescale Function is used to easily remap the L:Var to the Rotation value required!
 
-Learn more about available Functions here:\
+Learn more about available Functions here:\
 https://docs.spadnext.com/features/expressions/functions
 
 {% embed url="https://youtu.be/zhMh1gHiIn8" %}
 Animate Images - Button Gauges - Rescale Expression Example
 {% endembed %}
+
+This video we cover many new Stream Deck Features added to SPAD.neXt. We also cover how some of the basics in the Gauge Layer have Improved!! Including Linking much of the base layer directly to data to shorten build times!!
+
+{% embed url="https://youtu.be/1McZjPWjgQg" %}
+
+
+
