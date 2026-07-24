@@ -2,7 +2,8 @@
 
 ## Reset SPAD.neXt license
 
-Delete the file `%APPDATA%\SPAD.neXt\SPAD.neXt.lic`
+Delete the file `%APPDATA%\SPAD.neXt\SPAD.neXt.lic`\ 
+SPAD.neXt will start as trial and you can reenter your license key.
 
 ## How to properly open a Support Ticket
 
@@ -15,6 +16,8 @@ Delete the file `%APPDATA%\SPAD.neXt\SPAD.neXt.lic`
 Note: if for reproducing the problem no simulation connection is needed please do so from a fresh SPAD.neXt start without Simulator running.\
 If simulator is needed do it after a new start not after a over the pond flight\
 It's no joy to gravel through megabytes of unnecessary logfiles if you update the ticket after a 5 hour flight. Processing of such tickets is declined.
+
+If you cannot open the ticket from inside SPAD.neXt send an email to support@spadnext.com and attach the file `%APPDATA%\SPAD.neXt\logs\SPAD.log`
 
 ## Available SPAD.neXt update channels&#x20;
 
