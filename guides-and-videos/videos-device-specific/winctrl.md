@@ -27,6 +27,12 @@ Just like other events (cabin door or the Headset Sound) that have not been adde
 
 {% embed url="https://youtu.be/D3GEHB1VoM0" %}
 
-This Video Guide covers setting up the PAC32 with Addons in SPAD.neXt.  How to download a Device Snippet for it — the example is using the Fenix A320 and even calibration of the axis in the MCDU.  Get the throttles setup and flying in less than 5 minutes!
+This Video Guide covers setting up the PAC32 with Addons in SPAD.neXt. How to download a Device Snippet for it — the example is using the Fenix A320 and even calibration of the axis in the MCDU. Get the throttles setup and flying in less than 5 minutes!
 
 {% embed url="https://youtu.be/PpmNlBhaGWM" %}
+
+In this video we get the MSFS WT747v2 Avionics exporting the CDU DATA.
+
+We use SPAD to configure our hardware and display the WebSocket data on the Screens.
+
+{% embed url="https://youtu.be/Tc4zQvg8sd4" %}
