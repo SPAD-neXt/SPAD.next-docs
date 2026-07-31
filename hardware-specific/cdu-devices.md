@@ -21,6 +21,7 @@ All CDU devices are a complete edition feature
 * MaddogX
 * PMDG - All aircraft. [SDK must be enabled](../getting-started/untitled/simulation-specific-steps/msfs-enable-pmdg-data-access.md)
 * TFDI MD11/B717
+* WT 747v2 (8i Pax & Cargo / Dreamlifter / Tanker) (MSFS 2024 Only) [LiM 747 Plugin Required](https://youtu.be/Tc4zQvg8sd4)
 * z-dementedmonkey Mod (v0.10.0 March 2026) SPAD.neXt v0.9.24 required
   * [Download Link to DM Github](https://github.com/dementedmonkey/cj4-mcdu)
     * **MSFS 2020 Supported Aircraft**:
@@ -36,7 +37,7 @@ All CDU devices are a complete edition feature
 
 ### FSX/P3D
 
-* PMDG - All aircraftt. SDK must be enabled&#x20;
+* PMDG - All aircraftt. SDK must be enabled
 * iFLY
 
 ### X-Plane
@@ -53,15 +54,13 @@ All CDU devices are a complete edition feature
 * FF 767 / 757
 * FF 777v2
 
-
-
 ## CDU Devices with HDMI Interface
 
 To drive CDU devices with a HDMI connector through SPAD.neXt to get access to all extended features without needing to popout a window in the simulator, SPAD.neXt provides a RemoteCDUDisplay-Tool which will popout a customizable window.
 
 You can use snippet #13161 / #13165 for a reference implementation
 
-&#x20;The tool can be found in the SPAD.neXt installation directory in the subfolder Tools/cdu. It can be run on a remote computer if necessary
+The tool can be found in the SPAD.neXt installation directory in the subfolder Tools/cdu. It can be run on a remote computer if necessary
 
 * to run display upon load of a profile create a `profile loaded` event and run the external command "\<spad\_install\_dir>/tools/cdu/RemoteCDUDisplay.exe" or add it to a batch-file
 * To run the display on a remote computer copy tools/cdu to target computer, and start "RemoteCDUDisplay.exe -h=ipOfSPAD -p=28001 -t=`targetid`". To get the targetid open the cdu tool once using SPAD.neXt.
@@ -75,36 +74,23 @@ WinCTRL CDU Devices must be configured in SimAppPro as CAPTAIN, you can select t
 Updating the CDU Font is currently not supported. Update the font using SimAppPro
 
 ## Embedded Codes
-If you program your own CDU pages in SPAD.neXt you can use embedded codes to control the formatting.
-Defaults: Background is black , Big font
 
-Embedded codes start with ```{tag}``` and will aply to the following text until an ```{end}``` is found. 
+If you program your own CDU pages in SPAD.neXt you can use embedded codes to control the formatting. Defaults: Background is black , Big font
+
+Embedded codes start with `{tag}` and will aply to the following text until an `{end}` is found.
 
 Embedded codes can be stacked.
 
-```{tag}text{end}```
+`{tag}text{end}`
 
-```{white}SPAD.{small}ne{end}{red}X{end}{small}t{end}{end}```
-SPAD.neXt
+`{white}SPAD.{small}ne{end}{red}X{end}{small}t{end}{end}` SPAD.neXt
 
-Colors:
- {white}
- {cyan}
- {green}
- {magenta}
- {amber}
- {red}
- {blue}
- {darkgreen}
- {black}
- {gray}
- {yellow}
+Colors: {white} {cyan} {green} {magenta} {amber} {red} {blue} {darkgreen} {black} {gray} {yellow}
 
 Other:
 
- {rev} - switch background and foreground
- 
- {small} - small font
- 
- {inop} - inoperable entry
- 
+{rev} - switch background and foreground
+
+{small} - small font
+
+{inop} - inoperable entry
