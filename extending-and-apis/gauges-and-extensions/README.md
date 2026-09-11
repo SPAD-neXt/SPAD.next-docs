@@ -1,23 +1,24 @@
 ---
-description: SPAD.neXt generally supports ESP compatible gauges
+description: SPAD.neXt generally supports ESP compatible gauges.
 ---
 
 # Gauges and Extensions
 
-Gauges loaded into SPAD.neXt have to match this schema: [`Gauge.xsd`](https://github.com/c0nnex/SPAD.neXt/blob/master/Gauges/gauge.xsd)
+A good first overview about gauges coding can be found [here](https://sub-msy.ssl-lolipop.jp/top/fsx/Creating%20FIP%20Gauges%20making%2006%2012%202015.pdf)\
+Gauges loaded into SPAD.neXt have to match this schema: [`Gauge.xsd`](https://github.com/SPAD-neXt/DemoCode/blob/main/gauge.xsd)
 
 RPN Expressions have to be ESP RPN conform!
 
 SPAD.neXt is generally Saitek/Logitech compatible, but it has **NOT** implemented Saitek Bugs:
 
 Saitek gauges require a Non-Space-Character before a closing brace "}" e.g. in if{ statements:\
-`if{ someexpression`` `<mark style="color:red;">**`%`**</mark>`} els{ someotherexpression`` `<mark style="color:red;">**`%`**</mark>`}`<br>
+` if{ someexpression`` `` `<mark style="color:red;">**`%`**</mark>` } els{ someotherexpression`` `` `<mark style="color:red;">**`%`**</mark>`}`<br>
 
 SPAD.neXt does **not** support this. You will need to alter the gauge accordingly and remove the <mark style="color:red;">**%**</mark>
 
 ### Extensions for (RPN) Expressions
 
-To access any other Data than Simconnect (FSX / P3D / MSFS) use the Dataref-Tag as it is used by SPAD.neXt. Those Datarefs have always the format&#x20;
+To access any other Data than Simconnect (FSX / P3D / MSFS) use the Dataref-Tag as it is used by SPAD.neXt. Those Datarefs have always the format
 
 `RPN Expressions: (PROVIDER:DATREFNAME) or (PROVIDER:DATREFNAME,unit)`\
 `SPAD Expressions: [PROVIDER:DATREFNAME] or [PROVIDER:DATREFNAME,unit]`
@@ -25,7 +26,7 @@ To access any other Data than Simconnect (FSX / P3D / MSFS) use the Dataref-Tag 
 `If the requested unit does not match the datarefs default unit, SPAD.neXt will automatically convert it to the requested unit, if such a conversion is known`
 
 To access LVAR use the prefix **LVAR: (FSX/P3D/MSFS only)**\
-`(LVAR:AB_MCP_AP_ON, Number)`&#x20;
+`(LVAR:AB_MCP_AP_ON, Number)`
 
 To access FSUIPC Offsets use the Prefix **FSUIPC:**\
 (FSUIPC:0000:0AB2, Number)
@@ -51,7 +52,7 @@ Local var , will not be saved, will be initialized to 0 if it does not exist alr
 **DEVICE**:VARNAME\
 Local var, Value will be _DEVICE-specific_, and will be initialized to the saved value again when the gauge is loaded onto that device. (Same varibale has diffrent value son different FIP devices)
 
-P**ROFILE**:VARNAME \
+P**ROFILE**:VARNAME\
 Local var , Value will be saved to the _PROFILE_ , and will be initialized to the saved value again when the profile is loaded<br>
 
 #### Additional Time-Variables
