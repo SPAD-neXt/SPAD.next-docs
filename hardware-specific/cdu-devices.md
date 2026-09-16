@@ -32,8 +32,9 @@ All CDU devices are a complete edition feature
       * 737 Max 8 - Asobo (Default Sim Plane)
       * Citation CJ4 - Working Title (Default Sim Plane - WT21v2)
       * C90 King Air - MS/Carenado (Default Sim Plane - WT21v2)
-      * FFX C750 v1.3.9 (Still using the v1 Avionics Fork) - Remove any z-lim-ffx-cdu mods
-      * FFX P180 v2.1.9 (WT21v2) - Remove any z-lim-ffx-cdu mods<br>
+      * FFX C750 v2.0.2 (WT21v2) - Remove any z-lim-ffx-cdu mods
+      * FFX P180 v2.1.9 (WT21v2) - Remove any z-lim-ffx-cdu mods
+      * FFX 800XP v1.x  - Remove any z-lim-ffx-cdu mods<br>
 
 ### FSX/P3D
 
